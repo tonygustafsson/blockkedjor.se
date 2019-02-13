@@ -1,0 +1,10 @@
+{
+    "markdown": {
+        "typographer": true
+    },
+    "css": ["docs/styles.css"],
+    "googleAnalytics": {
+        "id": "UA-xxx",
+        "domain": "kryptiskt.se"
+    }
+}

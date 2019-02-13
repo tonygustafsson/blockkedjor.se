@@ -1,0 +1,289 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Start",
+        "source": "docs/README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "Målgrupp",
+        "source": "docs/malgrupp.md",
+        "url": "malgrupp.html",
+        "slug": "malgrupp"
+      },
+      {
+        "title": "Blockkedjor",
+        "source": "docs/blockkedjor.md",
+        "url": "blockkedjor.html",
+        "slug": "blockkedjor"
+      },
+      {
+        "title": "Riktad acyklisk graf",
+        "source": "docs/riktad-acyklisk-graf.md",
+        "url": "riktad-acyklisk-graf.html",
+        "slug": "riktad-acyklisk-graf"
+      },
+      {
+        "title": "Smarta kontrakt",
+        "source": "docs/smarta-kontrakt.md",
+        "url": "smarta-kontrakt.html",
+        "slug": "smarta-kontrakt"
+      },
+      {
+        "title": "Ideologi",
+        "source": "docs/ideologi.md",
+        "url": "ideologi.html",
+        "slug": "ideologi"
+      },
+      {
+        "title": "Byteshandlar",
+        "source": "docs/byteshandlar.md",
+        "url": "byteshandlar.html",
+        "slug": "byteshandlar"
+      },
+      {
+        "title": "Trading",
+        "source": "docs/trading.md",
+        "url": "trading.html",
+        "slug": "trading"
+      },
+      {
+        "title": "Skatt",
+        "source": "docs/skatt.md",
+        "url": "skatt.html",
+        "slug": "skatt"
+      },
+      {
+        "title": "Terminologi",
+        "source": "docs/terminologi.md",
+        "url": "terminologi.html",
+        "slug": "terminologi"
+      },
+      {
+        "title": "Kryptovalutor",
+        "sections": [
+          {
+            "title": "Bitcoin",
+            "source": "docs/kryptovalutor/bitcoin.md",
+            "url": "kryptovalutor/bitcoin.html",
+            "slug": "kryptovalutorbitcoin"
+          },
+          {
+            "title": "Ethereum",
+            "source": "docs/kryptovalutor/ethereum.md",
+            "url": "kryptovalutor/ethereum.html",
+            "slug": "kryptovalutorethereum"
+          },
+          {
+            "title": "XRP",
+            "source": "docs/kryptovalutor/xrp.md",
+            "url": "kryptovalutor/xrp.html",
+            "slug": "kryptovalutorxrp"
+          },
+          {
+            "title": "TRON",
+            "source": "docs/kryptovalutor/tron.md",
+            "url": "kryptovalutor/tron.html",
+            "slug": "kryptovalutortron"
+          },
+          {
+            "title": "Stellar",
+            "source": "docs/kryptovalutor/stellar.md",
+            "url": "kryptovalutor/stellar.html",
+            "slug": "kryptovalutorstellar"
+          },
+          {
+            "title": "Cardano",
+            "source": "docs/kryptovalutor/cardano.md",
+            "url": "kryptovalutor/cardano.html",
+            "slug": "kryptovalutorcardano"
+          },
+          {
+            "title": "Monero",
+            "source": "docs/kryptovalutor/monero.md",
+            "url": "kryptovalutor/monero.html",
+            "slug": "kryptovalutormonero"
+          },
+          {
+            "title": "IOTA",
+            "source": "docs/kryptovalutor/iota.md",
+            "url": "kryptovalutor/iota.html",
+            "slug": "kryptovalutoriota"
+          },
+          {
+            "title": "NEO",
+            "source": "docs/kryptovalutor/neo.md",
+            "url": "kryptovalutor/neo.html",
+            "slug": "kryptovalutorneo"
+          },
+          {
+            "title": "VeChain",
+            "source": "docs/kryptovalutor/vechain.md",
+            "url": "kryptovalutor/vechain.html",
+            "slug": "kryptovalutorvechain"
+          }
+        ]
+      },
+      {
+        "title": "Ytterligare information",
+        "source": "docs/ytterligare-information.md",
+        "url": "ytterligare-information.html",
+        "slug": "ytterligare-information"
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "docs/README.md",
+      "title": "Start",
+      "pageTitle": "Start",
+      "slug": "index"
+    },
+    "malgrupp.html": {
+      "source": "docs/malgrupp.md",
+      "title": "Målgrupp - Start",
+      "pageTitle": "Målgrupp",
+      "slug": "malgrupp"
+    },
+    "blockkedjor.html": {
+      "source": "docs/blockkedjor.md",
+      "title": "Blockkedjor - Start",
+      "pageTitle": "Blockkedjor",
+      "slug": "blockkedjor"
+    },
+    "riktad-acyklisk-graf.html": {
+      "source": "docs/riktad-acyklisk-graf.md",
+      "title": "Riktad acyklisk graf - Start",
+      "pageTitle": "Riktad acyklisk graf",
+      "slug": "riktad-acyklisk-graf"
+    },
+    "smarta-kontrakt.html": {
+      "source": "docs/smarta-kontrakt.md",
+      "title": "Smarta kontrakt - Start",
+      "pageTitle": "Smarta kontrakt",
+      "slug": "smarta-kontrakt"
+    },
+    "ideologi.html": {
+      "source": "docs/ideologi.md",
+      "title": "Ideologi - Start",
+      "pageTitle": "Ideologi",
+      "slug": "ideologi"
+    },
+    "byteshandlar.html": {
+      "source": "docs/byteshandlar.md",
+      "title": "Byteshandlar - Start",
+      "pageTitle": "Byteshandlar",
+      "slug": "byteshandlar"
+    },
+    "trading.html": {
+      "source": "docs/trading.md",
+      "title": "Trading - Start",
+      "pageTitle": "Trading",
+      "slug": "trading"
+    },
+    "skatt.html": {
+      "source": "docs/skatt.md",
+      "title": "Skatt - Start",
+      "pageTitle": "Skatt",
+      "slug": "skatt"
+    },
+    "terminologi.html": {
+      "source": "docs/terminologi.md",
+      "title": "Terminologi - Start",
+      "pageTitle": "Terminologi",
+      "slug": "terminologi"
+    },
+    "kryptovalutor/bitcoin.html": {
+      "source": "docs/kryptovalutor/bitcoin.md",
+      "title": "Bitcoin - Start",
+      "pageTitle": "Bitcoin",
+      "slug": "kryptovalutorbitcoin"
+    },
+    "kryptovalutor/ethereum.html": {
+      "source": "docs/kryptovalutor/ethereum.md",
+      "title": "Ethereum - Start",
+      "pageTitle": "Ethereum",
+      "slug": "kryptovalutorethereum"
+    },
+    "kryptovalutor/xrp.html": {
+      "source": "docs/kryptovalutor/xrp.md",
+      "title": "XRP - Start",
+      "pageTitle": "XRP",
+      "slug": "kryptovalutorxrp"
+    },
+    "kryptovalutor/tron.html": {
+      "source": "docs/kryptovalutor/tron.md",
+      "title": "TRON - Start",
+      "pageTitle": "TRON",
+      "slug": "kryptovalutortron"
+    },
+    "kryptovalutor/stellar.html": {
+      "source": "docs/kryptovalutor/stellar.md",
+      "title": "Stellar - Start",
+      "pageTitle": "Stellar",
+      "slug": "kryptovalutorstellar"
+    },
+    "kryptovalutor/cardano.html": {
+      "source": "docs/kryptovalutor/cardano.md",
+      "title": "Cardano - Start",
+      "pageTitle": "Cardano",
+      "slug": "kryptovalutorcardano"
+    },
+    "kryptovalutor/monero.html": {
+      "source": "docs/kryptovalutor/monero.md",
+      "title": "Monero - Start",
+      "pageTitle": "Monero",
+      "slug": "kryptovalutormonero"
+    },
+    "kryptovalutor/iota.html": {
+      "source": "docs/kryptovalutor/iota.md",
+      "title": "IOTA - Start",
+      "pageTitle": "IOTA",
+      "slug": "kryptovalutoriota"
+    },
+    "kryptovalutor/neo.html": {
+      "source": "docs/kryptovalutor/neo.md",
+      "title": "NEO - Start",
+      "pageTitle": "NEO",
+      "slug": "kryptovalutorneo"
+    },
+    "kryptovalutor/vechain.html": {
+      "source": "docs/kryptovalutor/vechain.md",
+      "title": "VeChain - Start",
+      "pageTitle": "VeChain",
+      "slug": "kryptovalutorvechain"
+    },
+    "ytterligare-information.html": {
+      "source": "docs/ytterligare-information.md",
+      "title": "Ytterligare information - Start",
+      "pageTitle": "Ytterligare information",
+      "slug": "ytterligare-information"
+    }
+  },
+  "sources": {
+    "docs/README.md": "index.html",
+    "docs/malgrupp.md": "malgrupp.html",
+    "docs/blockkedjor.md": "blockkedjor.html",
+    "docs/riktad-acyklisk-graf.md": "riktad-acyklisk-graf.html",
+    "docs/smarta-kontrakt.md": "smarta-kontrakt.html",
+    "docs/ideologi.md": "ideologi.html",
+    "docs/byteshandlar.md": "byteshandlar.html",
+    "docs/trading.md": "trading.html",
+    "docs/skatt.md": "skatt.html",
+    "docs/terminologi.md": "terminologi.html",
+    "docs/kryptovalutor/bitcoin.md": "kryptovalutor/bitcoin.html",
+    "docs/kryptovalutor/ethereum.md": "kryptovalutor/ethereum.html",
+    "docs/kryptovalutor/xrp.md": "kryptovalutor/xrp.html",
+    "docs/kryptovalutor/tron.md": "kryptovalutor/tron.html",
+    "docs/kryptovalutor/stellar.md": "kryptovalutor/stellar.html",
+    "docs/kryptovalutor/cardano.md": "kryptovalutor/cardano.html",
+    "docs/kryptovalutor/monero.md": "kryptovalutor/monero.html",
+    "docs/kryptovalutor/iota.md": "kryptovalutor/iota.html",
+    "docs/kryptovalutor/neo.md": "kryptovalutor/neo.html",
+    "docs/kryptovalutor/vechain.md": "kryptovalutor/vechain.html",
+    "docs/ytterligare-information.md": "ytterligare-information.html",
+    "docs/styles.css": "styles.css"
+  }
+}
