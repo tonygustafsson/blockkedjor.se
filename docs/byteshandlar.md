@@ -1,11 +1,31 @@
-# Byteshandlar / Exchanges
+# Byteshandlar (Exchanges)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna id. Fermentum leo vel orci porta non pulvinar. Donec enim diam vulputate ut pharetra. Aliquam vestibulum morbi blandit cursus risus at ultrices. Et pharetra pharetra massa massa ultricies mi. Nisl pretium fusce id velit ut tortor pretium viverra. Placerat vestibulum lectus mauris ultrices. Aliquam ultrices sagittis orci a. Enim neque volutpat ac tincidunt vitae semper. Nisl purus in mollis nunc sed id semper risus in. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Viverra nam libero justo laoreet sit amet cursus sit. Leo urna molestie at elementum eu.
+Kryptovalutor kan generellt skickas mellan två parter utan mellanhänder, vilket också är en av de största fördelarna med att använda dem. I Bitcoins ursprung fick man helt enkelt betala i kontanter, varpå en vänlig själ skickade Bitcoins i gengälld.
 
-Sed elementum tempus egestas sed. Commodo viverra maecenas accumsan lacus vel. Urna nec tincidunt praesent semper. Id aliquet risus feugiat in ante metus dictum at tempor. Morbi tristique senectus et netus et malesuada. Diam phasellus vestibulum lorem sed risus. Id velit ut tortor pretium viverra suspendisse. At consectetur lorem donec massa sapien faucibus. Diam ut venenatis tellus in metus vulputate. Urna condimentum mattis pellentesque id nibh tortor. Elementum eu facilisis sed odio morbi quis commodo odio aenean. Mi bibendum neque egestas congue quisque egestas diam in. Tempor commodo ullamcorper a lacus vestibulum sed arcu non. Amet aliquam id diam maecenas ultricies mi eget. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Mi quis hendrerit dolor magna eget est. Lorem ipsum dolor sit amet consectetur adipiscing. Ullamcorper morbi tincidunt ornare massa eget egestas purus. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. At in tellus integer feugiat scelerisque varius morbi.
+Detta var förstås inte särskilt effektivt, och det gick inte att få någon kännedom om det faktiska marknadsvärdet på valutan. Risken för bedragare var också oerhört stor. Det dröjde inte många år innan det kom byteshandlar där man kunde köpa och byta bitcoins och andra valutor.
 
-Iaculis eu non diam phasellus vestibulum lorem. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Suspendisse sed nisi lacus sed viverra tellus in. Consequat ac felis donec et. Lectus nulla at volutpat diam. Duis at tellus at urna condimentum mattis pellentesque. At erat pellentesque adipiscing commodo elit at imperdiet dui. Mattis pellentesque id nibh tortor id aliquet. Nibh venenatis cras sed felis eget velit aliquet. Urna et pharetra pharetra massa massa. Ultricies leo integer malesuada nunc.
+En av de första byteshandlarna var Mt. Gox, som med stor framgång lät väldigt många människor äga Bitcoins för första gången. De råkade senare ut för att bli hackade varpå de blev av med 750000 Bitcoins (7% av alla existerande bitcoins), och i 2014 gick de i konkurs. En stor mängd människor tappade därför sina bitcoins i ett tidigt skede.
 
-Aliquet nec ullamcorper sit amet risus nullam. Mauris nunc congue nisi vitae suscipit. Purus gravida quis blandit turpis cursus in hac habitasse. Est ullamcorper eget nulla facilisi. Lacus luctus accumsan tortor posuere. Ultrices sagittis orci a scelerisque purus semper eget duis. In iaculis nunc sed augue. Auctor eu augue ut lectus arcu bibendum at varius. Massa tincidunt dui ut ornare lectus sit amet est placerat. Vitae semper quis lectus nulla. Duis at tellus at urna condimentum mattis. Metus aliquam eleifend mi in nulla posuere. Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Adipiscing diam donec adipiscing tristique risus nec feugiat. Mauris vitae ultricies leo integer malesuada. Pulvinar mattis nunc sed blandit libero. Leo urna molestie at elementum eu facilisis sed odio. Curabitur vitae nunc sed velit dignissim sodales. Elementum eu facilisis sed odio morbi quis commodo odio.
+Kryptovalutor i sig är säkra, så länge den privata nyckeln är i säkert förvar. Men att ha sina pengar på en byteshandel innebär alltid en risk. Det är då inte _dina_ pengar, utan de fungerar då som en bank, på så vis att de förvarar dem åt dig. Vilket naturligtvis innebär en risk att de går förlorade vid ett hack. I media rapporteras det ofta felaktigt att "Bitcoin har blivit hackad", vilket aldrig har hänt. Det man menar då är att en stor byteshandel har blivit hackad.
 
-Ut ornare lectus sit amet est. Tortor pretium viverra suspendisse potenti nullam ac. In hac habitasse platea dictumst quisque. Enim ut tellus elementum sagittis vitae et leo. Velit scelerisque in dictum non consectetur a. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Enim nulla aliquet porttitor lacus luctus accumsan tortor. Egestas integer eget aliquet nibh. Ut aliquam purus sit amet. Integer vitae justo eget magna fermentum. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Id faucibus nisl tincidunt eget nullam non nisi. Semper quis lectus nulla at volutpat. Purus semper eget duis at tellus at urna condimentum mattis. Eu non diam phasellus vestibulum lorem. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum.
+## Hur det går till
+
+De flesta byteshandlar har inte vågat sig in i att ta emot pengar med kreditkort eller banköverföringar, vilket beror på att de inte vill förväxlas med en bank - med alla regler, lagar och förpliktelser detta medför. De största exchanges tar dock emot dina pengar från din bank, men man brukar betala i euro eller amerikanska dollar.
+
+De mindre byteshandlarna däremot kräver att du redan äger en annan kryptovaluta, som du skickar in till din plånbok hos byteshandeln. Vanligt är att man har köpt Ethereum hos någon som tar emot pengar från din bank, och dessa skickar du sedan till en mindre byteshandel där du kan byta ut Ethereum mot något annat. Det innebär krångel, absolut, men detta krångel gör att de som orkar ligger steget före alla andra.
+
+## [Binance](https://www.binance.com/)
+
+Binance är idag den största byteshandeln av kryptovalutor. De låter dig köpa valutor med kreditkort och har ett stort utbud av valutor.
+
+## [CoinBase](https://www.coinbase.com/)
+
+Den näst största byteshandeln och är populärast i Sverige. Deras gränssnitt är det enklaste jag sett hitills och de har svenskt stöd. De tar emot pengar med internationella banköverföringar, vilket har en mycket lägre avgift än att betala med kreditkort. De har dock färre kryptovalutor än exempelvis Binance.
+
+## [KuCoin](https://www.kucoin.com/)
+
+Gränssnitet är krångligt, och de kräver att du redan har kryptovalutor att byta bort. Men de har många valutor som inte finns vare sig på CoinBase eller Binance.
+
+## Fler byteshandlare
+
+[Se en lista med fler byteshandlare/exchanges](https://www.coingecko.com/en/exchanges)

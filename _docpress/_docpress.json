@@ -8,30 +8,6 @@
         "slug": "index"
       },
       {
-        "title": "Målgrupp",
-        "source": "docs/malgrupp.md",
-        "url": "malgrupp.html",
-        "slug": "malgrupp"
-      },
-      {
-        "title": "Blockkedjor",
-        "source": "docs/blockkedjor.md",
-        "url": "blockkedjor.html",
-        "slug": "blockkedjor"
-      },
-      {
-        "title": "Riktad acyklisk graf",
-        "source": "docs/riktad-acyklisk-graf.md",
-        "url": "riktad-acyklisk-graf.html",
-        "slug": "riktad-acyklisk-graf"
-      },
-      {
-        "title": "Smarta kontrakt",
-        "source": "docs/smarta-kontrakt.md",
-        "url": "smarta-kontrakt.html",
-        "slug": "smarta-kontrakt"
-      },
-      {
         "title": "Ideologi",
         "source": "docs/ideologi.md",
         "url": "ideologi.html",
@@ -41,13 +17,60 @@
         "title": "Byteshandlar",
         "source": "docs/byteshandlar.md",
         "url": "byteshandlar.html",
-        "slug": "byteshandlar"
+        "slug": "byteshandlar",
+        "headings": [
+          {
+            "title": "Hur det går till",
+            "depth": 2,
+            "id": "hur-det-gar-till"
+          },
+          {
+            "title": "[Binance](https://www.binance.com/)",
+            "depth": 2,
+            "id": "binance(https:www.binance.com)"
+          },
+          {
+            "title": "[CoinBase](https://www.coinbase.com/)",
+            "depth": 2,
+            "id": "coinbase(https:www.coinbase.com)"
+          },
+          {
+            "title": "[KuCoin](https://www.kucoin.com/)",
+            "depth": 2,
+            "id": "kucoin(https:www.kucoin.com)"
+          },
+          {
+            "title": "Fler byteshandlare",
+            "depth": 2,
+            "id": "fler-byteshandlare"
+          }
+        ]
+      },
+      {
+        "title": "Plånböcker",
+        "source": "docs/planbocker.md",
+        "url": "planbocker.html",
+        "slug": "planbocker",
+        "headings": [
+          {
+            "title": "Säkerhet",
+            "depth": 2,
+            "id": "sakerhet"
+          }
+        ]
       },
       {
         "title": "Trading",
         "source": "docs/trading.md",
         "url": "trading.html",
-        "slug": "trading"
+        "slug": "trading",
+        "headings": [
+          {
+            "title": "Portfölj",
+            "depth": 2,
+            "id": "portfolj"
+          }
+        ]
       },
       {
         "title": "Skatt",
@@ -56,10 +79,45 @@
         "slug": "skatt"
       },
       {
+        "title": "Sociala nätverk",
+        "source": "docs/sociala-natverk.md",
+        "url": "sociala-natverk.html",
+        "slug": "sociala-natverk"
+      },
+      {
         "title": "Terminologi",
         "source": "docs/terminologi.md",
         "url": "terminologi.html",
         "slug": "terminologi"
+      },
+      {
+        "title": "Tekniker",
+        "sections": [
+          {
+            "title": "Blockkedjor",
+            "source": "docs/tekniker/blockkedjor.md",
+            "url": "tekniker/blockkedjor.html",
+            "slug": "teknikerblockkedjor"
+          },
+          {
+            "title": "Riktad acyklisk graf (DAG)",
+            "source": "docs/tekniker/riktad-acyklisk-graf.md",
+            "url": "tekniker/riktad-acyklisk-graf.html",
+            "slug": "teknikerriktad-acyklisk-graf"
+          },
+          {
+            "title": "Hashgrafer",
+            "source": "docs/tekniker/hashgrafer.md",
+            "url": "tekniker/hashgrafer.html",
+            "slug": "teknikerhashgrafer"
+          },
+          {
+            "title": "Smarta kontrakt",
+            "source": "docs/tekniker/smarta-kontrakt.md",
+            "url": "tekniker/smarta-kontrakt.html",
+            "slug": "teknikersmarta-kontrakt"
+          }
+        ]
       },
       {
         "title": "Kryptovalutor",
@@ -141,30 +199,6 @@
       "pageTitle": "Start",
       "slug": "index"
     },
-    "malgrupp.html": {
-      "source": "docs/malgrupp.md",
-      "title": "Målgrupp - Start",
-      "pageTitle": "Målgrupp",
-      "slug": "malgrupp"
-    },
-    "blockkedjor.html": {
-      "source": "docs/blockkedjor.md",
-      "title": "Blockkedjor - Start",
-      "pageTitle": "Blockkedjor",
-      "slug": "blockkedjor"
-    },
-    "riktad-acyklisk-graf.html": {
-      "source": "docs/riktad-acyklisk-graf.md",
-      "title": "Riktad acyklisk graf - Start",
-      "pageTitle": "Riktad acyklisk graf",
-      "slug": "riktad-acyklisk-graf"
-    },
-    "smarta-kontrakt.html": {
-      "source": "docs/smarta-kontrakt.md",
-      "title": "Smarta kontrakt - Start",
-      "pageTitle": "Smarta kontrakt",
-      "slug": "smarta-kontrakt"
-    },
     "ideologi.html": {
       "source": "docs/ideologi.md",
       "title": "Ideologi - Start",
@@ -175,13 +209,60 @@
       "source": "docs/byteshandlar.md",
       "title": "Byteshandlar - Start",
       "pageTitle": "Byteshandlar",
-      "slug": "byteshandlar"
+      "slug": "byteshandlar",
+      "headings": [
+        {
+          "title": "Hur det går till",
+          "depth": 2,
+          "id": "hur-det-gar-till"
+        },
+        {
+          "title": "[Binance](https://www.binance.com/)",
+          "depth": 2,
+          "id": "binance(https:www.binance.com)"
+        },
+        {
+          "title": "[CoinBase](https://www.coinbase.com/)",
+          "depth": 2,
+          "id": "coinbase(https:www.coinbase.com)"
+        },
+        {
+          "title": "[KuCoin](https://www.kucoin.com/)",
+          "depth": 2,
+          "id": "kucoin(https:www.kucoin.com)"
+        },
+        {
+          "title": "Fler byteshandlare",
+          "depth": 2,
+          "id": "fler-byteshandlare"
+        }
+      ]
+    },
+    "planbocker.html": {
+      "source": "docs/planbocker.md",
+      "title": "Plånböcker - Start",
+      "pageTitle": "Plånböcker",
+      "slug": "planbocker",
+      "headings": [
+        {
+          "title": "Säkerhet",
+          "depth": 2,
+          "id": "sakerhet"
+        }
+      ]
     },
     "trading.html": {
       "source": "docs/trading.md",
       "title": "Trading - Start",
       "pageTitle": "Trading",
-      "slug": "trading"
+      "slug": "trading",
+      "headings": [
+        {
+          "title": "Portfölj",
+          "depth": 2,
+          "id": "portfolj"
+        }
+      ]
     },
     "skatt.html": {
       "source": "docs/skatt.md",
@@ -189,11 +270,41 @@
       "pageTitle": "Skatt",
       "slug": "skatt"
     },
+    "sociala-natverk.html": {
+      "source": "docs/sociala-natverk.md",
+      "title": "Sociala nätverk - Start",
+      "pageTitle": "Sociala nätverk",
+      "slug": "sociala-natverk"
+    },
     "terminologi.html": {
       "source": "docs/terminologi.md",
       "title": "Terminologi - Start",
       "pageTitle": "Terminologi",
       "slug": "terminologi"
+    },
+    "tekniker/blockkedjor.html": {
+      "source": "docs/tekniker/blockkedjor.md",
+      "title": "Blockkedjor - Start",
+      "pageTitle": "Blockkedjor",
+      "slug": "teknikerblockkedjor"
+    },
+    "tekniker/riktad-acyklisk-graf.html": {
+      "source": "docs/tekniker/riktad-acyklisk-graf.md",
+      "title": "Riktad acyklisk graf (DAG) - Start",
+      "pageTitle": "Riktad acyklisk graf (DAG)",
+      "slug": "teknikerriktad-acyklisk-graf"
+    },
+    "tekniker/hashgrafer.html": {
+      "source": "docs/tekniker/hashgrafer.md",
+      "title": "Hashgrafer - Start",
+      "pageTitle": "Hashgrafer",
+      "slug": "teknikerhashgrafer"
+    },
+    "tekniker/smarta-kontrakt.html": {
+      "source": "docs/tekniker/smarta-kontrakt.md",
+      "title": "Smarta kontrakt - Start",
+      "pageTitle": "Smarta kontrakt",
+      "slug": "teknikersmarta-kontrakt"
     },
     "kryptovalutor/bitcoin.html": {
       "source": "docs/kryptovalutor/bitcoin.md",
@@ -264,15 +375,17 @@
   },
   "sources": {
     "docs/README.md": "index.html",
-    "docs/malgrupp.md": "malgrupp.html",
-    "docs/blockkedjor.md": "blockkedjor.html",
-    "docs/riktad-acyklisk-graf.md": "riktad-acyklisk-graf.html",
-    "docs/smarta-kontrakt.md": "smarta-kontrakt.html",
     "docs/ideologi.md": "ideologi.html",
     "docs/byteshandlar.md": "byteshandlar.html",
+    "docs/planbocker.md": "planbocker.html",
     "docs/trading.md": "trading.html",
     "docs/skatt.md": "skatt.html",
+    "docs/sociala-natverk.md": "sociala-natverk.html",
     "docs/terminologi.md": "terminologi.html",
+    "docs/tekniker/blockkedjor.md": "tekniker/blockkedjor.html",
+    "docs/tekniker/riktad-acyklisk-graf.md": "tekniker/riktad-acyklisk-graf.html",
+    "docs/tekniker/hashgrafer.md": "tekniker/hashgrafer.html",
+    "docs/tekniker/smarta-kontrakt.md": "tekniker/smarta-kontrakt.html",
     "docs/kryptovalutor/bitcoin.md": "kryptovalutor/bitcoin.html",
     "docs/kryptovalutor/ethereum.md": "kryptovalutor/ethereum.html",
     "docs/kryptovalutor/xrp.md": "kryptovalutor/xrp.html",

@@ -2,6 +2,7 @@
     "markdown": {
         "typographer": true
     },
+    "github": "tonygustafsson/kryptiskt.se",
     "css": ["docs/styles.css"],
     "googleAnalytics": {
         "id": "UA-xxx",

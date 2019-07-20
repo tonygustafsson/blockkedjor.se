@@ -1,3 +1,3 @@
-# Bitcoin
+# Smarta kontrakt
 
 Information kommer.
