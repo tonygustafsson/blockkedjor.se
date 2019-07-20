@@ -1,6 +1,6 @@
 # blockkedjor
 
-Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Siten är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller byteshandlar framför andra. Syftet är också att få en svensk synvinkel på marknaden och vad det faktiskt innebär att investera som svensk medborgare, samt vilka skyldigheter detta innebär.
+Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller byteshandlar framför andra. Syftet är också att få en svensk synvinkel på marknaden och vad det faktiskt innebär att investera som svensk medborgare, samt vilka skyldigheter detta innebär.
 
 Här finner du information om specifika valutor, tekniken bakom, om byteshandlar, om hur skatter bör rapporteras. Du hittar även information om terminologi och hur du lättast får reda på mer information.
 
@@ -31,3 +31,4 @@ Här finner du information om specifika valutor, tekniken bakom, om byteshandlar
     -   [NEO](kryptovalutor/neo.md)
     -   [VeChain](kryptovalutor/vechain.md)
 -   [Ytterligare information](ytterligare-information.md)
+-   [Donationer](donationer.md)

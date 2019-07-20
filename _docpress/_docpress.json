@@ -189,6 +189,12 @@
         "source": "docs/ytterligare-information.md",
         "url": "ytterligare-information.html",
         "slug": "ytterligare-information"
+      },
+      {
+        "title": "Donationer",
+        "source": "docs/donationer.md",
+        "url": "donationer.html",
+        "slug": "donationer"
       }
     ]
   },
@@ -371,6 +377,12 @@
       "title": "Ytterligare information - Start",
       "pageTitle": "Ytterligare information",
       "slug": "ytterligare-information"
+    },
+    "donationer.html": {
+      "source": "docs/donationer.md",
+      "title": "Donationer - Start",
+      "pageTitle": "Donationer",
+      "slug": "donationer"
     }
   },
   "sources": {
@@ -397,6 +409,7 @@
     "docs/kryptovalutor/neo.md": "kryptovalutor/neo.html",
     "docs/kryptovalutor/vechain.md": "kryptovalutor/vechain.html",
     "docs/ytterligare-information.md": "ytterligare-information.html",
+    "docs/donationer.md": "donationer.html",
     "docs/styles.css": "styles.css"
   }
 }

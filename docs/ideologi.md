@@ -1,6 +1,6 @@
 # Ideologi
 
-Hela sfären med kryptovalutor och blockkedjor präglas i stor mån av öppen källkod och librtarianism. Tanken är att var och ens pengar är ens egna - att de är fria att använda och att ingen bör bestämma vad man får spendera sina pengar på, eller spåra vart dessa tar vägen.
+Hela sfären med kryptovalutor och blockkedjor präglas i stor mån av öppen källkod och libertarianism. Tanken är att var och ens pengar är ens egna - att de är fria att använda och att ingen bör bestämma vad man får spendera sina pengar på, eller spåra vart dessa tar vägen.
 
 Sfären är också väldigt tekniktung, eftersom teknikerna bakom kryptovalutor baseras på kryptografi, vilket kan vara allt annat än lättbegriplig. Lyckligtvis behöver man inte alltid förstå alla detaljer för att inse att ett projekt är bra eller dåligt, men det hjälper dig väldigt mycket att förstå tekniken bakom för att kunna ta egna beslut.
 

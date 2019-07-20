@@ -1,6 +1,6 @@
 # Byteshandlar (Exchanges)
 
-Kryptovalutor kan generellt skickas mellan två parter utan mellanhänder, vilket också är en av de största fördelarna med att använda dem. I Bitcoins ursprung fick man helt enkelt betala i kontanter, varpå en vänlig själ skickade Bitcoins i gengälld.
+Kryptovalutor kan generellt skickas mellan två parter utan mellanhänder, vilket också är en av de största fördelarna med att använda dem. I Bitcoins ursprung fick man helt enkelt betala i kontanter, varpå en vänlig själ skickade Bitcoins i gengäld.
 
 Detta var förstås inte särskilt effektivt, och det gick inte att få någon kännedom om det faktiska marknadsvärdet på valutan. Risken för bedragare var också oerhört stor. Det dröjde inte många år innan det kom byteshandlar där man kunde köpa och byta bitcoins och andra valutor.
 
@@ -20,11 +20,11 @@ Binance är idag den största byteshandeln av kryptovalutor. De låter dig köpa
 
 ## [CoinBase](https://www.coinbase.com/)
 
-Den näst största byteshandeln och är populärast i Sverige. Deras gränssnitt är det enklaste jag sett hitills och de har svenskt stöd. De tar emot pengar med internationella banköverföringar, vilket har en mycket lägre avgift än att betala med kreditkort. De har dock färre kryptovalutor än exempelvis Binance.
+Den näst största byteshandeln och är populärast i Sverige. Deras gränssnitt är det enklaste jag sett hittills och de har svenskt stöd. De tar emot pengar med internationella banköverföringar, vilket har en mycket lägre avgift än att betala med kreditkort. De har dock färre kryptovalutor än exempelvis Binance.
 
 ## [KuCoin](https://www.kucoin.com/)
 
-Gränssnitet är krångligt, och de kräver att du redan har kryptovalutor att byta bort. Men de har många valutor som inte finns vare sig på CoinBase eller Binance.
+Gränssnittet är krångligt, och de kräver att du redan har kryptovalutor att byta bort. Men de har många valutor som inte finns vare sig på CoinBase eller Binance.
 
 ## Fler byteshandlare
 
