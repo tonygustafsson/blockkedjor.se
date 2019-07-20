@@ -5,7 +5,7 @@
     "github": "tonygustafsson/blockkedjor.se",
     "css": ["docs/styles.css"],
     "googleAnalytics": {
-        "id": "UA-xxx",
-        "domain": "blockkedjor.se"
+        "id": "UA-112261704-2",
+        "domain": "www.blockkedjor.se"
     }
 }
