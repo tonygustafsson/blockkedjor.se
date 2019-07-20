@@ -2,10 +2,10 @@
     "markdown": {
         "typographer": true
     },
-    "github": "tonygustafsson/kryptiskt.se",
+    "github": "tonygustafsson/blockkedjor.se",
     "css": ["docs/styles.css"],
     "googleAnalytics": {
         "id": "UA-xxx",
-        "domain": "kryptiskt.se"
+        "domain": "blockkedjor.se"
     }
 }
