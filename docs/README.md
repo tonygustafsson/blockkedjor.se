@@ -6,7 +6,7 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
 
 **Denna sida är i ett tidigt skede och vi ansvarar inte för att informationen är uppdaterad, korrekt eller är fri från stavfel. Mycket mer information kommer.**
 
--   [Start](README.md)
+-   [Blockkedjor.se](README.md)
 -   [Ideologi](ideologi.md)
 -   [Plånböcker](planbocker.md)
 -   [Skatt](skatt.md)
