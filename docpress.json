@@ -8,6 +8,7 @@
     },
     "github": "tonygustafsson/blockkedjor.se",
     "css": ["docs/styles.css"],
+    "scripts": ["scripts/coinmarketcap.js"],
     "googleAnalytics": {
         "id": "UA-112261704-2",
         "domain": "www.blockkedjor.se"
