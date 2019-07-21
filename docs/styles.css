@@ -1,7 +1,56 @@
-.toc-menu {
-    background-color: #ecfbff !important;
+@import url('https://fonts.googleapis.com/css?family=Tinos&display=swap');
+
+body,
+.markdown-body {
+    font-family: 'Tinos', serif;
 }
 
-.markdown-body {
-    font-size: 18px !important;
+.markdown-body a {
+    color: #004093;
+}
+
+h1 a {
+    color: #000 !important;
+}
+
+.toc-menu .-level-1:first-child > .title {
+    text-decoration: underline;
+}
+
+.toc-menu .-level-1:first-child {
+    margin-bottom: 18px;
+}
+
+.-menu-visible .menu-toggle {
+    background: #000;
+    color: #fff;
+}
+
+@media (min-width: 769px) {
+    .toc-menu {
+        background: #000;
+        color: #fff;
+    }
+
+    .toc-menu .-level-1:first-child > .title,
+    .toc-menu .-level-1.-parent > .title {
+        font-size: 18px;
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    .toc-menu .link,
+    .toc-menu .link:visited,
+    ul.heading-list .hlink,
+    ul.heading-list .hlink:visited,
+    .toc-menu .link:hover,
+    .toc-menu .hlink:hover {
+        font-size: 15px;
+        color: #fff;
+    }
+
+    .markdown-body {
+        font-size: 20px;
+    }
 }
