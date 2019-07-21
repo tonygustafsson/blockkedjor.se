@@ -1,6 +1,28 @@
 # Bitcoin
 
-Information kommer.
+![Bitcoin](../img/bitcoin.jpg 'Bitcoin')
+
+Den första kryptovalutan som såg världens ljus. I slutet av 2008 skapade en okänd person eller organisation med pseudonymen Satoshi Nakamoto en ny typ av digital valuta. För första gången skapade man en distribuerad databas som inte kunde manipuleras i efterhand och där transaktioner inte bara kunde kopieras. Man löste problemet med dubbelspendering.
+
+Eftersom upphovsmakaren är okänd och det inte finns någon organisation bakom Bitcoin så anses valutan ostoppbar. Det finns tusentals Bitcoinnoder, och även om många styrs av en handfull organisationer och intressenter så har ingen så pass stort inflytande att nätverket kan stängas ner eller manipuleras.
+
+Bitcoin använder sig av [Proof of Work (PoW)](../tekniker/proof-of-work.md), och har kritiserats för att vara en miljöbov. Detta eftersom det är den största kryptovalutan, och därför finns det också flest miners/brytare som dedikerar sin hårdvara för att validera andras transaktioner och få en belöning för mödan. Detta är ett arbete som kräver mycket energi och är därför kostsamt för miljön. Men som motargument har getts att i jämförelse med guldbranschen och finansbranschen är det fortfarande försvinnande lite.
+
+Det kommer aldrig finnas mer än 21 miljoner BTC, vilket skapar ett system fritt från inflation. Det estimeras att fyra miljoner av dessa har gått förlorade för alltid, genom tappade nycklar.
+
+## Fördelar
+
+-   Proof of Work den konsensusmetod som funnits längst och har bevisat sin säkerhet gång på gång. I över tio år har systemet varit uppe och rullat, och ingen har hittills kunnat hacka det.
+-   Människor gillar de som kom först. Bitcoin är äldst och har störst förtroende.
+-   Stabilare pris än andra kryptovalutor då den har högst marknadsvärde.
+
+## Nackdelar
+
+-   Proof of Work är långsamt, och Bitcoin är bland de långsammaste kryptovalutorna med sina 3-5 transaktioner i sekunden.
+-   Bitcoin anses röra sig extremt fort på marknaden i jämförelse med aktier, men i jämförelse med andra kryptovalutor är den relativt stabil.
+-   Äldst är förstås inte tekniskt bäst längre. De flesta valutor är idag mer tekniskt avancerade än Bitcoin.
+-   Inget stöd för anonyma/hemliga transaktioner.
+-   Inget stöd för [smarta kontrakt](../tekniker/smarta-kontrakt.md) eller distribuerade appar.
 
 ## Nuvarande pris (CoinGecko)
 
