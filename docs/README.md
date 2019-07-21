@@ -10,6 +10,7 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
 -   [Ideologi](ideologi.md)
 -   [Plånböcker](planbocker.md)
 -   [Skatt](skatt.md)
+-   [Branscher](branscher.md)
 -   [Sociala nätverk](sociala-natverk.md)
 -   [Terminologi](terminologi.md)
 -   Marknaden
@@ -20,11 +21,15 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
     -   [Riktad acyklisk graf (DAG)](tekniker/riktad-acyklisk-graf.md)
     -   [Hashgrafer](tekniker/hashgrafer.md)
     -   [Smarta kontrakt](tekniker/smarta-kontrakt.md)
+    -   [Proof of Work (PoW)](tekniker/proof-of-work.md)
+    -   [Proof of Stake (PoS)](tekniker/proof-of-stake.md)
 -   Kryptovalutor
     -   [Bitcoin](kryptovalutor/bitcoin.md)
+    -   [LiteCoin](kryptovalutor/litecoin.md)
     -   [Ethereum](kryptovalutor/ethereum.md)
     -   [XRP](kryptovalutor/xrp.md)
     -   [TRON](kryptovalutor/tron.md)
+    -   [NANO](kryptovalutor/nano.md)
     -   [Stellar](kryptovalutor/stellar.md)
     -   [Cardano](kryptovalutor/cardano.md)
     -   [Monero](kryptovalutor/monero.md)

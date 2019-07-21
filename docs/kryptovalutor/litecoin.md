@@ -1,0 +1,3 @@
+# LiteCoin
+
+Information kommer.
