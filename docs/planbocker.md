@@ -13,3 +13,5 @@ I den sämsta av världar har du sparat din privata nyckel i en fil någonstans 
 Men det absolut säkraste sättet är att köpa dig en hårdvarunyckel, såsom [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x). En sådan nyckel kräver att du stoppar in den i datorn och låser upp den med en PIN-kod. Om din PIN-kod skulle gå förlorad, eller om enheten brinner upp så kan du alltid köpa dig en ny och återställa den med ett gäng ord i en särskild följd. Dessa ord ska alltid förvaras säkert, exempelvis i ett kassaskåp eller bankfack.
 
 Dessa ord skapar nämligen din privata nyckel med hjälp av en algoritm. Samma algoritm kan skapa upp samtliga privata nycklar åt dig som används av en uppsjö olika kryptovalutor.
+
+![Banano wallet](img/banano-wallet.png 'Banano wallet')
