@@ -9,6 +9,11 @@ body,
     color: #004093;
 }
 
+.markdown-body img {
+    margin: 0 auto;
+    display: block;
+}
+
 h1 a {
     color: #000 !important;
 }
