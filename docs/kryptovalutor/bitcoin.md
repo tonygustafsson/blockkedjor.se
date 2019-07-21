@@ -2,6 +2,6 @@
 
 Information kommer.
 
-## Nuvarande pris (CoinMarketCap)
+## Nuvarande pris (CoinGecko)
 
-CoinMarketCap[1]
+<coingecko-coin-ticker-widget currency="sek" coin-id="bitcoin" locale="en"></coingecko-coin-ticker-widget>

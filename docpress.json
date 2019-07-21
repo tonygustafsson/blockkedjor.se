@@ -8,7 +8,7 @@
     },
     "github": "tonygustafsson/blockkedjor.se",
     "css": ["docs/styles.css"],
-    "scripts": ["scripts/coinmarketcap.js"],
+    "scripts": ["https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"],
     "googleAnalytics": {
         "id": "UA-112261704-2",
         "domain": "www.blockkedjor.se"
