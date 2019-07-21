@@ -20,7 +20,7 @@ Det kommer aldrig finnas mer än 21 miljoner BTC, vilket skapar ett system fritt
 
 -   Proof of Work är långsamt, och Bitcoin är bland de långsammaste kryptovalutorna med sina 3-5 transaktioner i sekunden.
 -   Bitcoin anses röra sig extremt fort på marknaden i jämförelse med aktier, men i jämförelse med andra kryptovalutor är den relativt stabil.
--   Äldst är förstås inte tekniskt bäst längre. De flesta valutor är idag mer tekniskt avancerade än Bitcoin.
+-   Äldst är förstås inte tekniskt bäst längre. De flesta valutor är idag mer tekniskt avancerade än Bitcoin. Eftersom plattformen är störst och äldst så är det än viktigare att inga avbrott eller förluster sker. Ett misstag och människor skulle tappa tilliten för gott. Det gör att tekniska framsteg måste testas i åratal innan de kan implementeras.
 -   Inget stöd för anonyma/hemliga transaktioner.
 -   Inget stöd för [smarta kontrakt](../tekniker/smarta-kontrakt.md) eller distribuerade appar.
 
