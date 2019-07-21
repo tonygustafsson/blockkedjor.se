@@ -26,7 +26,7 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
 -   Kryptovalutor
     -   [Bitcoin](kryptovalutor/bitcoin.md)
     -   [Ethereum](kryptovalutor/ethereum.md)
-    -   [XRP](kryptovalutor/xrp.md)
+    -   [XRP (Ripple)](kryptovalutor/xrp.md)
     -   [LiteCoin](kryptovalutor/litecoin.md)
     -   [Cardano](kryptovalutor/cardano.md)
     -   [TRON](kryptovalutor/tron.md)
