@@ -2,7 +2,7 @@
 
 En kryptovaluta ligger alltid i en plånbok. En plånbok är en applikation som kan vara på din dator, din mobiltelefon eller på en webbplats. Plånboken kopplar upp dig mot en blockkedja och med hjälp av en privat och en publik nyckel så kan du se dina tillgångar och skicka dem till andra plånböcker.
 
-En [byteshandel](byteshandlar.md) håller plånböcker åt dig, där du får tillgång till den publika nyckeln (din adress), men aldrig den privata nyckeln. Det är enkelt och smärtfritt att hålla pengarna hos en byteshandel, men du ger då bort kontrollen till dem. Det är alltid att rekommendera att du håller din egen privata nyckel i en egen plånbok.
+En [kryptohandlare](marknaden/kryptohandlare.md) håller plånböcker åt dig, där du får tillgång till den publika nyckeln (din adress), men aldrig den privata nyckeln. Det är enkelt och smärtfritt att hålla pengarna hos en kryptohandlare, men du ger då bort kontrollen till dem. Det är alltid att rekommendera att du håller din egen privata nyckel i en egen plånbok.
 
 ## Säkerhet
 

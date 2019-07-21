@@ -14,39 +14,6 @@
         "slug": "ideologi"
       },
       {
-        "title": "Byteshandlar",
-        "source": "docs/byteshandlar.md",
-        "url": "byteshandlar.html",
-        "slug": "byteshandlar",
-        "headings": [
-          {
-            "title": "Hur det går till",
-            "depth": 2,
-            "id": "hur-det-gar-till"
-          },
-          {
-            "title": "[Binance](https://www.binance.com/)",
-            "depth": 2,
-            "id": "binance(https:www.binance.com)"
-          },
-          {
-            "title": "[CoinBase](https://www.coinbase.com/)",
-            "depth": 2,
-            "id": "coinbase(https:www.coinbase.com)"
-          },
-          {
-            "title": "[KuCoin](https://www.kucoin.com/)",
-            "depth": 2,
-            "id": "kucoin(https:www.kucoin.com)"
-          },
-          {
-            "title": "Fler byteshandlare",
-            "depth": 2,
-            "id": "fler-byteshandlare"
-          }
-        ]
-      },
-      {
         "title": "Plånböcker",
         "source": "docs/planbocker.md",
         "url": "planbocker.html",
@@ -56,19 +23,6 @@
             "title": "Säkerhet",
             "depth": 2,
             "id": "sakerhet"
-          }
-        ]
-      },
-      {
-        "title": "Trading",
-        "source": "docs/trading.md",
-        "url": "trading.html",
-        "slug": "trading",
-        "headings": [
-          {
-            "title": "Portfölj",
-            "depth": 2,
-            "id": "portfolj"
           }
         ]
       },
@@ -89,6 +43,57 @@
         "source": "docs/terminologi.md",
         "url": "terminologi.html",
         "slug": "terminologi"
+      },
+      {
+        "title": "Marknaden",
+        "sections": [
+          {
+            "title": "Byteshandel (Trading)",
+            "source": "docs/marknaden/byteshandel.md",
+            "url": "marknaden/byteshandel.html",
+            "slug": "marknadenbyteshandel",
+            "headings": [
+              {
+                "title": "Portfölj",
+                "depth": 2,
+                "id": "portfolj"
+              }
+            ]
+          },
+          {
+            "title": "Kryptohandlare (Exchanges)",
+            "source": "docs/marknaden/kryptohandlare.md",
+            "url": "marknaden/kryptohandlare.html",
+            "slug": "marknadenkryptohandlare",
+            "headings": [
+              {
+                "title": "Hur det går till",
+                "depth": 2,
+                "id": "hur-det-gar-till"
+              },
+              {
+                "title": "[Binance](https://www.binance.com/)",
+                "depth": 2,
+                "id": "binance(https:www.binance.com)"
+              },
+              {
+                "title": "[CoinBase](https://www.coinbase.com/)",
+                "depth": 2,
+                "id": "coinbase(https:www.coinbase.com)"
+              },
+              {
+                "title": "[KuCoin](https://www.kucoin.com/)",
+                "depth": 2,
+                "id": "kucoin(https:www.kucoin.com)"
+              },
+              {
+                "title": "Fler kryptohandlare",
+                "depth": 2,
+                "id": "fler-kryptohandlare"
+              }
+            ]
+          }
+        ]
       },
       {
         "title": "Tekniker",
@@ -211,11 +216,55 @@
       "pageTitle": "Ideologi",
       "slug": "ideologi"
     },
-    "byteshandlar.html": {
-      "source": "docs/byteshandlar.md",
-      "title": "Byteshandlar - Start",
-      "pageTitle": "Byteshandlar",
-      "slug": "byteshandlar",
+    "planbocker.html": {
+      "source": "docs/planbocker.md",
+      "title": "Plånböcker - Start",
+      "pageTitle": "Plånböcker",
+      "slug": "planbocker",
+      "headings": [
+        {
+          "title": "Säkerhet",
+          "depth": 2,
+          "id": "sakerhet"
+        }
+      ]
+    },
+    "skatt.html": {
+      "source": "docs/skatt.md",
+      "title": "Skatt - Start",
+      "pageTitle": "Skatt",
+      "slug": "skatt"
+    },
+    "sociala-natverk.html": {
+      "source": "docs/sociala-natverk.md",
+      "title": "Sociala nätverk - Start",
+      "pageTitle": "Sociala nätverk",
+      "slug": "sociala-natverk"
+    },
+    "terminologi.html": {
+      "source": "docs/terminologi.md",
+      "title": "Terminologi - Start",
+      "pageTitle": "Terminologi",
+      "slug": "terminologi"
+    },
+    "marknaden/byteshandel.html": {
+      "source": "docs/marknaden/byteshandel.md",
+      "title": "Byteshandel (Trading) - Start",
+      "pageTitle": "Byteshandel (Trading)",
+      "slug": "marknadenbyteshandel",
+      "headings": [
+        {
+          "title": "Portfölj",
+          "depth": 2,
+          "id": "portfolj"
+        }
+      ]
+    },
+    "marknaden/kryptohandlare.html": {
+      "source": "docs/marknaden/kryptohandlare.md",
+      "title": "Kryptohandlare (Exchanges) - Start",
+      "pageTitle": "Kryptohandlare (Exchanges)",
+      "slug": "marknadenkryptohandlare",
       "headings": [
         {
           "title": "Hur det går till",
@@ -238,55 +287,11 @@
           "id": "kucoin(https:www.kucoin.com)"
         },
         {
-          "title": "Fler byteshandlare",
+          "title": "Fler kryptohandlare",
           "depth": 2,
-          "id": "fler-byteshandlare"
+          "id": "fler-kryptohandlare"
         }
       ]
-    },
-    "planbocker.html": {
-      "source": "docs/planbocker.md",
-      "title": "Plånböcker - Start",
-      "pageTitle": "Plånböcker",
-      "slug": "planbocker",
-      "headings": [
-        {
-          "title": "Säkerhet",
-          "depth": 2,
-          "id": "sakerhet"
-        }
-      ]
-    },
-    "trading.html": {
-      "source": "docs/trading.md",
-      "title": "Trading - Start",
-      "pageTitle": "Trading",
-      "slug": "trading",
-      "headings": [
-        {
-          "title": "Portfölj",
-          "depth": 2,
-          "id": "portfolj"
-        }
-      ]
-    },
-    "skatt.html": {
-      "source": "docs/skatt.md",
-      "title": "Skatt - Start",
-      "pageTitle": "Skatt",
-      "slug": "skatt"
-    },
-    "sociala-natverk.html": {
-      "source": "docs/sociala-natverk.md",
-      "title": "Sociala nätverk - Start",
-      "pageTitle": "Sociala nätverk",
-      "slug": "sociala-natverk"
-    },
-    "terminologi.html": {
-      "source": "docs/terminologi.md",
-      "title": "Terminologi - Start",
-      "pageTitle": "Terminologi",
-      "slug": "terminologi"
     },
     "tekniker/blockkedjor.html": {
       "source": "docs/tekniker/blockkedjor.md",
@@ -388,12 +393,12 @@
   "sources": {
     "docs/README.md": "index.html",
     "docs/ideologi.md": "ideologi.html",
-    "docs/byteshandlar.md": "byteshandlar.html",
     "docs/planbocker.md": "planbocker.html",
-    "docs/trading.md": "trading.html",
     "docs/skatt.md": "skatt.html",
     "docs/sociala-natverk.md": "sociala-natverk.html",
     "docs/terminologi.md": "terminologi.html",
+    "docs/marknaden/byteshandel.md": "marknaden/byteshandel.html",
+    "docs/marknaden/kryptohandlare.md": "marknaden/kryptohandlare.html",
     "docs/tekniker/blockkedjor.md": "tekniker/blockkedjor.html",
     "docs/tekniker/riktad-acyklisk-graf.md": "tekniker/riktad-acyklisk-graf.html",
     "docs/tekniker/hashgrafer.md": "tekniker/hashgrafer.html",
