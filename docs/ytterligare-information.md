@@ -1,3 +1,0 @@
-# Ytterligare information
-
-Information kommer.

@@ -31,5 +31,4 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
     -   [IOTA](kryptovalutor/iota.md)
     -   [NEO](kryptovalutor/neo.md)
     -   [VeChain](kryptovalutor/vechain.md)
--   [Ytterligare information](ytterligare-information.md)
 -   [Donationer](donationer.md)
