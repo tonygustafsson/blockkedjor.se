@@ -21,6 +21,10 @@ De lanserade bland annat xRapid som är tänkt att direkt konkurrera med SWIFT f
 -   Ripple Labs äger 61% av alla XRP.
 -   Om regeringar och storbanker beslutar sig för att XRP och xRapid är en dålig idé så finns risken att valutan inte har någon framtid alls.
 
+## Att köpa
+
+De går att köpa direkt med kontokort eller banköverföring på [CoinBase](https://www.coinbase.com/).
+
 ## Nuvarande pris (CoinGecko)
 
 <coingecko-coin-ticker-widget currency="sek" coin-id="ripple" locale="en"></coingecko-coin-ticker-widget>

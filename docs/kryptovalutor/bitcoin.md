@@ -18,11 +18,15 @@ Det kommer aldrig finnas mer än 21 miljoner BTC, vilket skapar ett system fritt
 
 ## Nackdelar
 
--   Proof of Work är långsamt, och Bitcoin är bland de långsammaste kryptovalutorna med sina 3-5 transaktioner i sekunden.
+-   Proof of Work är långsamt, och Bitcoin är bland de långsammaste kryptovalutorna med sina 3-5 transaktioner i sekunden. Därför har man implementerat lager-2-lösningar som [Lightning Network](../tekniker/lightning-network.md).
 -   Bitcoin anses röra sig extremt fort på marknaden i jämförelse med aktier, men i jämförelse med andra kryptovalutor är den relativt stabil.
 -   Äldst är förstås inte tekniskt bäst längre. De flesta valutor är idag mer tekniskt avancerade än Bitcoin. Eftersom plattformen är störst och äldst så är det än viktigare att inga avbrott eller förluster sker. Ett misstag och människor skulle tappa tilliten för gott. Det gör att tekniska framsteg måste testas i åratal innan de kan implementeras.
 -   Inget stöd för anonyma/hemliga transaktioner.
 -   Inget stöd för [smarta kontrakt](../tekniker/smarta-kontrakt.md) eller distribuerade appar.
+
+## Att köpa
+
+De går att köpa direkt med kontokort eller banköverföring på [CoinBase](https://www.coinbase.com/).
 
 ## Nuvarande pris (CoinGecko)
 

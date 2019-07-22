@@ -22,6 +22,10 @@ Ethereum är näst störst idag, mycket tack vare att plattformen kom att använ
 -   Konkurrensen hårdnar, flera nya plattformar har redan lanserat som är tekniskt mer imponerande. Hinner de inte ut med sina prestandaförbättringar (som redan senarelagts flera gånger) så finns risken att någon annan hinner före.
 -   Inget stöd för anonyma/hemliga transaktioner.
 
+## Att köpa
+
+De går att köpa direkt med kontokort eller banköverföring på [CoinBase](https://www.coinbase.com/).
+
 ## Nuvarande pris (CoinGecko)
 
 <coingecko-coin-ticker-widget currency="sek" coin-id="ethereum" locale="en"></coingecko-coin-ticker-widget>

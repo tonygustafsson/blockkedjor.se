@@ -23,11 +23,12 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
     -   [Smarta kontrakt](tekniker/smarta-kontrakt.md)
     -   [Proof of Work (PoW)](tekniker/proof-of-work.md)
     -   [Proof of Stake (PoS)](tekniker/proof-of-stake.md)
+    -   [Lightning Network](tekniker/lightning-network.md)
 -   Kryptovalutor
     -   [Bitcoin](kryptovalutor/bitcoin.md)
     -   [Ethereum](kryptovalutor/ethereum.md)
     -   [XRP (Ripple)](kryptovalutor/xrp.md)
-    -   [LiteCoin](kryptovalutor/litecoin.md)
+    -   [Litecoin](kryptovalutor/litecoin.md)
     -   [Cardano](kryptovalutor/cardano.md)
     -   [TRON](kryptovalutor/tron.md)
     -   [Stellar](kryptovalutor/stellar.md)
