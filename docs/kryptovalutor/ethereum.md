@@ -1,4 +1,4 @@
-# Ethereum
+# Ethereum (ETH)
 
 ![Ethereum](../img/ethereum.jpg 'Ethereum')
 

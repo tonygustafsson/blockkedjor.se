@@ -1,4 +1,4 @@
-# Bitcoin
+# Bitcoin (BTC)
 
 ![Bitcoin](../img/bitcoin.jpg 'Bitcoin')
 

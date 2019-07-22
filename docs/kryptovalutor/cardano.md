@@ -1,4 +1,4 @@
-# Cardano
+# Cardano (ADA)
 
 ![Cardano](../img/cardano.png 'Cardano')
 

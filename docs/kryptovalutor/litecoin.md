@@ -1,4 +1,4 @@
-# Litecoin
+# Litecoin (LTC)
 
 ![Litecoin](../img/litecoin.png 'Litecoin')
 

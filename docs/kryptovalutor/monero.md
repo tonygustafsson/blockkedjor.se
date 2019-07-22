@@ -1,4 +1,4 @@
-# Monero
+# Monero (XMR)
 
 Information kommer.
 

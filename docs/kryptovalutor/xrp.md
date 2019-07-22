@@ -1,4 +1,4 @@
-# XRP (Ripple)
+# Ripple (XRP)
 
 ![Ripple](../img/xrp.jpg 'Ripple')
 

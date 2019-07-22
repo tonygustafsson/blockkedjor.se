@@ -1,4 +1,4 @@
-# Stellar
+# Stellar (XLM)
 
 Information kommer.
 
