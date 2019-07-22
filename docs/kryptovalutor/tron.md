@@ -8,7 +8,7 @@ Ambitionen är att fokusera på media, så som strömmande video, men göra det 
 
 Man har stöd för [smarta kontrakt](../tekniker/smarta-kontrakt.md), och har många gamblingsiter som använder sig av TRON. Man har även stöd för andra tokens ovanpå TRON, precis som [Ethereum](../kryptovalutor/ethereum.md) gjort med ERC-20.
 
-# Fördelar
+## Fördelar
 
 -   Bra på marknadsföring - de hörs och syns.
 -   De arbetar mot censur och är för att individer äger sin egen data.
