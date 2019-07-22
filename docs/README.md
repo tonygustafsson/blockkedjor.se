@@ -18,11 +18,12 @@ Här finner du information om specifika valutor, tekniken bakom, om kryptohandla
     -   [Kryptohandlare (Exchanges)](marknaden/kryptohandlare.md)
 -   Tekniker
     -   [Blockkedjor](tekniker/blockkedjor.md)
-    -   [Riktad acyklisk graf (DAG)](tekniker/riktad-acyklisk-graf.md)
+    -   [Riktad acyklisk graf](tekniker/riktad-acyklisk-graf.md)
     -   [Hashgrafer](tekniker/hashgrafer.md)
+    -   [Proof of Work](tekniker/proof-of-work.md)
+    -   [Proof of Stake](tekniker/proof-of-stake.md)
+    -   [Byzantine Fault Tolerance](tekniker/byzantine-fault-tolerance.md)
     -   [Smarta kontrakt](tekniker/smarta-kontrakt.md)
-    -   [Proof of Work (PoW)](tekniker/proof-of-work.md)
-    -   [Proof of Stake (PoS)](tekniker/proof-of-stake.md)
     -   [Lightning Network](tekniker/lightning-network.md)
 -   Kryptovalutor
     -   [Bitcoin](kryptovalutor/bitcoin.md)
