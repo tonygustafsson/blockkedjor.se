@@ -9,3 +9,25 @@ Varje block har ett hashvärde som inte kan beräknas fram, utan endast kan slum
 Varje nytt block knyts samman med tidigare block, vilket gör det omöjligt att påverka ordningen eller innehållet i en blockkedja i efterhand. Det gör att det passar utmärkt som exempelvis valuta.
 
 Den första decentraliserade blockkedjan skapades 2008 av Satoshi Nakamoto, vars identitet även idag är okänd. Han gav liv till den största valutan idag, Bitcoin. Idag finns det tusentals andra blockkedjor. Vissa är väldigt lika Bitcoin, så som Litecoin - medan andra är totalt olik i sin natur, så som IOTA.
+
+## Generationer
+
+Blockkedjor har funnits i ca 10 år, men redan nu har upphovsmakare till nya blockkedjor börjat dela in tekniken i generationer. Det är ofta missvisande, och om ytterligare tio år så kan man ställa sig tveksam till att vi kommer att se på generationerna på samma vis som nu.
+
+### Generation 1
+
+Den första generationens blockkedjor är typiskt enbart för transaktioner av pengar. Här till hör de tidiga blockkedjorna som [Bitcoin](../kryptovalutor/bitcoin.md) och [Litecoin](../kryptovalutor/litecoin.md). De är typiskt långsamma och rör sig med ett fåtal transaktioner i sekunden. De använder sig vanligtvis av [Proof of Work](proof-of-work.md) som konsensusmodell.
+
+### Generation 2
+
+Den här typen av blockkedjor hanterar vanligtvis andra saker än rena pengatransaktioner. De använder sig av [smarta kontrakt](smarta-kontrakt.md) och är applikationsplattformar. Ett typexempel är [Ethereum](../kryptovalutor/ethereum.md). Det är en fantastisk teknik där decentraliserade nätverk kan skapa spel, applikationer eller flytta pengar när vissa krav uppfylls. De är dock fortfarande långsamma, även om de är snabbare än Generation 1 så blir det extra tydligt när det handlar om applikationer.
+
+### Generation 3
+
+Det handlar fortfarande om pengatransaktioner och applikationsplattformar, men till den här generationen har man börjat fokusera på skalbarhet, hållbarhet och kommunikation mellan olika blockkedjor. För att lyckas med detta har man oftast lämnat Proof of Work bakom sig, och arbetar med [Proof of Stake](proof-of-stake.md) eller modernare modeller så som [riktade acykliska grafer](riktad-acyklisk-graf.md) eller [hashgrafer](hashgrafer.md).
+
+Typexempel på dessa är [IOTA](../kryptovalutor/iota.md), [Neo](../kryptovalutor/neo.md) och [Nano](../kryptovalutor/nano.md).
+
+### Generation 4
+
+Denna generation är så pass ny och fungerar hittills mest i marknadssyfte där man vill lyfta fram hur fantastiskt modern man är och hur mycket bättre än alla andra man är. Vissa spelare hävdar att AI spelar en stor roll, eller integration mot den fysiska verkligheten genom så kallade orakel.
