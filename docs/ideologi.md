@@ -1,3 +1,7 @@
+---
+layout: layout.html
+---
+
 # Ideologi
 
 Hela sfären med kryptovalutor och blockkedjor präglas i stor mån av öppen källkod och libertarianism. Tanken är att var och ens pengar är ens egna - att de är fria att använda och att ingen bör bestämma vad man får spendera sina pengar på, eller spåra vart dessa tar vägen.

@@ -1,3 +1,7 @@
+---
+layout: layout.html
+---
+
 # Blockkedjor.se
 
 Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller kryptohandlare framför andra. Syftet är också att få en svensk synvinkel på marknaden och vad det faktiskt innebär att investera som svensk medborgare, samt vilka skyldigheter detta innebär.
