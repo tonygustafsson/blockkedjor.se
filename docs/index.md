@@ -1,5 +1,7 @@
 ---
 layout: layout.html
+title: Blockkedjor.se
+description: Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller kryptohandlare framför andra.
 ---
 
 # Blockkedjor.se

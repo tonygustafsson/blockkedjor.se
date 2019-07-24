@@ -1,5 +1,7 @@
 ---
 layout: layout.html
+title: Ideologi
+description: Behandlar ideologin och tankarna bakom kryptovalutor och sfären som står bakom. Präglas främst av libertarianism, frihet och i viss mån anarki.
 ---
 
 # Ideologi
