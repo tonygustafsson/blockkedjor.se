@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Terminologi
+description: Det är lätt att bli förvirrad i kryptosfären. Här hittar du en lista med vanliga begrepp och deras betydelse.
+---
+
 # Terminologi
 
 Det är lätt att bli förvirrad om man hoppar in på [Sociala nätverk](sociala-natverk.md) och börjar läsa när människor slänger sig med konstiga uttryck och ord man inte känner igen. Här ska vi försöka förklara de viktigaste av dem.

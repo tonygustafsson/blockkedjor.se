@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Branscher
+description: Blockkedjetekniken påverkar inte bara valutor, utan också exempelvis Internet of Things, logistik, spel och artificiell intelligens.
+---
+
 # Branscher
 
 Blockkedjetekniken är inte bara en teknik för att skapa elektroniska valutor, utan kommer att påverka många branscher framöver. Här kommer vi att gå igenom de vanligaste områdena idag och hur blockkedjor kan tänkas påverka dem.

@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Sociala nätverk
+description: Det kan vara ensamt i kryptosfären - här hittar du information om sociala nätverk som relaterar till kryptovalutor och blockkedjor.
+---
+
 # Sociala nätverk
 
 Man kan naturligtvis köra sitt eget race och ha koll på vilka projekt som är intressanta och ej med exempelvis [CoinMarketCap](https://coinmarketcap.com/). Men det är väldigt givande att se vad andra tycker och prata med andra intresserade människor.
