@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: VeChain (VET)
+description:
+---
+
 # VeChain (VET)
 
 Information kommer.

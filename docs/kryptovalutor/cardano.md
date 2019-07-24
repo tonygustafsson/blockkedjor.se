@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Cardano (ADA)
+description: En plattform på smarta kontrakt som konkurrerar med Ethereum. Deras metodik är akademisk och vetenskaplig.
+---
+
 # Cardano (ADA)
 
 ![Cardano](../img/cardano.png 'Cardano')

@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Blockkedjor
+description: Om tekniken bakom blockkedjor. Hur de fungerar och vad de kan användas till, samt om de olika generationerna sedan 2009.
+---
+
 # Blockkedjor
 
 En blockkedja (blockchain) består av en lång serie med block. Varje block innehåller vanligtvis flera transaktioner. Det är en decentraliserad databas utan en central knutpunkt, vilket gör det svårt att stoppa eller kontrollera.

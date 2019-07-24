@@ -1,4 +1,10 @@
-# Riktad Acyklisk Graf (DAG)
+---
+layout: layout.html
+title: Riktade acykliska grafer
+description: DAGs är en teknik som lovar snabbare transaktioner än blockkedjor och som med framgång används av kryptovalutor så som IOTA och NANO.
+---
+
+# Riktade acykliska grafer (DAG)
 
 DAG är en teknik som används av exempelvis IOTA och NANO, som utlovar snabbare transaktioner. Det baseras fortfarande på kryptografi, men till skillnad från [Blockkedjor](blockkedjor.md) så består blocken inte av en lång kedja som alla är överens om, utan varje transaktion valideras omgående av intilliggande noder.
 

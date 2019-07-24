@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: TRON (TRX)
+description: Skapades av Justin Sun år 2017 och är en plattform för smarta kontrakt som fokuserar på media och att bekämpa censur.
+---
+
 # TRON (TRX)
 
 ![Tron](../img/tron.jpg 'Tron')

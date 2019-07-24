@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Monero (XMR)
+description:
+---
+
 # Monero (XMR)
 
 Information kommer.

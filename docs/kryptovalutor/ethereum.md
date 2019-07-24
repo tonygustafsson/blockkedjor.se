@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Ethereum (ETH)
+description: Den första och största plattformen för smarta kontrakt som skapades av Vitalik Buterin år 2013.
+---
+
 # Ethereum (ETH)
 
 ![Ethereum](../img/ethereum.jpg 'Ethereum')

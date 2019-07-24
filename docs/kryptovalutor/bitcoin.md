@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Bitcoin (BTC)
+description: Den första valutan som såg världens ljust. Skapades av pseudonymen Satoshi Nakamoto år 2008 som införde konceptet blockkedjan.
+---
+
 # Bitcoin (BTC)
 
 ![Bitcoin](../img/bitcoin.jpg 'Bitcoin')

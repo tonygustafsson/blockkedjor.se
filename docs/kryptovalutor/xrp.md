@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Ripple (XRP)
+description: Skapades år 2012 utlovar snabba och smärtfria internationella transaktioner.
+---
+
 # Ripple (XRP)
 
 ![Ripple](../img/xrp.jpg 'Ripple')

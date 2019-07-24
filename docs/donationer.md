@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Donationer
+description: Webbplatsen är en oberoende källa och är icke vinstdrivande. Den som finner webbplatsen till nytta får hemskt gärna skänka en slant för dess fortsatta utveckling.
+---
+
 # Donationer
 
 Den här webbplatsen är en oberoende källa till information och är icke vinstdrivande. Det finns ingen reklam på siten, men om du har haft användning av den och känner att du vill uppmuntra det fortsatta arbetet så får du hemskt gärna skicka en slant :)
