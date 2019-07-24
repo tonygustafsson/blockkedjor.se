@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Byteshandel (Trading)
+description: Behandlar om skillnaderna mellan aktiehandel och kryptohandel, vad du bör tänka på och går även in på vanliga fallgropar för nybörjare.
+---
+
 # Byteshandel (Trading)
 
 Att bli duktig på trading tar flera år, och det är normalt att göra dåliga affärer i början. Blockkedjor behöver inte enbart vara valutor, utan kan vara andra typer av projekt där blockkedjan fungerar som en decentraliserad databas. De kan exempelvis vara fokuserade på Internet of Things (IoT), spel, finans eller fastigheter. Så att investera i ett kryptoprojekt är ungefär som att investera i aktier.

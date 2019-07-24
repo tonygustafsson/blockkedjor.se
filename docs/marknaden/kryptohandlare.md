@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Kryptohandlare
+description: Om olika exchanges och hur de fungerar. Vad du bör tänka på, och riskerna med att lämna sina tillgångar på hos en exchange.
+---
+
 # Kryptohandlare (Exchanges)
 
 Kryptovalutor kan generellt skickas mellan två parter utan mellanhänder, vilket också är en av de största fördelarna med att använda dem. I Bitcoins ursprung fick man helt enkelt betala i kontanter, varpå en vänlig själ skickade Bitcoins i gengäld.

@@ -1,3 +1,9 @@
+---
+layout: layout.html
+title: Plånböcker
+description: Kryptovalutor sparas i en plånbok (eller wallet), vilket är en applikation som skyddas med din privata nyckel, och ger dig möjlighet att skicka och ta emot valutan i fråga.
+---
+
 # Plånböcker (wallets)
 
 En kryptovaluta ligger alltid i en plånbok. En plånbok är en applikation som kan vara på din dator, din mobiltelefon eller på en webbplats. Plånboken kopplar upp dig mot en blockkedja och med hjälp av en privat och en publik nyckel så kan du se dina tillgångar och skicka dem till andra konton.
