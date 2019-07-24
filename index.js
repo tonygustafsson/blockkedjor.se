@@ -6,10 +6,9 @@ var watch = require('metalsmith-watch');
 
 Metalsmith(__dirname)
     .metadata({
-        title: 'My Static Site & Blog',
-        description: "It's about saying »Hello« to the World.",
-        generator: 'Metalsmith',
-        url: 'http://www.metalsmith.io/'
+        pageTitle: 'Blockkedjor.se',
+        pageUrl: 'https://www.blockkedjor.se/',
+        googleAnalyticsId: 'UA-112261704-2'
     })
     .source('./docs')
     .destination('./dist')
