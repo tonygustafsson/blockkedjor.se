@@ -19,6 +19,11 @@
         font-size: 2em;
         display: inline;
         margin: 0;
+
+        a {
+            color: $menuForegroundColor;
+            text-decoration: none;
+        }
     }
 
     @media (max-width: $mobileBreakPoint) {
