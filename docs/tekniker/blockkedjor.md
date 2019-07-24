@@ -22,17 +22,17 @@ Blockkedjor har funnits i ca 10 år, men redan nu har upphovsmakare till nya blo
 
 ### Generation 1
 
-Den första generationens blockkedjor är typiskt enbart för transaktioner av pengar. Här till hör de tidiga blockkedjorna som [Bitcoin](../kryptovalutor/bitcoin.md) och [Litecoin](../kryptovalutor/litecoin.md). De är typiskt långsamma och rör sig med ett fåtal transaktioner i sekunden. De använder sig vanligtvis av [Proof of Work](proof-of-work.md) som konsensusmodell.
+Den första generationens blockkedjor är typiskt enbart för transaktioner av pengar. Här till hör de tidiga blockkedjorna som [Bitcoin](/kryptovalutor/bitcoin.html) och [Litecoin](/kryptovalutor/litecoin.html). De är typiskt långsamma och rör sig med ett fåtal transaktioner i sekunden. De använder sig vanligtvis av [Proof of Work](/tekniker/proof-of-work.html) som konsensusmodell.
 
 ### Generation 2
 
-Den här typen av blockkedjor hanterar vanligtvis andra saker än rena pengatransaktioner. De använder sig av [smarta kontrakt](smarta-kontrakt.md) och är applikationsplattformar. Ett typexempel är [Ethereum](../kryptovalutor/ethereum.md). Det är en fantastisk teknik där decentraliserade nätverk kan skapa spel, applikationer eller flytta pengar när vissa krav uppfylls. De är dock fortfarande långsamma, även om de är snabbare än Generation 1 så blir det extra tydligt när det handlar om applikationer.
+Den här typen av blockkedjor hanterar vanligtvis andra saker än rena pengatransaktioner. De använder sig av [smarta kontrakt](/tekniker/smarta-kontrakt.html) och är applikationsplattformar. Ett typexempel är [Ethereum](/kryptovalutor/ethereum.html). Det är en fantastisk teknik där decentraliserade nätverk kan skapa spel, applikationer eller flytta pengar när vissa krav uppfylls. De är dock fortfarande långsamma, även om de är snabbare än Generation 1 så blir det extra tydligt när det handlar om applikationer.
 
 ### Generation 3
 
-Det handlar fortfarande om pengatransaktioner och applikationsplattformar, men till den här generationen har man börjat fokusera på skalbarhet, hållbarhet och kommunikation mellan olika blockkedjor. För att lyckas med detta har man oftast lämnat Proof of Work bakom sig, och arbetar med [Proof of Stake](proof-of-stake.md) eller modernare modeller så som [riktade acykliska grafer](riktad-acyklisk-graf.md) eller [hashgrafer](hashgrafer.md).
+Det handlar fortfarande om pengatransaktioner och applikationsplattformar, men till den här generationen har man börjat fokusera på skalbarhet, hållbarhet och kommunikation mellan olika blockkedjor. För att lyckas med detta har man oftast lämnat Proof of Work bakom sig, och arbetar med [Proof of Stake](/tekniker/proof-of-stake.html) eller modernare modeller så som [riktade acykliska grafer](/tekniker/riktade-acykliska-grafer.html) eller [hashgrafer](/teknik/hashgrafer.html).
 
-Typexempel på dessa är [IOTA](../kryptovalutor/iota.md), [Neo](../kryptovalutor/neo.md) och [Nano](../kryptovalutor/nano.md).
+Typexempel på dessa är [IOTA](/kryptovalutor/iota.html), [Neo](/kryptovalutor/neo.html) och [Nano](/kryptovalutor/nano.html).
 
 ### Generation 4
 

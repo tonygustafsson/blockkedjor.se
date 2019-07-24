@@ -12,7 +12,7 @@ Den första kryptovalutan som såg världens ljus. I slutet av 2008 skapade en o
 
 Eftersom upphovsmakaren är okänd och det inte finns någon organisation bakom Bitcoin så anses valutan ostoppbar. Det finns tusentals Bitcoinnoder, och även om många styrs av en handfull organisationer och intressenter så har ingen så pass stort inflytande att nätverket kan stängas ner eller manipuleras.
 
-Bitcoin använder sig av [Proof of Work (PoW)](../tekniker/proof-of-work.md), och har kritiserats för att vara en miljöbov. Detta eftersom det är den största kryptovalutan, och därför finns det också flest miners/brytare som dedikerar sin hårdvara för att validera andras transaktioner och få en belöning för mödan. Detta är ett arbete som kräver mycket energi och är därför kostsamt för miljön. Men som motargument har getts att i jämförelse med guldbranschen och finansbranschen är det fortfarande försvinnande lite.
+Bitcoin använder sig av [Proof of Work (PoW)](/tekniker/proof-of-work.html), och har kritiserats för att vara en miljöbov. Detta eftersom det är den största kryptovalutan, och därför finns det också flest miners/brytare som dedikerar sin hårdvara för att validera andras transaktioner och få en belöning för mödan. Detta är ett arbete som kräver mycket energi och är därför kostsamt för miljön. Men som motargument har getts att i jämförelse med guldbranschen och finansbranschen är det fortfarande försvinnande lite.
 
 Det kommer aldrig finnas mer än 21 miljoner BTC, vilket skapar ett system fritt från inflation. Det estimeras att fyra miljoner av dessa har gått förlorade för alltid, genom tappade nycklar.
 
@@ -24,11 +24,11 @@ Det kommer aldrig finnas mer än 21 miljoner BTC, vilket skapar ett system fritt
 
 ## Nackdelar
 
--   Proof of Work är långsamt, och Bitcoin är bland de långsammaste kryptovalutorna med sina 3-5 transaktioner i sekunden. Därför har man implementerat lager-2-lösningar som [Lightning Network](../tekniker/lightning-network.md).
+-   Proof of Work är långsamt, och Bitcoin är bland de långsammaste kryptovalutorna med sina 3-5 transaktioner i sekunden. Därför har man implementerat lager-2-lösningar som [Lightning Network](/tekniker/lightning-network.html).
 -   Bitcoin anses röra sig extremt fort på marknaden i jämförelse med aktier, men i jämförelse med andra kryptovalutor är den relativt stabil.
 -   Äldst är förstås inte tekniskt bäst längre. De flesta valutor är idag mer tekniskt avancerade än Bitcoin. Eftersom plattformen är störst och äldst så är det än viktigare att inga avbrott eller förluster sker. Ett misstag och människor skulle tappa tilliten för gott. Det gör att tekniska framsteg måste testas i åratal innan de kan implementeras.
 -   Inget stöd för anonyma/hemliga transaktioner.
--   Inget stöd för [smarta kontrakt](../tekniker/smarta-kontrakt.md) eller distribuerade appar.
+-   Inget stöd för [smarta kontrakt](/tekniker/smarta-kontrakt.html) eller distribuerade appar.
 
 ## Att köpa
 

@@ -10,7 +10,7 @@ Blockkedjetekniken är inte bara en teknik för att skapa elektroniska valutor, 
 
 ## Valutor
 
-Det absolut vanligaste användningsområdet för blockkedjor idag är kryptovalutor så som [Bitcoin](kryptovalutor/bitcoin.md), [NANO](kryptovalutor/nano.md), [Ripple](kryptovalutor/xrp.md), [Litecoin](kryptovalutor/litecoin.md), [Stellar](kryptovalutor/stellar.md) och [Monero](kryptovalutor/monero.md). Det är ett av de allra bästa områdena eftersom blockkedjor inte kan påverkas eller manipuleras i efterhand. Transaktioner är små i datamängd och man vill ofta kunna spåra dem i efterhand.
+Det absolut vanligaste användningsområdet för blockkedjor idag är kryptovalutor så som [Bitcoin](/kryptovalutor/bitcoin.html), [NANO](/kryptovalutor/nano.html), [Ripple](/kryptovalutor/xrp.html), [Litecoin](/kryptovalutor/litecoin.html), [Stellar](/kryptovalutor/stellar.html) och [Monero](/kryptovalutor/monero.html). Det är ett av de allra bästa områdena eftersom blockkedjor inte kan påverkas eller manipuleras i efterhand. Transaktioner är små i datamängd och man vill ofta kunna spåra dem i efterhand.
 
 ## Internet of Things (IoT)
 
@@ -18,7 +18,7 @@ IoT handlar om att miljarder maskiner i framtiden kommer att prata med varandra.
 
 I en framtid där Übers bilar får betalt direkt av resenärerna och kan använda dessa tillgångar för att automatiskt kan betala tullavgifter och betala för elen som laddar den, eller där kaffemaskinen beställer kaffe när det börjar ta slut. Där ett hus kan betala sin el direkt till grannens solpanel.
 
-Här är det tydligt att det krävs en digital valuta där mikrotransaktioner är en självklarhet, där varje transaktion inte kostar pengar. Därför är det vanligt att IoT-kryptoprojekt baseras på [DAG-teknologi](tekniker/riktad-acyklisk-graf.md). Exempel på dessa är [IOTA](kryptovalutor/iota.md), Internet Node Token och IoT Chain.
+Här är det tydligt att det krävs en digital valuta där mikrotransaktioner är en självklarhet, där varje transaktion inte kostar pengar. Därför är det vanligt att IoT-kryptoprojekt baseras på [DAG-teknologi](/tekniker/riktade-acykliska-grafer.html). Exempel på dessa är [IOTA](/kryptovalutor/iota.html), Internet Node Token och IoT Chain.
 
 ## Logistik
 
@@ -26,7 +26,7 @@ Ett av de bästa områdena att applicera en blockkedja för är logistik. Att ve
 
 Det finns branscher som är extra utsatta, så som läkemedel och matindustrin. Där felaktig hantering och fraktsätt påverkar kvaliteten. Idag finns det blockkedjor som är speciellt utvecklade för att monitorera temperaturer, luftfuktighet, tapp, bakterier osv. Där mätinstrument kommunicerar direkt med blockkedjan, så att man med en app kan skanna ett paket kött och både se att kvaliteten är ok, men också varifrån det kommer, vad kon hette, vad bondon bor, hur lång tid frakten tog osv.
 
-Några av dessa blockkedjor är [VeChain](kryptovalutor/vechain.md), Internet Node Token, Morpheus Networks, WaltonChain och OriginTrail.
+Några av dessa blockkedjor är [VeChain](/kryptovalutor/vechain.html), Internet Node Token, Morpheus Networks, WaltonChain och OriginTrail.
 
 ## Spel
 

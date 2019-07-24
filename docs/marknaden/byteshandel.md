@@ -12,7 +12,7 @@ För att göra en god affär behöver du förstå tekniken bakom projektet, du b
 
 För de flesta är trading inte ett stort intresse, så de flesta köper kryptovalutor och håller dessa en lång tid framöver. Om man tror på ett projekt så vågar man hålla det i åratal. Är man lite mer äventyrlig kan man förutspå att ett projekt kommer gå bra på kort sikt, och kan därför planera att sälja igen efter en månad, en vecka eller om en timme (day trading).
 
-I korthet går det till på så vis att man hittar ett projekt man tycker om på exempelvis [CoinGecko](https://www.coingecko.com/), och kollar vilka [kryptohandlare](kryptohandlare.md) den tradas på. Man ser till att köpa en valuta som går att byta till detta projekt. Flyttar valutan till kryptohandlaren i fråga, och tradar till den valuta man vill ha. Man vill helst inte ha sina valutor hos en kryptohandlare, utan skickar dem till en plånbok som du själv ansvarar för.
+I korthet går det till på så vis att man hittar ett projekt man tycker om på exempelvis [CoinGecko](https://www.coingecko.com/), och kollar vilka [kryptohandlare](/marknaden/kryptohandlare.html) den tradas på. Man ser till att köpa en valuta som går att byta till detta projekt. Flyttar valutan till kryptohandlaren i fråga, och tradar till den valuta man vill ha. Man vill helst inte ha sina valutor hos en kryptohandlare, utan skickar dem till en plånbok som du själv ansvarar för.
 
 ## Vanliga misstag
 

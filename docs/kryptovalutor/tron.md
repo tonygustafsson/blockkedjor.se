@@ -12,7 +12,7 @@ Tron är baserad i Singapore och såg dagens ljus år 2017 med Justin Sun som gr
 
 Ambitionen är att fokusera på media, så som strömmande video, men göra det på ett decentraliserat sätt. Man köpte upp BitTorrent-klienten för en stor summa pengar och ser framför sig att man får BTT (Bittorrent Token) för att dela med sig av innehåll, som man sedan kan spendera på annat mediainnehåll.
 
-Man har stöd för [smarta kontrakt](../tekniker/smarta-kontrakt.md), och har många gamblingsiter som använder sig av TRON. Man har även stöd för andra tokens ovanpå TRON, precis som [Ethereum](../kryptovalutor/ethereum.md) gjort med ERC-20.
+Man har stöd för [smarta kontrakt](/tekniker/smarta-kontrakt.html), och har många gamblingsiter som använder sig av TRON. Man har även stöd för andra tokens ovanpå TRON, precis som [Ethereum](/kryptovalutor/ethereum.html) gjort med ERC-20.
 
 ## Fördelar
 
