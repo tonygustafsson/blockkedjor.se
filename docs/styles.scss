@@ -31,14 +31,24 @@ body {
     color: #fff;
     font-size: 85%;
     max-width: 250px;
-    padding: 0.5em 1em;
+    padding: 0.5em 0;
 
     &__content {
         position: fixed;
-        width: 250px;
-        height: 100vh;
+        width: calc(250px - 2em);
+        height: 98vh;
         overflow-y: auto;
         background-color: #000;
+        padding: 0 1em 1em 1em;
+
+        &::-webkit-scrollbar {
+            width: 6px;
+            background-color: #000;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: #666;
+        }
 
         @media (max-width: $mobileBreakPoint) {
             top: 20px;
