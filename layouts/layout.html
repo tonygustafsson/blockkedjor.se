@@ -1,22 +1,44 @@
 <!DOCTYPE html>
 <html lang="sv">
     <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ googleAnalyticsId }}"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', '{{ googleAnalyticsId }}');
+        </script>
+
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <title>{{ title }}</title>
+        <meta name="description" content="{{ description }}" />
+
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png" />
+        <link rel="manifest" href="/img/icons/site.webmanifest" />
+        <link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#5bbad5" />
+        <link rel="shortcut icon" href="/img/icons/favicon.ico" />
+        <meta name="msapplication-TileColor" content="#da532c" />
+        <meta name="msapplication-config" content="/img/icons/browserconfig.xml" />
+        <meta name="theme-color" content="#ffffff" />
 
         <link rel="stylesheet" href="/styles/main.css" />
+        <title>{{ title }} | {{ pageTitle }}</title>
     </head>
     <body>
         <div class="page-container">
             <div class="mobile-menu">
                 <a class="mobile-menu__trigger js-mobile-menu-trigger" href="#">&#9776;</a>
-                <h1>Blockkedjor.se</h1>
+                <h1>{{ pageTitle }}</h1>
             </div>
 
             <aside class="menu js-menu">
                 <div class="menu__content">
-                    <h1>Blockkedjor.se</h1>
+                    <h1>{{ pageTitle }}</h1>
 
                     <nav>
                         <ul>
