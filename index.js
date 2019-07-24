@@ -29,7 +29,8 @@ Metalsmith(__dirname)
         watch({
             paths: {
                 '${source}/**/*': true,
-                'templates/**/*': '**/*.md'
+                '${source}/styles/**/*': '**/*.scss',
+                'layouts/**/*': '**/*.md'
             },
             livereload: true
         })
