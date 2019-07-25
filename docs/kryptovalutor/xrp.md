@@ -2,6 +2,10 @@
 layout: layout.html
 title: Ripple (XRP)
 description: Skapades år 2012 utlovar snabba och smärtfria internationella transaktioner.
+mainImage: img/xrp.jpg
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Ripple (XRP)

@@ -2,6 +2,10 @@
 layout: layout.html
 title: Donationer
 description: Webbplatsen är en oberoende källa och är icke vinstdrivande. Den som finner webbplatsen till nytta får hemskt gärna skänka en slant för dess fortsatta utveckling.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Donationer

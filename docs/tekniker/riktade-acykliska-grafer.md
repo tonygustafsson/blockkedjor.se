@@ -2,6 +2,10 @@
 layout: layout.html
 title: Riktade acykliska grafer
 description: DAGs är en teknik som lovar snabbare transaktioner än blockkedjor och som med framgång används av kryptovalutor så som IOTA och NANO.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Riktade acykliska grafer (DAG)

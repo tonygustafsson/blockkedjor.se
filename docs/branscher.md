@@ -2,6 +2,10 @@
 layout: layout.html
 title: Branscher
 description: Blockkedjetekniken påverkar inte bara valutor, utan också exempelvis Internet of Things, logistik, spel och artificiell intelligens.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Branscher

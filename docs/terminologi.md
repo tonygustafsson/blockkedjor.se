@@ -2,6 +2,10 @@
 layout: layout.html
 title: Terminologi
 description: Det är lätt att bli förvirrad i kryptosfären. Här hittar du en lista med vanliga begrepp och deras betydelse.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Terminologi

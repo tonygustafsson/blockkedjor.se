@@ -16,6 +16,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="{{ description }}" />
 
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="{{ title }}" />
+        <meta property="og:description" content="{{ description }}" />
+        <meta property="og:image" content="{{ pageUrl }}{{ mainImage }}" />
+        <meta property="og:url" content="{{ canonical }}" />
+
+        <link rel="canonical" href="{{ canonical }}" />
+
         <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png" />
@@ -110,6 +118,26 @@
                 <div class="article__content">{{{ contents }}}</div>
             </article>
         </div>
+
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@type": "Article",
+                "name": "{{ title }}",
+                "headline": "{{ title }}",
+                "image": "{{ pageUrl }}{{ mainImage }}",
+                "description": "{{ description }}",
+                "dateCreated": "{{ created }}",
+                "datePublished": "{{ created }}",
+                "dateModified": "{{ modified }}",
+                "author": "{{ author }}",
+                "url": "{{ canonical }}",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ pageTitle }}"
+                }
+            }
+        </script>
 
         <script src="/js/main.js"></script>
         <script src="http://localhost:35729/livereload.js"></script>

@@ -2,6 +2,10 @@
 layout: layout.html
 title: Byteshandel (Trading)
 description: Behandlar om skillnaderna mellan aktiehandel och kryptohandel, vad du bör tänka på och går även in på vanliga fallgropar för nybörjare.
+mainImage: img/mistake.jpg
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Byteshandel (Trading)

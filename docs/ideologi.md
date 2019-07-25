@@ -2,6 +2,10 @@
 layout: layout.html
 title: Ideologi
 description: Behandlar ideologin och tankarna bakom kryptovalutor och sfären som står bakom. Präglas främst av libertarianism, frihet och i viss mån anarki.
+mainImage: img/cencorship.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Ideologi

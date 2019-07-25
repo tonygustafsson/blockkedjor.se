@@ -3,6 +3,7 @@ var markdown = require('metalsmith-markdown');
 var layouts = require('metalsmith-layouts');
 var sass = require('metalsmith-sass');
 var watch = require('metalsmith-watch');
+var canonical = require('metalsmith-canonical');
 
 Metalsmith(__dirname)
     .metadata({
@@ -14,6 +15,11 @@ Metalsmith(__dirname)
     .destination('./dist')
     .clean(true)
     .use(markdown())
+    .use(
+        canonical({
+            hostname: 'https://www.blockkedjor.se/'
+        })
+    )
     .use(
         layouts({
             engine: 'handlebars'

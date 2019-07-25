@@ -2,6 +2,10 @@
 layout: layout.html
 title: Plånböcker
 description: Kryptovalutor sparas i en plånbok (eller wallet), vilket är en applikation som skyddas med din privata nyckel, och ger dig möjlighet att skicka och ta emot valutan i fråga.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Plånböcker (wallets)

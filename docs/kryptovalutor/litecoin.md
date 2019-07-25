@@ -2,6 +2,10 @@
 layout: layout.html
 title: Litecoin (LTC)
 description: Bitcoins lillebror som skapades av Charlie Lee år 2011. Tanken är en snabbare, lättare och billigare valuta än BTC.
+mainImage: img/litecoin.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Litecoin (LTC)

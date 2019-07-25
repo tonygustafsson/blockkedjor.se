@@ -2,6 +2,10 @@
 layout: layout.html
 title: Blockkedjor
 description: Om tekniken bakom blockkedjor. Hur de fungerar och vad de kan användas till, samt om de olika generationerna sedan 2009.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Blockkedjor

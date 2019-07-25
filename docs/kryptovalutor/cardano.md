@@ -2,6 +2,10 @@
 layout: layout.html
 title: Cardano (ADA)
 description: En plattform på smarta kontrakt som konkurrerar med Ethereum. Deras metodik är akademisk och vetenskaplig.
+mainImage: img/cardano.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
 ---
 
 # Cardano (ADA)
