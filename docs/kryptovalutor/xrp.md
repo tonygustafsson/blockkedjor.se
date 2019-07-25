@@ -37,4 +37,6 @@ De går att köpa direkt med kontokort eller banköverföring på [CoinBase](htt
 
 ## Nuvarande pris (CoinGecko)
 
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+
 <coingecko-coin-ticker-widget currency="sek" coin-id="ripple" locale="en"></coingecko-coin-ticker-widget>

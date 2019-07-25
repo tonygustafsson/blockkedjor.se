@@ -34,4 +34,6 @@ De går att köpa direkt med kontokort eller banköverföring på [CoinBase](htt
 
 ## Nuvarande pris (CoinMarketCap)
 
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+
 <coingecko-coin-ticker-widget currency="sek" coin-id="litecoin" locale="en"></coingecko-coin-ticker-widget>

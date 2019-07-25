@@ -39,4 +39,6 @@ De går att köpa BNB (Binance Coin) med kontokort på [Binance](https://www.bin
 
 ## Nuvarande pris (CoinGecko)
 
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+
 <coingecko-coin-ticker-widget currency="sek" coin-id="cardano" locale="en"></coingecko-coin-ticker-widget>

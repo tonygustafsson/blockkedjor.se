@@ -14,4 +14,6 @@ Information kommer.
 
 ## Nuvarande pris (CoinGecko)
 
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+
 <coingecko-coin-ticker-widget currency="sek" coin-id="stellar" locale="en"></coingecko-coin-ticker-widget>
