@@ -1,10 +1,20 @@
-# Cardano
+---
+layout: layout.html
+title: Cardano (ADA)
+description: En plattform på smarta kontrakt som konkurrerar med Ethereum. Deras metodik är akademisk och vetenskaplig.
+mainImage: img/cardano.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
+# Cardano (ADA)
 
 ![Cardano](../img/cardano.png 'Cardano')
 
-Cardano är en Ethereumutmanare och skapades år 2015 av Charles Hoskinson, som var en av grundarna av [Ethereum](ethereum.md).
+Cardano är en Ethereumutmanare och skapades år 2015 av Charles Hoskinson, som var en av grundarna av [Ethereum](/kryptovalutor/ethereum.html).
 
-Cardano är inte bara en kryptovaluta, utan även en plattform för [smarta kontrakt](../tekniker/smarta-kontrakt.md). Precis som [Ethereum](ethereum.md), men med modernare teknik som framöver kommer ha mycket högre hastigheter.
+Cardano är inte bara en kryptovaluta, utan även en plattform för [smarta kontrakt](/tekniker/smarta-kontrakt.html). Precis som [Ethereum](/kryptovalutor/ethereum.html), men med modernare teknik som framöver kommer ha mycket högre hastigheter.
 
 Projektet har ett fantastiskt team, och det drivs på ett vetenskapligt och akademiskt vis. Det vill säga, all kod som slutligen blir en del av produkten granskas av och testas ordentligt. Det gör att utvecklingen ibland går långsammare än förväntat, men det ger också en kodbas som genomstrålar kvalitet.
 
@@ -14,7 +24,7 @@ Projektet har ett fantastiskt team, och det drivs på ett vetenskapligt och akad
 -   Många bra partnerskap.
 -   Bra team, duktiga utvecklare.
 -   De har separerat smarta kontrakt på ett eget lager, vilket gör flera saker enklare.
--   [Proof of Stake](../tekniker/proof-of-stake.md) i stället för [Proof of Work](../tekniker/proof-of-work.md), vilket är snabbare. Dock kommer även Ethereum att implementera detta framöver.
+-   [Proof of Stake](/tekniker/proof-of-stake.html) i stället för [Proof of Work](/tekniker/proof-of-work.html), vilket är snabbare. Dock kommer även Ethereum att implementera detta framöver.
 
 ## Nackdelar
 
@@ -28,5 +38,7 @@ Projektet har ett fantastiskt team, och det drivs på ett vetenskapligt och akad
 De går att köpa BNB (Binance Coin) med kontokort på [Binance](https://www.binance.com) och därefter köpa Cardano för dessa. Alternativt köpa Ethereum på [CoinBase](https://www.coinbase.com/), flytta dessa till Binance, och därefter byta ETH mot ADA (Cardano).
 
 ## Nuvarande pris (CoinGecko)
+
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
 
 <coingecko-coin-ticker-widget currency="sek" coin-id="cardano" locale="en"></coingecko-coin-ticker-widget>

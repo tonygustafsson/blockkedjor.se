@@ -1,0 +1,32 @@
+.mobile-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 100%;
+    background: $menuBackgroundColor;
+    color: $menuForegroundColor;
+    z-index: 2;
+
+    &__trigger {
+        font-size: 1.7em;
+        color: $menuForegroundColor;
+        text-decoration: none;
+        margin: 0 0.2em;
+    }
+
+    h1 {
+        font-size: 2em;
+        display: inline;
+        margin: 0;
+
+        a {
+            color: $menuForegroundColor;
+            text-decoration: none;
+        }
+    }
+
+    @media (max-width: $mobileBreakPoint) {
+        display: block;
+    }
+}

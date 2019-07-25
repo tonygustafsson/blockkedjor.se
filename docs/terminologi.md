@@ -1,6 +1,16 @@
+---
+layout: layout.html
+title: Terminologi
+description: Det är lätt att bli förvirrad i kryptosfären. Här hittar du en lista med vanliga begrepp och deras betydelse.
+mainImage:
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
 # Terminologi
 
-Det är lätt att bli förvirrad om man hoppar in på [Sociala nätverk](sociala-natverk.md) och börjar läsa när människor slänger sig med konstiga uttryck och ord man inte känner igen. Här ska vi försöka förklara de viktigaste av dem.
+Det är lätt att bli förvirrad om man hoppar in på [Sociala nätverk](/sociala-natverk.html) och börjar läsa när människor slänger sig med konstiga uttryck och ord man inte känner igen. Här ska vi försöka förklara de viktigaste av dem.
 
 -   **51% Attack:** Blockkedjor är decentraliserade databaser, och om mer än hälften av alla noder i ett nätverk kontrolleras av en och samma part så kan de i många fall göra vad de vill. Exempelvis förhindra vissa transaktioner, skapa nya ickekorrekta transaktioner eller styra valutan åt ett håll som de flesta inte finner önskvärt.
 -   **Adress:** En publik nyckel är det samma som din adress i de flesta fall. Vissa blockkedjor låter dig generera nya adresser. En adress är alltså dit du kan skicka en kryptovaluta till. De består vanligtvis av ett gäng bokstäver och siffror och det gäller att ha tungan rätt i mun när du skickar pengar till en adress.

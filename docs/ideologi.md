@@ -1,3 +1,13 @@
+---
+layout: layout.html
+title: Ideologi
+description: Behandlar ideologin och tankarna bakom kryptovalutor och sfären som står bakom. Präglas främst av libertarianism, frihet och i viss mån anarki.
+mainImage: img/cencorship.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
 # Ideologi
 
 Hela sfären med kryptovalutor och blockkedjor präglas i stor mån av öppen källkod och libertarianism. Tanken är att var och ens pengar är ens egna - att de är fria att använda och att ingen bör bestämma vad man får spendera sina pengar på, eller spåra vart dessa tar vägen.

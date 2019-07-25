@@ -1,4 +1,14 @@
-# XRP (Ripple)
+---
+layout: layout.html
+title: Ripple (XRP)
+description: Skapades år 2012 utlovar snabba och smärtfria internationella transaktioner.
+mainImage: img/xrp.jpg
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
+# Ripple (XRP)
 
 ![Ripple](../img/xrp.jpg 'Ripple')
 
@@ -26,5 +36,7 @@ De lanserade bland annat xRapid som är tänkt att direkt konkurrera med SWIFT f
 De går att köpa direkt med kontokort eller banköverföring på [CoinBase](https://www.coinbase.com/).
 
 ## Nuvarande pris (CoinGecko)
+
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
 
 <coingecko-coin-ticker-widget currency="sek" coin-id="ripple" locale="en"></coingecko-coin-ticker-widget>

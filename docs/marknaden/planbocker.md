@@ -1,8 +1,18 @@
+---
+layout: layout.html
+title: Plånböcker
+description: Kryptovalutor sparas i en plånbok (eller wallet), vilket är en applikation som skyddas med din privata nyckel, och ger dig möjlighet att skicka och ta emot valutan i fråga.
+mainImage: img/banano-wallet.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
 # Plånböcker (wallets)
 
 En kryptovaluta ligger alltid i en plånbok. En plånbok är en applikation som kan vara på din dator, din mobiltelefon eller på en webbplats. Plånboken kopplar upp dig mot en blockkedja och med hjälp av en privat och en publik nyckel så kan du se dina tillgångar och skicka dem till andra konton.
 
-En [kryptohandlare](marknaden/kryptohandlare.md) håller plånböcker åt dig, där du får tillgång till den publika nyckeln (din adress), men aldrig den privata nyckeln. Det är enkelt och smärtfritt att hålla pengarna hos en kryptohandlare, men du ger då bort kontrollen till dem. Det är alltid att rekommendera att du håller din egen privata nyckel i en egen plånbok.
+En [kryptohandlare](/marknaden/kryptohandlare.html) håller plånböcker åt dig, där du får tillgång till den publika nyckeln (din adress), men aldrig den privata nyckeln. Det är enkelt och smärtfritt att hålla pengarna hos en kryptohandlare, men du ger då bort kontrollen till dem. Det är alltid att rekommendera att du håller din egen privata nyckel i en egen plånbok.
 
 ## Säkerhet
 
@@ -14,4 +24,4 @@ Men det absolut säkraste sättet är att köpa dig en hårdvarunyckel, såsom [
 
 Dessa ord skapar nämligen din privata nyckel med hjälp av en algoritm. Samma algoritm kan skapa upp samtliga privata nycklar åt dig som används av en uppsjö olika kryptovalutor.
 
-![Banano wallet](img/banano-wallet.png 'Banano wallet')
+![Banano wallet](/img/banano-wallet.png 'Banano wallet')

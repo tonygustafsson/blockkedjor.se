@@ -1,3 +1,13 @@
+---
+layout: layout.html
+title: Skatt
+description: Berättar om hur man egentligen hanterar skatt för kryptovalutor. Förpliktelser och möjligheter.
+mainImage: img/tax.png
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
 # Skatt
 
 Om dina investeringar har gått med vinst så skall du betala skatt till Skatteverket. Det finns idag inga tydliga regler specifikt för kryptovalutor, vilket gör processen smärtsam och komplicerad i många fall.

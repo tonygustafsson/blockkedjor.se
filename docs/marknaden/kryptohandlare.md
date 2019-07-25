@@ -1,3 +1,13 @@
+---
+layout: layout.html
+title: Kryptohandlare
+description: Om olika exchanges och hur de fungerar. Vad du bör tänka på, och riskerna med att lämna sina tillgångar på hos en exchange.
+mainImage: img/exchange.jpg
+author: Tony Gustafsson
+created: 2019-07-22
+modified: 2019-07-25
+---
+
 # Kryptohandlare (Exchanges)
 
 Kryptovalutor kan generellt skickas mellan två parter utan mellanhänder, vilket också är en av de största fördelarna med att använda dem. I Bitcoins ursprung fick man helt enkelt betala i kontanter, varpå en vänlig själ skickade Bitcoins i gengäld.
@@ -34,7 +44,7 @@ Gränssnittet är krångligt, och de kräver att du redan har kryptovalutor att 
 
 En vanlig exchange är centraliserad på samma vis som en bank är det. De har lager med kryptovalutor, och när det står att du äger 10 Ethereum så är det deras databas som säger att de är skydliga dig detta. De håller det åt dig. När du köper mer av en valuta så sker det troligtvis ingen förändring på blockkedjan, utan bara i deras interna system.
 
-Så fungerar det inte på en decentraliserad kryptohandel. Där verifierar man in med sin [plånbok](../planbocker.md) och man köper och säljer valutor direkt mellan två parter, utan att det går igenom en mellanhand. De flesta har idag fortfarande sin orderlista centraliserad, men nya spelare på marknaden har även löst den saken.
+Så fungerar det inte på en decentraliserad kryptohandel. Där verifierar man in med sin [plånbok](/marknaden/planbocker.html) och man köper och säljer valutor direkt mellan två parter, utan att det går igenom en mellanhand. De flesta har idag fortfarande sin orderlista centraliserad, men nya spelare på marknaden har även löst den saken.
 
 Många tror att DEXes kommer att ta över kryptohandeln mer och mer framöver, då de följer samma ideologi som kryptovalutorna i sig. Dvs inga mellanhänder, och full kontroll till individen. Generellt har de fler små, obskyra kryptovalutor som andra inte har, men har en viss inlärningströskel.
 

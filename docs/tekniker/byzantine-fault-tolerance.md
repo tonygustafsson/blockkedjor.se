@@ -1,6 +1,6 @@
 ---
 layout: layout.html
-title: Proof of Work (PoW)
+title: Byzantine Fault Tolerance (BFT)
 description:
 mainImage:
 author: Tony Gustafsson
@@ -8,6 +8,6 @@ created: 2019-07-22
 modified: 2019-07-25
 ---
 
-# Proof of Work (PoW)
+# Byzantine Fault Tolerance (BFT)
 
 Information kommer.
