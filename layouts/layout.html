@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="sv">
     <head>
+        {{#if productionMode}}
         <script async src="https://www.googletagmanager.com/gtag/js?id={{ googleAnalyticsId }}"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
@@ -11,6 +12,7 @@
 
             gtag('config', '{{ googleAnalyticsId }}');
         </script>
+        {{/if}}
 
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -140,6 +142,9 @@
         </script>
 
         <script src="/js/main.js"></script>
+
+        {{#unless productionMode}}
         <script src="http://localhost:35729/livereload.js"></script>
+        {{/unless}}
     </body>
 </html>

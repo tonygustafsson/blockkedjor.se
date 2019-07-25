@@ -1,15 +1,25 @@
-var Metalsmith = require('metalsmith');
-var markdown = require('metalsmith-markdown');
-var layouts = require('metalsmith-layouts');
-var sass = require('metalsmith-sass');
-var watch = require('metalsmith-watch');
-var canonical = require('metalsmith-canonical');
+const Metalsmith = require('metalsmith');
+const markdown = require('metalsmith-markdown');
+const layouts = require('metalsmith-layouts');
+const sass = require('metalsmith-sass');
+const watch = require('metalsmith-watch');
+const canonical = require('metalsmith-canonical');
+const msIf = require('metalsmith-if');
+
+const productionMode = process.argv[2] === 'build';
+
+if (productionMode) {
+    console.log('Building in production mode.');
+} else {
+    console.log('Building in development mode.');
+}
 
 Metalsmith(__dirname)
     .metadata({
         pageTitle: 'Blockkedjor.se',
         pageUrl: 'https://www.blockkedjor.se/',
-        googleAnalyticsId: 'UA-112261704-2'
+        googleAnalyticsId: 'UA-112261704-2',
+        productionMode: productionMode
     })
     .source('./docs')
     .destination('./dist')
@@ -27,18 +37,21 @@ Metalsmith(__dirname)
     )
     .use(
         sass({
-            outputStyle: 'expanded'
+            outputStyle: productionMode ? 'compressed' : 'expanded'
         })
     )
     .use(
-        watch({
-            paths: {
-                '${source}/**/*': true,
-                '${source}/styles/**/*': '**/*.scss',
-                'layouts/**/*': '**/*.md'
-            },
-            livereload: true
-        })
+        msIf(
+            !productionMode,
+            watch({
+                paths: {
+                    '${source}/**/*': true,
+                    '${source}/styles/**/*': '**/*.scss',
+                    'layouts/**/*': '**/*.md'
+                },
+                livereload: !productionMode
+            })
+        )
     )
     .build(function(err, files) {
         if (err) {
