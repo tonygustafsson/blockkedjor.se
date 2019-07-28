@@ -5,12 +5,14 @@ description: Skapades år 2012 utlovar snabba och smärtfria internationella tra
 mainImage: img/xrp.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # Ripple (XRP)
 
 ![Ripple](../img/xrp.jpg 'Ripple')
+
+Officiell webbplats: https://www.ripple.com/xrp/
 
 Valutan och plattformen XRP lanserades av Ripple år 2012 och är tänkt att utmana "gammelbankerna" genom snabba och billiga internationella transaktioner.
 

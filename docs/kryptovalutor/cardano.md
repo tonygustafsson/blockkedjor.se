@@ -5,12 +5,14 @@ description: En plattform på smarta kontrakt som konkurrerar med Ethereum. Dera
 mainImage: img/cardano.png
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # Cardano (ADA)
 
 ![Cardano](../img/cardano.png 'Cardano')
+
+Officell webbplats: https://www.cardano.org/
 
 Cardano är en Ethereumutmanare och skapades år 2015 av Charles Hoskinson, som var en av grundarna av [Ethereum](/kryptovalutor/ethereum.html).
 

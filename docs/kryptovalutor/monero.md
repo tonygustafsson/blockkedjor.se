@@ -12,6 +12,8 @@ modified: 2019-07-28
 
 ![Monero](../img/monero.jpg 'Monero')
 
+Officell webbplats: https://web.getmonero.org/
+
 Monero skapades år 2014 av ett gäng på sju utvecklare, varav de flesta har valt att vara anonyma. Det är ett communitydrivet projekt, som främst sticker ut för att värna om anonymitet. Projektet ursprung kommer ur ett tidigt kryptoprojekt kallat Bytecoin, som senare blev Bitmonero och till sist bara Monero ("Mynt" på esperanto).
 
 Projektet använder ringsignaturer för att dölja vem som skickade XMR till vem. Inte ens summan är publik eller kan ses i efterhand. Det gör att en XMR alltid är en XMR. I [Bitcoins](/kryptovalutor/bitcoin.html) fall så kan vissa BTC anses vara befläckade på grund av sitt ursprung. Men här finns det alltså inget ursprung att begrunda.

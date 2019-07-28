@@ -5,12 +5,14 @@ description: Den första valutan som såg världens ljust. Skapades av pseudonym
 mainImage: img/bitcoin.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # Bitcoin (BTC)
 
 ![Bitcoin](../img/bitcoin.jpg 'Bitcoin')
+
+Officiell webbplats: https://www.bitcoin.org/
 
 Den första kryptovalutan som såg världens ljus. I slutet av 2008 skapade en okänd person eller organisation med pseudonymen Satoshi Nakamoto en ny typ av digital valuta. För första gången skapade man en distribuerad databas som inte kunde manipuleras i efterhand och där transaktioner inte bara kunde kopieras. Man löste problemet med dubbelspendering.
 
