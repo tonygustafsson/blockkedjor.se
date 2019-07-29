@@ -32,6 +32,7 @@ De lanserade bland annat xRapid som är tänkt att direkt konkurrera med SWIFT f
 -   De är en centraliserad organisation och måste följa regeringarnas lagar som de ger sig in i. Det innebär också att de kan frysa transaktioner och rulla tillbaka tvivelaktiga sådana.
 -   Ripple Labs äger 61% av alla XRP.
 -   Om regeringar och storbanker beslutar sig för att XRP och xRapid är en dålig idé så finns risken att valutan inte har någon framtid alls.
+-   Inget stöd för anonyma/hemliga transaktioner.
 
 ## Att köpa
 
