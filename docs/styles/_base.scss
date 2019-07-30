@@ -9,6 +9,13 @@ body {
     margin: 0;
 }
 
+pre {
+    white-space: pre-line;
+    font-size: 80%;
+    background: $grey-very-light;
+    padding: 1em;
+}
+
 .page-container {
     display: flex;
     justify-content: stretch;
