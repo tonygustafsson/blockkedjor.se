@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: NANO
 description: En riktigt snabb valuta som baseras på DAG-teknologi med fria transaktioner.
 mainImage: img/nano.png

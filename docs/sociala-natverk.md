@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Sociala nätverk
 description: Det kan vara ensamt i kryptosfären - här hittar du information om sociala nätverk som relaterar till kryptovalutor och blockkedjor.
 mainImage:

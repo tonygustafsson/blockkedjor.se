@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: IOTA
 description: En lösning för Internet of Things som baseras på DAG-teknologi, som utlovar lösa problemet med skalbarhet. Med gratis och fria transaktioner möjliggörs mikrotransaktioner på ett sätt som tidigare inte varit möjligt.
 mainImage: img/iota.png

@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Decentraliserade applikationer (DApps)
 description: Om appar och applikationer vars data integrerar mot decentraliserade system och blockkedjor. Detta möjliggör ostoppbara och ocensurerbara applikationer.
 mainImage: img/decentraliserade-applikationer.jpg

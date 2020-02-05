@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Proof of Work (PoW)
 description: En konsensusmodell där miners utför kostsamma beräkningar för att beräkna miljoner kontrollsummor i sekunden, och där vinnaren belönas i valutans mynt.
 mainImage: img/proof-of-work.jpg

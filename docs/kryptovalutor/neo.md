@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: NEO
 description: En plattform för den smarta ekonomin, från Kina. De har snabba energieffektiva transaktioner och är populära i öst.
 mainImage: img/neo.png

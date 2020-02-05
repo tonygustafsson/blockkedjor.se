@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Riktade acykliska grafer
 description: DAGs är en teknik som lovar snabbare transaktioner än blockkedjor och som med framgång används av kryptovalutor så som IOTA och NANO.
 mainImage: img/dag.png

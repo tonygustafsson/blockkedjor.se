@@ -35,7 +35,10 @@ Metalsmith(__dirname)
     )
     .use(
         layouts({
-            engine: 'handlebars'
+            engine: 'handlebars',
+            default: 'default.hbs',
+            directory: './layouts',
+            pattern: '**/*.html'
         })
     )
     .use(
@@ -50,7 +53,7 @@ Metalsmith(__dirname)
                 paths: {
                     '${source}/**/*': true,
                     '${source}/styles/**/*': '**/*.scss',
-                    'layouts/**/*': '**/*.md'
+                    'layouts/**/*': '**/*.hbs'
                 },
                 livereload: !productionMode
             })

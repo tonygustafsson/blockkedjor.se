@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Donationer
 description: Webbplatsen är en oberoende källa och är icke vinstdrivande. Den som finner webbplatsen till nytta får hemskt gärna skänka en slant för dess fortsatta utveckling.
 mainImage:

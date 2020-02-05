@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Terminologi
 description: Det är lätt att bli förvirrad i kryptosfären. Här hittar du en lista med vanliga begrepp och deras betydelse.
 mainImage:

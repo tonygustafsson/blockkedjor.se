@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    {{#if productionMode}}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ googleAnalyticsId }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', '{{ googleAnalyticsId }}');
+    </script>
+    {{/if}}
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="{{ description }}" />
+
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="{{ pageUrl }}{{ mainImage }}" />
+    <meta property="og:url" content="{{ canonical }}" />
+
+    <link rel="canonical" href="{{ canonical }}" />
+
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png" />
+    <link rel="manifest" href="/img/icons/site.webmanifest" />
+    <link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="shortcut icon" href="/img/icons/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="msapplication-config" content="/img/icons/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="stylesheet" href="/styles/main.css" />
+    <title>{{ title }} | {{ pageTitle }}</title>
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="mobile-menu">
+            <a class="mobile-menu__trigger js-mobile-menu-trigger" href="#">&#9776;</a>
+            <h1>
+                <a href="/index.html">{{ pageTitle }}</a>
+            </h1>
+        </div>
+
+        <aside class="menu js-menu">
+            <div class="menu__content">
+                <h1>
+                    <a href="/index.html">{{ pageTitle }}</a>
+                </h1>
+
+                <nav>
+                    <ul>
+                        <li><a href="/ideologi.html">Ideologi</a></li>
+                        <li><a href="/skatt.html">Skatt</a></li>
+                        <li><a href="/branscher.html">Branscher</a></li>
+                        <li><a href="/sociala-natverk.html">Sociala nätverk</a></li>
+                        <li><a href="/terminologi.html">Terminologi</a></li>
+                    </ul>
+                </nav>
+
+                <h2>Marknad &amp; ekonomi</h2>
+
+                <nav>
+                    <ul>
+                        <li><a href="/marknaden/byteshandel.html">Byteshandel (Trading)</a></li>
+                        <li><a href="/marknaden/kryptohandlare.html">Kryptohandlare (Exchanges)</a></li>
+                        <li><a href="/marknaden/planbocker.html">Plånböcker</a></li>
+                        <li><a href="/marknaden/passiv-inkomst.html">Passiv inkomst</a></li>
+                    </ul>
+                </nav>
+
+                <h2>Tekniker</h2>
+
+                <nav>
+                    <ul>
+                        <li><a href="/tekniker/blockkedjor.html">Blockkedjor</a></li>
+                        <li><a href="/tekniker/riktade-acykliska-grafer.html">Riktade acykliska grafer</a></li>
+                        <li><a href="/tekniker/proof-of-work.html">Proof of Work</a></li>
+                        <li><a href="/tekniker/proof-of-stake.html">Proof of Stake</a></li>
+                        <li><a href="/tekniker/byzantine-fault-tolerance.html">Byzantine Fault Tolerance</a></li>
+                        <li><a href="/tekniker/smarta-kontrakt.html">Smarta kontrakt</a></li>
+                        <li><a href="/tekniker/lightning-network.html">Lightning network</a></li>
+                        <li>
+                            <a href="/tekniker/decentraliserade-applikationer.html">Decentraliserade applikationer</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <h2>Kryptovalutor</h2>
+
+                <nav>
+                    <ul>
+                        <li><a href="/kryptovalutor/bitcoin.html">Bitcoin</a></li>
+                        <li><a href="/kryptovalutor/ethereum.html">Ethereum</a></li>
+                        <li><a href="/kryptovalutor/xrp.html">XRP (Ripple)</a></li>
+                        <li><a href="/kryptovalutor/litecoin.html">Litecoin</a></li>
+                        <li><a href="/kryptovalutor/cardano.html">Cardano</a></li>
+                        <li><a href="/kryptovalutor/tron.html">TRON</a></li>
+                        <li><a href="/kryptovalutor/stellar.html">Stellar</a></li>
+                        <li><a href="/kryptovalutor/monero.html">Monero</a></li>
+                        <li><a href="/kryptovalutor/neo.html">NEO</a></li>
+                        <li><a href="/kryptovalutor/iota.html">IOTA</a></li>
+                        <li><a href="/kryptovalutor/vechain.html">VeChain</a></li>
+                        <li><a href="/kryptovalutor/nano.html">NANO</a></li>
+                    </ul>
+                </nav>
+
+                <nav>
+                    <ul>
+                        <li><a href="/donationer.html">Donationer</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
+
+        <article class="article">
+            <div class="article__content">{{{ contents }}}</div>
+        </article>
+    </div>
+
+    <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@type": "Article",
+                "name": "{{ title }}",
+                "headline": "{{ title }}",
+                "image": "{{ pageUrl }}{{ mainImage }}",
+                "description": "{{ description }}",
+                "dateCreated": "{{ created }}",
+                "datePublished": "{{ created }}",
+                "dateModified": "{{ modified }}",
+                "author": "{{ author }}",
+                "url": "{{ canonical }}",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ pageTitle }}"
+                }
+            }
+        </script>
+
+    <script src="/js/main.js"></script>
+
+    {{#unless productionMode}}
+    <script src="http://localhost:35729/livereload.js"></script>
+    {{/unless}}
+</body>
+
+</html>

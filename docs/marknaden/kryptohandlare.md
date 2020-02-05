@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Kryptohandlare
 description: Om olika exchanges och hur de fungerar. Vad du bör tänka på, och riskerna med att lämna sina tillgångar på hos en exchange.
 mainImage: img/exchange.jpg

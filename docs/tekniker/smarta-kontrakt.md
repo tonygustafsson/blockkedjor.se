@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Smarta kontrakt
 description: En lösning som anammades av Ethereum för första gången och går ut på att lägga if/then-regler på blockkedjan. Exempelvis om 10 kr sätts in på följande konto, skicka 50% till person X och 50% till person Y.
 mainImage: img/smart-contracts.png

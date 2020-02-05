@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Monero (XMR)
 description: En digital och anonym kryptovaluta som använder sig av ringsignaturer och dynamisk blockstorlek.
 mainImage: img/monero.jpg

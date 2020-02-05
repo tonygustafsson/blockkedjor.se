@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Stellar (XLM)
 description: Stellar skapades av Jed McCaleb år 2014 som ett svar på Ripple. Projektet har som avsikt att hjälpa den utvecklande världen med transaktioner och är mer decentralicerade än motparten Ripple.
 mainImage: img/stellar.jpg

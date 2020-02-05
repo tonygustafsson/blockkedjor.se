@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Blockkedjor
 description: Om tekniken bakom blockkedjor. Hur de fungerar och vad de kan användas till, samt om de olika generationerna sedan 2009.
 mainImage: img/blockchain.png

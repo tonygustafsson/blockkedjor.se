@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Lightning Network
 description: En lager-2-lösning för bland annat Bitcoin och Litecoin som löser problemet med skalbarhet. Transaktioner sker inte längre på lager-1-kedjan utan endast resultatet av lager-2-kedjan lagras.
 mainImage:

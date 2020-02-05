@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Passiv inkomst
 description: Om hur du kan tjäna pengar på kryptosfären medan du sover. Genom att hålla mynt, staking, masternodes, belåning och mining.
 mainImage: img/passive-income.png

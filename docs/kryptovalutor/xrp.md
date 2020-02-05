@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Ripple (XRP)
 description: Skapades år 2012 utlovar snabba och smärtfria internationella transaktioner.
 mainImage: img/xrp.jpg

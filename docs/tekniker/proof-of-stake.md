@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Proof of Stake (PoS)
 description: En lösning för skalbarhet, transaktionstider och elkostader som Proof of Work är betyngat med. Här röstas i stället en validerande nod fram baserat på slump, insats och insatsens ålder.
 mainImage: img/proof-of-stake.jpg

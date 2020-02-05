@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: VeChain (VET)
 description: En blockkedja vars syfte är att mäta, spåra och garantera produkters kvalitet. Med bra partnerskap i ryggen och stöd för smarta kontrakt och decentraliserade applikationer.
 mainImage: img/vechain.jpg
