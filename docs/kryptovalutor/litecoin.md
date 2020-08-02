@@ -1,16 +1,18 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Litecoin (LTC)
 description: Bitcoins lillebror som skapades av Charlie Lee år 2011. Tanken är en snabbare, lättare och billigare valuta än BTC.
 mainImage: img/litecoin.png
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # Litecoin (LTC)
 
 ![Litecoin](../img/litecoin.png 'Litecoin')
+
+Officell webbplats: https://litecoin.org/
 
 Litecoin skapades år 2011 av Charlie Lee, och är en fork på [Bitcoin](/kryptovalutor/bitcoin.html). Tanken är ett mynt som är snabbare, lättare och billigare att använda. Ofta ses Litecoin som lillebror till Bitcoin, och det är en plattform där ny teknik för Bitcoin oftast provas först.
 

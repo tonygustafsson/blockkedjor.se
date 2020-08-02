@@ -1,16 +1,18 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Ethereum (ETH)
 description: Den första och största plattformen för smarta kontrakt som skapades av Vitalik Buterin år 2013.
 mainImage: img/ethereum.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # Ethereum (ETH)
 
 ![Ethereum](../img/ethereum.jpg 'Ethereum')
+
+Officiell webbplats: https://www.ethereum.org/
 
 Denna plattform för [smarta kontrakt](/tekniker/smarta-kontrakt.html) skapades av Vitalik Buterin år 2013. Det är en plattform som fungerar som både valuta och som applikationsplattform som kan hålla data och exekvera decentraliserad kod.
 

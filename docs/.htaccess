@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+Redirect 301 /byteshandlar.html /marknaden/byteshandel.html
+Redirect 301 /trading.html /marknaden/byteshandel.html
+Redirect 301 /planbocker.html /marknaden/planbocker.html
+Redirect 301 /tekniker/hashgrafer.html /tekniker/riktade-acykliska-grafer.html

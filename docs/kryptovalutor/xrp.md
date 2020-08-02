@@ -1,16 +1,18 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Ripple (XRP)
 description: Skapades år 2012 utlovar snabba och smärtfria internationella transaktioner.
 mainImage: img/xrp.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # Ripple (XRP)
 
 ![Ripple](../img/xrp.jpg 'Ripple')
+
+Officiell webbplats: https://www.ripple.com/xrp/
 
 Valutan och plattformen XRP lanserades av Ripple år 2012 och är tänkt att utmana "gammelbankerna" genom snabba och billiga internationella transaktioner.
 
@@ -30,6 +32,7 @@ De lanserade bland annat xRapid som är tänkt att direkt konkurrera med SWIFT f
 -   De är en centraliserad organisation och måste följa regeringarnas lagar som de ger sig in i. Det innebär också att de kan frysa transaktioner och rulla tillbaka tvivelaktiga sådana.
 -   Ripple Labs äger 61% av alla XRP.
 -   Om regeringar och storbanker beslutar sig för att XRP och xRapid är en dålig idé så finns risken att valutan inte har någon framtid alls.
+-   Inget stöd för anonyma/hemliga transaktioner.
 
 ## Att köpa
 

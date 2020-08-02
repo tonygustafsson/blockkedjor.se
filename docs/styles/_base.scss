@@ -9,6 +9,18 @@ body {
     margin: 0;
 }
 
+pre {
+    white-space: pre-line;
+    font-size: 80%;
+    background: $grey-very-light;
+    padding: 1em;
+}
+
+// Indicate external link
+a[href^='http']:after {
+    content: ' \21d2';
+}
+
 .page-container {
     display: flex;
     justify-content: stretch;

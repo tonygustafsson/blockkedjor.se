@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Byzantine Fault Tolerance (BFT)
 description:
 mainImage:

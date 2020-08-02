@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Ideologi
 description: Behandlar ideologin och tankarna bakom kryptovalutor och sfären som står bakom. Präglas främst av libertarianism, frihet och i viss mån anarki.
 mainImage: img/cencorship.png

@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Byteshandel (Trading)
 description: Behandlar om skillnaderna mellan aktiehandel och kryptohandel, vad du bör tänka på och går även in på vanliga fallgropar för nybörjare.
 mainImage: img/mistake.jpg

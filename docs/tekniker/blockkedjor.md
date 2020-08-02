@@ -1,18 +1,20 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Blockkedjor
 description: Om tekniken bakom blockkedjor. Hur de fungerar och vad de kan användas till, samt om de olika generationerna sedan 2009.
-mainImage:
+mainImage: img/blockchain.png
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-31
 ---
 
 # Blockkedjor
 
+![Blockkedjor](../img/blockchain.png 'Blockkedjor')
+
 En blockkedja (blockchain) består av en lång serie med block. Varje block innehåller vanligtvis flera transaktioner. Det är en decentraliserad databas utan en central knutpunkt, vilket gör det svårt att stoppa eller kontrollera.
 
-Nätverket består av x antal noder, och varje nod är en dator som validerar transaktioner. Noderna blir belönade för sitt arbete (brytning/mining) genom att systemet automatiskt skickar pengar till den som hinner först med att validera ett block.
+Nätverket består av x antal noder, och varje nod är en dator som validerar transaktioner. Noderna blir belönade för sitt arbete (brytning/mining) genom att systemet automatiskt skickar pengar till den som hinner först med att validera ett block. Tekniken för detta kallas [Proof of Work (PoW)](/tekniker/proof-of-work.html).
 
 Varje block har ett hashvärde som inte kan beräknas fram, utan endast kan slumpas fram och de slumpade hasharna kan sedan vara rätt eller fel. En miner "gissar fel" otaliga gånger innan någon slutligen gissar rätt. Den som hinner först är den som belönas med en ersättning. Alla andra noder kan sedan validera att resultatet stämde, och om resultatet är felaktigt så ignoreras det och hamnar aldrig på blockkedjan.
 
@@ -34,7 +36,7 @@ Den här typen av blockkedjor hanterar vanligtvis andra saker än rena pengatran
 
 ### Generation 3
 
-Det handlar fortfarande om pengatransaktioner och applikationsplattformar, men till den här generationen har man börjat fokusera på skalbarhet, hållbarhet och kommunikation mellan olika blockkedjor. För att lyckas med detta har man oftast lämnat Proof of Work bakom sig, och arbetar med [Proof of Stake](/tekniker/proof-of-stake.html) eller modernare modeller så som [riktade acykliska grafer](/tekniker/riktade-acykliska-grafer.html) eller [hashgrafer](/teknik/hashgrafer.html).
+Det handlar fortfarande om pengatransaktioner och applikationsplattformar, men till den här generationen har man börjat fokusera på skalbarhet, hållbarhet och kommunikation mellan olika blockkedjor. För att lyckas med detta har man oftast lämnat Proof of Work bakom sig, och arbetar med [Proof of Stake](/tekniker/proof-of-stake.html) eller modernare modeller så som [riktade acykliska grafer](/tekniker/riktade-acykliska-grafer.html).
 
 Typexempel på dessa är [IOTA](/kryptovalutor/iota.html), [Neo](/kryptovalutor/neo.html) och [Nano](/kryptovalutor/nano.html).
 

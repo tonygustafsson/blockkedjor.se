@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Kryptohandlare
 description: Om olika exchanges och hur de fungerar. Vad du bör tänka på, och riskerna med att lämna sina tillgångar på hos en exchange.
 mainImage: img/exchange.jpg
@@ -42,13 +42,15 @@ Gränssnittet är krångligt, och de kräver att du redan har kryptovalutor att 
 
 ## Decentraliserade kryptohandlare (DEX - Decentralized Exchanges)
 
-En vanlig exchange är centraliserad på samma vis som en bank är det. De har lager med kryptovalutor, och när det står att du äger 10 Ethereum så är det deras databas som säger att de är skydliga dig detta. De håller det åt dig. När du köper mer av en valuta så sker det troligtvis ingen förändring på blockkedjan, utan bara i deras interna system.
+En vanlig exchange är centraliserad på samma vis som en bank är det. De har lager med kryptovalutor, och när det står att du äger 10 ETH så är det deras databas som säger att de är skyldiga dig detta. De håller det åt dig. När du köper mer av en valuta så sker det troligtvis ingen förändring på blockkedjan, utan bara i deras interna system.
 
-Så fungerar det inte på en decentraliserad kryptohandel. Där verifierar man in med sin [plånbok](/marknaden/planbocker.html) och man köper och säljer valutor direkt mellan två parter, utan att det går igenom en mellanhand. De flesta har idag fortfarande sin orderlista centraliserad, men nya spelare på marknaden har även löst den saken.
+Så fungerar det inte på en decentraliserad kryptohandel. Där verifierar man in med sin [plånbok](/marknaden/planbocker.html) och man köper och säljer valutor direkt mellan två parter, utan att det går igenom en mellanhand.
 
-Många tror att DEXes kommer att ta över kryptohandeln mer och mer framöver, då de följer samma ideologi som kryptovalutorna i sig. Dvs inga mellanhänder, och full kontroll till individen. Generellt har de fler små, obskyra kryptovalutor som andra inte har, men har en viss inlärningströskel.
+De flesta har idag fortfarande sin orderlista centraliserad, men nya spelare på marknaden så som UniSwap har löst det genom likviditetspooler där använder lägger in mynt och tokens där de sedan kan köpas upp av en annan part. De tjänar därigenom en procentsats för att de bidrar till poolen.
 
-Exempel på decentraliserade kryptohandlarna idag är [Waves Platform](https://dex.wavesplatform.com/), [Binance DEX](https://www.binance.org/en/trade) och [IDEX](https://idex.market).
+Många tror att DEXes kommer att ta över kryptohandeln mer och mer framöver, då de följer samma ideologi som kryptovalutorna i sig. Dvs inga mellanhänder, och full kontroll till individen. Generellt har de fler små, obskyra kryptovalutor som andra inte har. DEXes har ökat rejält under år 2020.
+
+Exempel på decentraliserade kryptohandlarna idag är [UniSwap](https://app.uniswap.org/) [1inch](https://1inch.exchange/#/), [Kyper Swap](https://kyberswap.com/swap), [Binance DEX](https://www.binance.org/en/trade) och [IDEX](https://idex.market).
 
 ## Fler kryptohandlare
 

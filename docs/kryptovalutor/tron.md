@@ -1,16 +1,18 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: TRON (TRX)
 description: Skapades av Justin Sun år 2017 och är en plattform för smarta kontrakt som fokuserar på media och att bekämpa censur.
 mainImage: img/tron.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2019-07-28
 ---
 
 # TRON (TRX)
 
 ![Tron](../img/tron.jpg 'Tron')
+
+Officiell webbplats: https://tron.network/
 
 Tron är baserad i Singapore och såg dagens ljus år 2017 med Justin Sun som grundare. De har varit duktiga på marknadsföring och har tagit en rad beslut som fått dem att sticka ut och synas (Exempelvis ett partnerskap med Pornhub).
 

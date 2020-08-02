@@ -4,7 +4,7 @@ This site is built with docpress, that generates HTML documents from markdown fi
 
 The content of this repository is for the site blockkedjor.se.
 
-## Run deveopment build
+## Run development build
 
 ```
 git clone https://github.com/tonygustafsson/blockkedjor.se.git

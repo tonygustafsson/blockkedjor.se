@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default.hbs
 title: Skatt
 description: Berättar om hur man egentligen hanterar skatt för kryptovalutor. Förpliktelser och möjligheter.
 mainImage: img/tax.png
