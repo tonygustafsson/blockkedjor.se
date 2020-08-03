@@ -24,6 +24,10 @@
             color: $menuForegroundColor;
             text-decoration: none;
         }
+
+        @media (max-width: $mobileBreakPoint) {
+            font-size: 1.75em;
+        }
     }
 
     @media (max-width: $mobileBreakPoint) {
