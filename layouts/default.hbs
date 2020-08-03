@@ -124,7 +124,26 @@
         </aside>
 
         <article class="article">
-            <div class="article__content">{{{ contents }}}</div>
+            <div class="article__content">
+                {{{ contents }}}
+            </div>
+
+            <footer class="article__footer">
+                <table>
+                    <tr>
+                        <td>Publicerad:</td>
+                        <td><time>{{ created }}</time></td>
+                    </tr>
+                    <tr>
+                        <td>Redigerad:</td>
+                        <td><time>{{ modified }}</time></td>
+                    </tr>
+                    <tr>
+                        <td>Författare:</td>
+                        <td>{{ author }}</td>
+                    </tr>
+                </table>
+            </footer>
         </article>
     </div>
 
@@ -141,9 +160,17 @@
                 "dateModified": "{{ modified }}",
                 "author": "{{ author }}",
                 "url": "{{ canonical }}",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "{{ canonical }}"
+                },
                 "publisher": {
                     "@type": "Organization",
-                    "name": "{{ pageTitle }}"
+                    "name": "{{ pageTitle }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ pageUrl }}img/blockkedjor.se.jpg"
+                    }
                 }
             }
         </script>

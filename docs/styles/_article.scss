@@ -4,7 +4,7 @@
 
     &__content {
         max-width: $contentMaxWidth;
-        margin: 0 auto 8em auto;
+        margin: 0 auto 0 auto;
         line-height: 1.6;
         word-break: break-word;
         padding-bottom: 2em;
@@ -31,6 +31,19 @@
 
             &:hover {
                 text-decoration: underline;
+            }
+        }
+    }
+
+    &__footer {
+        max-width: $contentMaxWidth;
+        margin: 2em auto 8em auto;
+        font-size: 80%;
+        color: $grey-dark;
+
+        table {
+            td {
+                min-width: 80px;
             }
         }
     }
