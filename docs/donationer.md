@@ -5,14 +5,14 @@ description: Webbplatsen är en oberoende källa och är icke vinstdrivande. Den
 mainImage:
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2020-08-03
 ---
 
 # Donationer
 
-Den här webbplatsen är en oberoende källa till information och är icke vinstdrivande. Det finns ingen reklam på siten, men om du har haft användning av den och känner att du vill uppmuntra det fortsatta arbetet så får du hemskt gärna skicka en slant :)
+Den här webbplatsen är en oberoende källa till information och är icke vinstdrivande. Det finns ingen reklam på siten, men om du har haft användning av den och känner att du vill uppmuntra det fortsatta arbetet så får du hemskt gärna skicka en slant 🤑
 
--   **BTC:** 3FkQFMBBhzeqrfZ9pPcFoVbHD5ouJHkJcU
+-   **BTC:** 3GkzHzLDJG8fwVh4nDub9sQDEi2QzVVY2w
 -   **ETH:** 0x9e4984D22702bA43488F97a4576ccCBAD7F0E1fb
 -   **LTC:** MLSsLhPJutXAKkygwYfGFH5vGrZihzRkyM
 -   **XRP:** r36wowzGE4FpEAeABHZmPxc6RkDgHM89Eu
