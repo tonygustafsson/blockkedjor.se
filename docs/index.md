@@ -5,7 +5,7 @@ description: Syftet med denna webbplats är att informera intresserade människo
 mainImage: img/blockkedjor.se.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-30
+modified: 2020-08-03
 ---
 
 # Blockkedjor.se
