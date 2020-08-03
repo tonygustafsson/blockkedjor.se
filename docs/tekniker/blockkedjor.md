@@ -28,7 +28,7 @@ Blockkedjor har funnits i ca 10 år, men redan nu har upphovsmakare till nya blo
 
 ### Generation 1
 
-Den första generationens blockkedjor är typiskt enbart för transaktioner av pengar. Här till hör de tidiga blockkedjorna som [Bitcoin](/kryptovalutor/bitcoin.html) och [Litecoin](/kryptovalutor/litecoin.html). De är typiskt långsamma och rör sig med ett fåtal transaktioner i sekunden. De använder sig vanligtvis av [Proof of Work](/tekniker/proof-of-work.html) som konsensusmodell.
+Den första generationens blockkedjor är typiskt enbart för transaktioner av pengar. Här tillhör de tidiga blockkedjorna som [Bitcoin](/kryptovalutor/bitcoin.html) och [Litecoin](/kryptovalutor/litecoin.html). De är typiskt långsamma och rör sig med ett fåtal transaktioner i sekunden. De använder sig vanligtvis av [Proof of Work](/tekniker/proof-of-work.html) som konsensusmodell.
 
 ### Generation 2
 

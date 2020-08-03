@@ -16,7 +16,7 @@ Ett samlingsbegrepp för nya finansiella tjänster så som sparande, lån, intec
 
 Det är alltså ingen egen teknik, utan befintliga tekniker så som [blockkedjor](/tekniker/blockkedjor.html) och [smarta kontrakt](/tekniker/smarta-kontrakt.html) används. De anses vara ett rejält hot mot traditionella banktjänster och försäkringsbolag.
 
-Då det är ett fritt system är också allt tillåtet, och inga mellanhänder finns. Det finns ingen som förhindrar att ett lån tas eller vägrar föräkra tillgångar. Frihet under ansvar alltså. Frihet kan förstås även locka till illigal aktivitet, vilket också kan komma att skapa konflikter och stämningar framöver.
+Då det är ett fritt system är också allt tillåtet, och inga mellanhänder finns. Det finns ingen som förhindrar att ett lån tas eller vägrar försäkra tillgångar. Frihet under ansvar alltså. Frihet kan förstås även locka till illegal aktivitet, vilket också kan komma att skapa konflikter och stämningar framöver.
 
 Banker vill förstås maximera sin vinst när de hjälper kunder - men inom DeFi regleras avgifter och omkostnader på ett mer fördelaktigt sätt för lånetagaren.
 
@@ -39,7 +39,7 @@ Om Ethereum 2.0 drar ut på tiden så kommer många spelare även använda andra
 ## Lån
 
 Det allra vanligaste användsningsområdet för DeFi är lån och ränta. Eftersom man inte kan
-garantera att lånetagaren betalar tillbaka pengarna så måste lånetagaren pantsätta något som är av lika stort värde som lånet. Detta görs oftast med stabila mynt (stablecoins). Vad är då syftet med detta?
+garantera att låntagaren betalar tillbaka pengarna så måste lånetagaren pantsätta något som är av lika stort värde som lånet. Detta görs oftast med stabila mynt (stablecoins). Vad är då syftet med detta?
 
 Det handlar oftast om att man vill ha snabba pengar, kanske för nya investeringar, utan att behöva sälja. Säg att du vill använda värdet av dina [Monero](/kryptovalutor/monero.html), men inte sälja dem om de plötsligt stiger i värde. Då kan du låna Monero till andra, och betala med exempelvis USDT (Tether), och på så vis få en procentuell vinst.
 

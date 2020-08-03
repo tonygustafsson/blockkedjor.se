@@ -5,7 +5,7 @@ description: Om olika exchanges och hur de fungerar. Vad du bör tänka på, och
 mainImage: img/exchange.jpg
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2019-07-25
+modified: 2020-08-02
 ---
 
 # Kryptohandlare (Exchanges)

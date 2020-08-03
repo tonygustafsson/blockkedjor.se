@@ -12,7 +12,7 @@ modified: 2019-07-30
 
 ![Blockkedjor.se logotype](../img/blockkedjor.se.jpg 'Blockkedjor.se logotype')
 
-Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller kryptohandlare framför andra. De flesta svenska webbplatser idag har dolda agendor där de försöker sälja på besökarna medlemsskap eller lockar till investeringar som gynnar dem - något som vi tar avstånd från.
+Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller kryptohandlare framför andra. De flesta svenska webbplatser idag har dolda agendor där de försöker sälja på besökarna medlemskap eller lockar till investeringar som gynnar dem - något som vi tar avstånd från.
 
 Vi vill också att få en svensk synvinkel på marknaden och vad det faktiskt innebär att investera som svensk medborgare, samt vilka skyldigheter detta innebär.
 
