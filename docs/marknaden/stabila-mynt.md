@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Stabila mynt (stablecoins)
 description: Ett stabilt mynt är länkad till en FIAT-valuta, värdepapper eller exempelvis guld. Syftet är att ha ett stabilare värde att trada gentemot.
-mainImage: img/decentraliserad-finans.jpg
+mainImage: img/stabila-mynt.jpg.jpg
 author: Tony Gustafsson
 created: 2020-08-03
 modified: 2020-08-03
