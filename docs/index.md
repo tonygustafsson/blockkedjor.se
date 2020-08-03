@@ -19,5 +19,3 @@ Vi vill också att få en svensk synvinkel på marknaden och vad det faktiskt in
 Här finner du information om specifika valutor, tekniken bakom, om [kryptohandlare](/marknaden/kryptohandlare.html) (exchanges), om hur [skatter](/skatt.html) bör rapporteras. Du hittar även information om [terminologi](/terminologi.html) och hur du lättast får reda på mer information.
 
 Du kan även hitta denna webbplats och all information härunder på [GitHub](https://github.com/tonygustafsson/blockkedjor.se). Vill du, så får du gärna [donera](/donationer.html) en slant för att uppmuntra webbplatsens fortlevnad och utveckling.
-
-**Denna webbplats är i ett tidigt skede och vi ansvarar inte för att informationen är uppdaterad, korrekt eller är fri från stavfel. Mer information kommer.**
