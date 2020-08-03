@@ -7,7 +7,7 @@
         "doc": "docs"
     },
     "scripts": {
-        "start": "node index.js | cd ./dist | ./node_modules/http-server/bin/http-server ./dist -o -c-1",
+        "start": "node index.js | cd ./dist | ./node_modules/http-server/bin/http-server ./dist -c-1",
         "build": "node index.js build",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -19,6 +19,7 @@
         "jstransformer-handlebars": "^1.1.0",
         "metalsmith": "^2.3.0",
         "metalsmith-canonical": "^1.2.0",
+        "metalsmith-date-formatter": "^1.0.2",
         "metalsmith-if": "^0.1.1",
         "metalsmith-jstransformer": "^1.0.0",
         "metalsmith-layouts": "^2.3.1",

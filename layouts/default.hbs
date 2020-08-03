@@ -75,6 +75,7 @@
                         <li><a href="/marknaden/decentraliserad-finans.html">Decentraliserad Finans (DeFi)</a></li>
                         <li><a href="/marknaden/planbocker.html">Plånböcker</a></li>
                         <li><a href="/marknaden/passiv-inkomst.html">Passiv inkomst</a></li>
+                        <li><a href="/marknaden/stabila-mynt.html">Stabila mynt (stablecoins)</a></li>
                     </ul>
                 </nav>
 
@@ -83,14 +84,17 @@
                 <nav>
                     <ul>
                         <li><a href="/tekniker/blockkedjor.html">Blockkedjor</a></li>
-                        <li><a href="/tekniker/riktade-acykliska-grafer.html">Riktade acykliska grafer</a></li>
+                        <li><a href="/tekniker/riktade-acykliska-grafer.html">Riktade acykliska grafer (DAGs)</a></li>
                         <li><a href="/tekniker/proof-of-work.html">Proof of Work</a></li>
                         <li><a href="/tekniker/proof-of-stake.html">Proof of Stake</a></li>
                         <li><a href="/tekniker/byzantine-fault-tolerance.html">Byzantine Fault Tolerance</a></li>
                         <li><a href="/tekniker/smarta-kontrakt.html">Smarta kontrakt</a></li>
-                        <li><a href="/tekniker/lightning-network.html">Lightning network</a></li>
+                        <li><a href="/tekniker/lightning-network.html">Lightning Network</a></li>
                         <li>
                             <a href="/tekniker/decentraliserade-applikationer.html">Decentraliserade applikationer</a>
+                        </li>
+                        <li>
+                            <a href="/tekniker/orakel.html">Orakel</a>
                         </li>
                     </ul>
                 </nav>
@@ -123,7 +127,26 @@
         </aside>
 
         <article class="article">
-            <div class="article__content">{{{ contents }}}</div>
+            <div class="article__content">
+                {{{ contents }}}
+            </div>
+
+            <footer class="article__footer">
+                <table>
+                    <tr>
+                        <td>Publicerad:</td>
+                        <td><time>{{ created }}</time></td>
+                    </tr>
+                    <tr>
+                        <td>Redigerad:</td>
+                        <td><time>{{ modified }}</time></td>
+                    </tr>
+                    <tr>
+                        <td>Författare:</td>
+                        <td>{{ author }}</td>
+                    </tr>
+                </table>
+            </footer>
         </article>
     </div>
 
@@ -140,9 +163,17 @@
                 "dateModified": "{{ modified }}",
                 "author": "{{ author }}",
                 "url": "{{ canonical }}",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "{{ canonical }}"
+                },
                 "publisher": {
                     "@type": "Organization",
-                    "name": "{{ pageTitle }}"
+                    "name": "{{ pageTitle }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ pageUrl }}img/blockkedjor.se.jpg"
+                    }
                 }
             }
         </script>

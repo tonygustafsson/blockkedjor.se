@@ -1,8 +1,8 @@
 # blockkedjor.se
 
-This site is built with docpress, that generates HTML documents from markdown files.
+A website informing the swedish population about crypto currencies, blockchains, smart contracts, defi and such. The content of this repository is for the site [blockkedjor.se](https://www.blockkedjor.se).
 
-The content of this repository is for the site blockkedjor.se.
+This site is built with metalsmith, that generates HTML documents from markdown files.
 
 ## Run development build
 

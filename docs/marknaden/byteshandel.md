@@ -24,7 +24,7 @@ I korthet går det till på så vis att man hittar ett projekt man tycker om på
 
 ### Inte läsa på om projektet
 
-Det är lätt att man lyssnar på duktiga människor i branschen som rekommenderar kryptoprojekt, och bli inspirerad att köpa av den anledningen. Eller att man lyssnar på en kollega som hållit på med kryptovalutor under en tid. Det behöver inte vara ett misstag, men hela sfären är fylld av oppurtionister som lovar guld och gröna skogar. Det är alltid bäst om du tar dig tid till att läsa på ordentligt.
+Det är lätt att man lyssnar på duktiga människor i branschen som rekommenderar kryptoprojekt, och bli inspirerad att köpa av den anledningen. Eller att man lyssnar på en kollega som hållit på med kryptovalutor under en tid. Det behöver inte vara ett misstag, men hela sfären är fylld av opportunister som lovar guld och gröna skogar. Det är alltid bäst om du tar dig tid till att läsa på ordentligt.
 
 Vilken teknik används? Vad är fördelarna? Vad är nackdelarna? (om de inte nämns är det en varningsklocka - allt har en baksida). Vilka ligger bakom projektet? Vilka utvecklare är med? Hur ofta uppdateras deras källkod? Vilka partnerskap har de? Osv.
 
@@ -34,9 +34,9 @@ När man tror riktigt mycket på ett projekt så blir man rädd att man ska gå 
 
 ### Följer dina känslor för mycket
 
-Har du en känsla av att Bitcoin kommer gå upp närmasta månaden? Känslor hör inte hemma inom trading. Försök förbise dem så mycket du kan och satsa på logik och förståelse. Vänta gärna några dagar från det att du är inspirerad till att du faktiskt gör det - så kan känslorna ha svalnat lite.
+Har du en känsla av att Bitcoin kommer gå upp närmaste månaden? Känslor hör inte hemma inom trading. Försök förbise dem så mycket du kan och satsa på logik och förståelse. Vänta gärna några dagar från det att du är inspirerad till att du faktiskt gör det - så kan känslorna ha svalnat lite.
 
-I kryptovärlden styrs förvisso marknaden förmodligen mer av känslor än på aktiemarknaden, eftersom så många är oppurtionister och följer strömmen. Och tekniskt bra projekt behöver inte alls få en positiv prisutveckling, när ingen förstår möjligheterna med projektet och ingen pratar om dem.
+I kryptovärlden styrs förvisso marknaden förmodligen mer av känslor än på aktiemarknaden, eftersom så många är opportunister och följer strömmen. Och tekniskt bra projekt behöver inte alls få en positiv prisutveckling, när ingen förstår möjligheterna med projektet och ingen pratar om dem.
 
 Det är också vanligt att man blir rädd att gå miste om att bli rik när man ser att Bitcoin ökar lavinartat plötsligt (FOMO - Fear of missing out). Trots allt, sist det hände så kanske den gick upp 30%, och nu har den bara hunnit gå upp 10%. Men försök ditt yttersta att hålla dig från den här mentaliteten - det är nästan alltid då människor förlorar sina investeringar. De med tålamod tar alltid pengar från de som saknar det.
 

@@ -6,6 +6,7 @@ const watch = require('metalsmith-watch');
 const canonical = require('metalsmith-canonical');
 const sitemap = require('metalsmith-sitemap');
 const msIf = require('metalsmith-if');
+const dateFormatter = require('metalsmith-date-formatter');
 
 const pageUrl = 'https://www.blockkedjor.se/';
 
@@ -34,6 +35,20 @@ Metalsmith(__dirname)
         })
     )
     .use(
+        dateFormatter({
+            dates: [
+                {
+                    key: 'modified',
+                    format: 'YYYY-MM-DD'
+                },
+                {
+                    key: 'created',
+                    format: 'YYYY-MM-DD'
+                }
+            ]
+        })
+    )
+    .use(
         layouts({
             engine: 'handlebars',
             default: 'default.hbs',
@@ -52,7 +67,7 @@ Metalsmith(__dirname)
             watch({
                 paths: {
                     '${source}/**/*': true,
-                    '${source}/styles/**/*': '**/*.scss',
+                    '${source}/styles/**/*': '**/*',
                     'layouts/**/*': '**/*.hbs'
                 },
                 livereload: !productionMode
@@ -65,7 +80,7 @@ Metalsmith(__dirname)
             modifiedProperty: 'modified'
         })
     )
-    .build(function(err, files) {
+    .build(function (err, files) {
         if (err) {
             throw err;
         }

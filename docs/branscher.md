@@ -34,7 +34,7 @@ Några av dessa blockkedjor är [VeChain](/kryptovalutor/vechain.html), Internet
 
 ## Spel
 
-Spel förutspås använda sig flitigt av blockkedjor framöver. I stället för transaktioner av mynt så kan man i stället tänka sig transaktioner med spelkort, eller vapen i spel. Det är redan idag vanligt att man kan köpa tillbehör för pengar och använda sig av i spel, och det finns marknadsplatser där dessa kan bytas mellan spelare.
+Spel förutspås använda sig flitigt av blockkedjor framöver. Istället för transaktioner av mynt så kan man i stället tänka sig transaktioner med spelkort, eller vapen i spel. Det är redan idag vanligt att man kan köpa tillbehör för pengar och använda sig av i spel, och det finns marknadsplatser där dessa kan bytas mellan spelare.
 
 Varför gå genom en tredjepart när man kan byta direkt mellan två parter? Och varför ha tillbehör som bara fungerar i ett spel när flera spel kan använda sig av samma blockkedja?
 
