@@ -1,20 +1,20 @@
 {
     "name": "blockkedjor.se",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A swedish site informing the population about blockchains and open finance.",
     "main": "index.js",
     "directories": {
         "doc": "docs"
     },
     "scripts": {
-        "start": "node index.js | cd ./dist | ./node_modules/http-server/bin/http-server ./dist -c-1",
+        "start": "node index.js | ./node_modules/http-server/bin/http-server ./dist -c-1",
         "build": "node index.js build",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "handlebars": "^4.7.6",
+        "handlebars": "^4.7.7",
         "http-server": "^0.12.3",
         "jstransformer-handlebars": "^1.1.0",
         "metalsmith": "^2.3.0",
