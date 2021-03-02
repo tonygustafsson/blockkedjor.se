@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Skatt
 description: Berättar om hur man egentligen hanterar skatt för kryptovalutor. Förpliktelser och möjligheter.
-mainImage: img/tax.png
+mainImage: img/tax.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-25
@@ -31,4 +31,4 @@ Det är vanligt att många transaktioner görs och det blir väldigt svårt att 
 
 Komplexiteten och ovissheten gör att många idag inte betalar vinstskatt för sina kryptovalutor.
 
-![Skatt](img/tax.jpg 'Skatt')
+![Skatt](img/tax.webp 'Skatt')

@@ -2,7 +2,7 @@
 layout: default.hbs
 title: TRON (TRX)
 description: Skapades av Justin Sun år 2017 och är en plattform för smarta kontrakt som fokuserar på media och att bekämpa censur.
-mainImage: img/tron.jpg
+mainImage: img/tron.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-28
@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # TRON (TRX)
 
-![Tron](../img/tron.jpg 'Tron')
+![Tron](../img/tron.webp 'Tron')
 
 Officiell webbplats: https://tron.network/
 

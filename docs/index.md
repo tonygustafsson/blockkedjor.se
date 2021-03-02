@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Blockkedjor.se
 description: Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller kryptohandlare framför andra.
-mainImage: img/blockkedjor.se.jpg
+mainImage: img/blockkedjor.se.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2020-08-03
@@ -10,7 +10,7 @@ modified: 2020-08-03
 
 # Blockkedjor.se
 
-![Blockkedjor.se logotype](../img/blockkedjor.se.jpg 'Blockkedjor.se logotype')
+![Blockkedjor.se logotype](../img/blockkedjor.se.webp 'Blockkedjor.se logotype')
 
 Syftet med denna webbplats är att informera intresserade människor kring kryptovalutor. Webbplatsen är oberoende på så vis att informationen inte ska uppmuntra särskilda kryptovalutor eller kryptohandlare framför andra. De flesta svenska webbplatser idag har dolda agendor där de försöker sälja på besökarna medlemskap eller lockar till investeringar som gynnar dem - något som vi tar avstånd från.
 

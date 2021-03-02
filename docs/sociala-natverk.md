@@ -20,4 +20,4 @@ Här är en lista med vanliga sociala nätverk i blockkedjesfären.
 -   [Youtube](https://www.youtube.com/) är vanligt att följa kryptointresserade människor på. Exempel på populera Youtubers är [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan/featured), [DataDash](https://www.youtube.com/channel/UCCatR7nWbYrkVXdxXb4cGXw/videos), [The Crypto Lark](https://www.youtube.com/user/larksongbird01) och [CryptoZombie](https://www.youtube.com/channel/UCiUnrCUGCJTCC7KjuW493Ww).
 -   PodCasts är inget socialt nätverk, men ett vanligt sätt att ta del av information och nyheter. Populära podcasts är [Unchained](https://unchainedpodcast.com/), [Coin Mastery](https://www.coinmastery.com/) och [Bad Crypto Podcast](https://badcryptopodcast.com/).
 
-![Sociala nätverk](img/social-networks.jpg 'Sociala nätverk')
+![Sociala nätverk](img/social-networks.webp 'Sociala nätverk')

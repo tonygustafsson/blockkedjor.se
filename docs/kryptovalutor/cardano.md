@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Cardano (ADA)
 description: En plattform på smarta kontrakt som konkurrerar med Ethereum. Deras metodik är akademisk och vetenskaplig.
-mainImage: img/cardano.png
+mainImage: img/cardano.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-28
@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # Cardano (ADA)
 
-![Cardano](../img/cardano.png 'Cardano')
+![Cardano](../img/cardano.webp 'Cardano')
 
 Officell webbplats: https://www.cardano.org/
 

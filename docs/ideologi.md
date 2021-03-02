@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Ideologi
 description: Behandlar ideologin och tankarna bakom kryptovalutor och sfären som står bakom. Präglas främst av libertarianism, frihet och i viss mån anarki.
-mainImage: img/cencorship.png
+mainImage: img/cencorship.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-25
@@ -20,7 +20,7 @@ I Sverige kan vi gnälla över att allt kostar pengar, och att vi i viss mån ä
 
 Inflation är ett problem i alla länder, även om vi kanske inte drabbas till vardags på samma vis. Men regeringen trycker nya pengar när de ser ett behov. I många fall är det helt nödvändigt, men vi får komma ihåg att för varje ny krona som trycks så sjunker värdet på våra kronor vi redan äger. De flesta kryptovalutor kan inte trycka nya pengar, utan ett fast antal mynt är bestämt i förhand. Detta påverkar förstås priserna positivt, när efterfrågan ökar.
 
-![Censur](img/cencorship.png 'Censur')
+![Censur](img/cencorship.webp 'Censur')
 
 ## Teknologisk
 
@@ -30,4 +30,4 @@ För första gången är det möjligt att med hjälp av teknik, skapa system som
 
 År 2009 såg Bitcoin dagens ljus - sedan dess har digitala valutor varit möjliga. Data har alltid gått att kopiera på ett eller annat sätt. Om en digital valuta enbart är ren data, så kan man tänka sig att det bara vore att kopiera sina bitcoins och göra flera. Tack vare blockkedjan så är det inte möjligt, och tack vare att bitcoin bara finns i ett begränsat antal så skapades för första gången ett _värde_ på data.
 
-![Bitcoin - ett alternativ](img/bitcoin-alternative.jpg 'Bitcoin - ett alternativ')
+![Bitcoin - ett alternativ](img/bitcoin-alternative.webp 'Bitcoin - ett alternativ')

@@ -2,7 +2,7 @@
 layout: default.hbs
 title: VeChain (VET)
 description: En blockkedja vars syfte är att mäta, spåra och garantera produkters kvalitet. Med bra partnerskap i ryggen och stöd för smarta kontrakt och decentraliserade applikationer.
-mainImage: img/vechain.jpg
+mainImage: img/vechain.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2019-07-29
@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # VeChain (VET)
 
-![VeChain](../img/vechain.jpg 'VeChain')
+![VeChain](../img/vechain.webp 'VeChain')
 
 Officiell webbplats: https://www.vechain.com/
 

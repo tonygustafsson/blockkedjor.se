@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Ethereum (ETH)
 description: Den första och största plattformen för smarta kontrakt som skapades av Vitalik Buterin år 2013.
-mainImage: img/ethereum.jpg
+mainImage: img/ethereum.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-02-17
@@ -10,7 +10,7 @@ modified: 2021-02-17
 
 # Ethereum (ETH)
 
-![Ethereum](../img/ethereum.jpg 'Ethereum')
+![Ethereum](../img/ethereum.webp 'Ethereum')
 
 Officiell webbplats: https://www.ethereum.org/
 
@@ -24,7 +24,7 @@ Plattformen används bland annat till applikationer och spel, så som [UniSwap](
 
 15 transaktioner i sekunden räcker inte långt längre. Det räcker inte ens för att _en_ applikation eller _ett_ spel. Det är ingen enkel uppgift att öka hastigheten på ett decentraliserat nät, men tekniken har kommit längre sedan Ethereum 1.0 såg dagens ljus.
 
-![Ethereum 2.0](../img/eth2.png 'Ethereum 2.0')
+![Ethereum 2.0](../img/eth2.webp 'Ethereum 2.0')
 
 ETH 2.0 släpps i olika faser.
 

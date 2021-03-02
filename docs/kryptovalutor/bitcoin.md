@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Bitcoin (BTC)
 description: Den första valutan som såg världens ljust. Skapades av pseudonymen Satoshi Nakamoto år 2008 som införde konceptet blockkedjan.
-mainImage: img/bitcoin.jpg
+mainImage: img/bitcoin.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2021-02-17
@@ -10,7 +10,7 @@ modified: 2021-02-17
 
 # Bitcoin (BTC)
 
-![Bitcoin](../img/bitcoin.jpg 'Bitcoin')
+![Bitcoin](../img/bitcoin.webp 'Bitcoin')
 
 Officiell webbplats: https://www.bitcoin.org/
 

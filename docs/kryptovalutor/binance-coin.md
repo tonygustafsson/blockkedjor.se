@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Binance Coin (BNB)
 description: En valuta skapad av kryptohandlaren Binance som ett snabbare och billigare alternativ till Ethereum. Priset för det är tyvärr tappad decentralicering.
-mainImage: img/binance-coin.png
+mainImage: img/binance-coin.webp
 author: Tony Gustafsson
 created: 2021-02-20
 modified: 2021-02-20
@@ -10,7 +10,7 @@ modified: 2021-02-20
 
 # Binance Coin (BNB)
 
-![Binance Coin](../img/binance-coin.png 'Binance Coin')
+![Binance Coin](../img/binance-coin.webp 'Binance Coin')
 
 Officiell webbplats: https://www.binance.com/en/bnb
 

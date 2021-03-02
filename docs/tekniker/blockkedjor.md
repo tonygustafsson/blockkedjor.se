@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Blockkedjor
 description: Om tekniken bakom blockkedjor. Hur de fungerar och vad de kan användas till, samt om de olika generationerna sedan 2009.
-mainImage: img/blockchain.png
+mainImage: img/blockchain.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-31
@@ -10,7 +10,7 @@ modified: 2019-07-31
 
 # Blockkedjor
 
-![Blockkedjor](../img/blockchain.jpg 'Blockkedjor')
+![Blockkedjor](../img/blockchain.webp 'Blockkedjor')
 
 En blockkedja (blockchain) består av en lång serie med block. Varje block innehåller vanligtvis flera transaktioner. Det är en decentraliserad databas utan en central knutpunkt, vilket gör det svårt att stoppa eller kontrollera.
 

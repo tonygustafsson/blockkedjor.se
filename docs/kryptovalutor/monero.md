@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Monero (XMR)
 description: En digital och anonym kryptovaluta som använder sig av ringsignaturer och dynamisk blockstorlek.
-mainImage: img/monero.jpg
+mainImage: img/monero.webp
 author: Tony Gustafsson
 created: 2019-07-28
 modified: 2019-07-28
@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # Monero (XMR)
 
-![Monero](../img/monero.jpg 'Monero')
+![Monero](../img/monero.webp 'Monero')
 
 Officell webbplats: https://web.getmonero.org/
 

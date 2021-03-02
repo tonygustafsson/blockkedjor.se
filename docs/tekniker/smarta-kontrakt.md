@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Smarta kontrakt
 description: En lösning som anammades av Ethereum för första gången och går ut på att lägga if/then-regler på blockkedjan. Exempelvis om 10 kr sätts in på följande konto, skicka 50% till person X och 50% till person Y.
-mainImage: img/smart-contracts.png
+mainImage: img/smart-contracts.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-30
@@ -10,7 +10,7 @@ modified: 2019-07-30
 
 # Smarta kontrakt
 
-![Smarta kontrakt](../img/smart-contracts.png 'Smarta kontrakt')
+![Smarta kontrakt](../img/smart-contracts.webp 'Smarta kontrakt')
 
 Smarta kontrakt (smart contracts) är en lösning för elektroniska och automatiska kontrakt och föreslogs för första gången av Nick Szabo redan 1997. [Bitcoin](/kryptovalutor/bitcoin.html) har ett enkelt scriptspråk som stödjer multisignaturer och tidslås m.m., men [Ethereum](/kryptovalutor/ethereum.html) var det projekt som för första gången anammade det på allvar.
 

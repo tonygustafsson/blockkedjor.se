@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Plånböcker
 description: Kryptovalutor sparas i en plånbok (eller wallet), vilket är en applikation som skyddas med din privata nyckel, och ger dig möjlighet att skicka och ta emot valutan i fråga.
-mainImage: img/banano-wallet.png
+mainImage: img/banano-wallet.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-25
@@ -24,4 +24,4 @@ Men det absolut säkraste sättet är att köpa dig en hårdvarunyckel, såsom [
 
 Dessa ord skapar nämligen din privata nyckel med hjälp av en algoritm. Samma algoritm kan skapa upp samtliga privata nycklar åt dig som används av en uppsjö olika kryptovalutor.
 
-![Banano wallet](/img/banano-wallet.png 'Banano wallet')
+![Banano wallet](/img/banano-wallet.webp 'Banano wallet')

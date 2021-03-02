@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Proof of Stake (PoS)
 description: En lösning för skalbarhet, transaktionstider och elkostader som Proof of Work är betyngat med. Här röstas i stället en validerande nod fram baserat på slump, insats och insatsens ålder.
-mainImage: img/proof-of-stake.jpg
+mainImage: img/proof-of-stake.webp
 author: Tony Gustafsson
 created: 2019-07-22
 modified: 2019-07-30
@@ -10,7 +10,7 @@ modified: 2019-07-30
 
 # Proof of Stake (PoS)
 
-![Proof of Stake](../img/proof-of-stake.jpg 'Proof of Stake')
+![Proof of Stake](../img/proof-of-stake.webp 'Proof of Stake')
 
 Idéen kom 2011 som en lösning på alla de problem som [Proof of Work](/tekniker/proof-of-work.html) skapade. Exempelvis problemet med skalbarhet, transaktionstiderna, transaktionskostnaderna och elkostnaderna för att driva nätverket. [Ethereum](/kryptovalutor/ethereum.html) har valt att framöver lämna Proof of Work till förmån till Proof of Stake av dessa anledningarna.
 

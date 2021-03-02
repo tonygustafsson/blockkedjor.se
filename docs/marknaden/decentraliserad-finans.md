@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Decentraliserad finans (DeFi)
 description: Ett samlingsbegrepp för nya finanssystem som förbättrar eller ersätter banktjänster med öppna och fria system - med hjälp av blockkedjor och smarta kontrakt.
-mainImage: img/decentraliserad-finans.jpg
+mainImage: img/decentraliserad-finans.webp
 author: Tony Gustafsson
 created: 2020-08-02
 modified: 2020-08-02
@@ -10,7 +10,7 @@ modified: 2020-08-02
 
 # Decentraliserad finans (DeFi)
 
-![Decentraliserad finans](../img/decentraliserad-finans.jpg 'Decentraliserad finans')
+![Decentraliserad finans](../img/decentraliserad-finans.webp 'Decentraliserad finans')
 
 Ett samlingsbegrepp för nya finansiella tjänster så som sparande, lån, inteckningar och försäkringar som använder sig av öppna och fria system. Det benämns även som _Öppen finans_ eller _DeFi_.
 
@@ -26,7 +26,7 @@ Det totala värdet som är låst till DeFi har ökat från ca 44 miljarder SEK t
 
 Precis som med blockkedjetekniken i övrigt så kan alla vara med och delta. Vilket även inkluderar fattigare länder och delar av befolkningen som saknar tillgång till banktjänster. Så länge man har en smartphone med internetförbindelse finns de alltså inga hinder. Nuvarande banksystem stänger ute ca 40% av världens befolkning.
 
-![Tillväxten för DeFi](../img/decentraliserad-finans-tillvaxt.png 'Tillväxten för DeFi')
+![Tillväxten för DeFi](../img/decentraliserad-finans-tillvaxt.webp 'Tillväxten för DeFi')
 
 ## Teknik
 
@@ -43,7 +43,7 @@ garantera att låntagaren betalar tillbaka pengarna så måste lånetagaren pant
 
 Det handlar oftast om att man vill ha snabba pengar, kanske för nya investeringar, utan att behöva sälja. Säg att du vill använda värdet av dina [Monero](/kryptovalutor/monero.html), men inte sälja dem om de plötsligt stiger i värde. Då kan du låna Monero till andra, och betala med exempelvis USDT (Tether), och på så vis få en procentuell vinst.
 
-![Lån genom DeFi](../img/decentraliserad-finans-lan.png 'Lån genom DeFi')
+![Lån genom DeFi](../img/decentraliserad-finans-lan.webp 'Lån genom DeFi')
 
 ## Viktiga spelare
 

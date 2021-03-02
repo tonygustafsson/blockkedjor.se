@@ -2,7 +2,7 @@
 layout: default.hbs
 title: IOTA
 description: En lösning för Internet of Things som baseras på DAG-teknologi, som utlovar lösa problemet med skalbarhet. Med gratis och fria transaktioner möjliggörs mikrotransaktioner på ett sätt som tidigare inte varit möjligt.
-mainImage: img/iota.png
+mainImage: img/iota.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2019-07-29
@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # IOTA
 
-![IOTA](../img/iota.png 'IOTA')
+![IOTA](../img/iota.webp 'IOTA')
 
 Officiell webbplats: https://www.iota.org/
 

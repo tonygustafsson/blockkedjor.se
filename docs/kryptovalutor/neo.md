@@ -2,7 +2,7 @@
 layout: default.hbs
 title: NEO
 description: En plattform för den smarta ekonomin, från Kina. De har snabba energieffektiva transaktioner och är populära i öst.
-mainImage: img/neo.png
+mainImage: img/neo.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2019-07-29
@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # NEO
 
-![NEO](../img/neo.png 'NEO')
+![NEO](../img/neo.webp 'NEO')
 
 Officell webbplats: https://neo.org/
 

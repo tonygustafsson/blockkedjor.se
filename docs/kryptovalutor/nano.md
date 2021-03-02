@@ -2,7 +2,7 @@
 layout: default.hbs
 title: NANO
 description: En riktigt snabb valuta som baseras på DAG-teknologi med fria transaktioner.
-mainImage: img/nano.png
+mainImage: img/nano.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2019-07-29
@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # NANO
 
-![NANO](../img/nano.png 'NANO')
+![NANO](../img/nano.webp 'NANO')
 
 Officiell webbplats: https://nano.org/
 
