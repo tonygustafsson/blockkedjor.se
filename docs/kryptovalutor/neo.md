@@ -16,7 +16,7 @@ Officell webbplats: https://neo.org/
 
 NEO skapades år 2014 av Da HongFei och Erik Zhang, och hette då Antshares. NEO kallas ofta för "Kinas [Ethereum](/kryptovalutor/ethereum.html)", eftersom de också bygger en lösning för smarta kontrakt, och är baserade i Kina. Kina är generellt kritiska till kryptovalutor, men har uttryckt sig positivt till just NEO.
 
-Till skillnad från Ethereum så använder de inte [Proof of Work](/tekniker/proof-of-work.html), utan en delegerad variant av [Byzantine Fault Tolerance](/tekniker/byzantine-fault-tolerance.html). Detta gör valutan snabb och energieffektiv. De påstår sig klara uppemot 10000 transaktioner i sekunden (i jämförelse med Ethereums 7).
+Till skillnad från Ethereum så använder de inte [Proof of Work](/tekniker/proof-of-work.html), utan en delegerad variant av Byzantine Fault Tolerance. Detta gör valutan snabb och energieffektiv. De påstår sig klara uppemot 10000 transaktioner i sekunden (i jämförelse med Ethereums 7).
 
 Målet är att skapa en smart ekonomi. Något som enligt den baseras på Digitala tillgångar (tokens), digital identitet och [smarta kontrakt](/tekniker/smarta-kontrakt.html). Under 2019 etablerades ett partnerskap med Ontology (en annan kryptovaluta) där de tänker låta dem stå för de digitala identiteterna.
 
