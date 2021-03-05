@@ -21,7 +21,7 @@ a[href^='http']:after {
     content: ' ↗️';
     font-size: 65%;
     vertical-align: text-bottom;
-    filter: hue-rotate(90deg);
+    filter: hue-rotate(35deg);
 }
 
 .page-container {
