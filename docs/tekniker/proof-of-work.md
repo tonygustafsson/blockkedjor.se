@@ -34,7 +34,7 @@ Det tar vanligtvis flera minuter att beräkna fram en hash som motsvarar svårig
 
 I [Bitcoins](/kryptovalutor/bitcoin.html) begynnelse gick det utmärkt att mina på en vanlig dator - framför allt med en med ett bra grafikkort. Men då specialkonstruerade datorer (ASICs - Application Specific Integrated Circuit) skapades, som är exceptionellt duktiga på just hashing, så ökade svårighetsgraden fort. I dag är det därför i princip omöjligt att lyckas knäcka en godtagbar hash i tid med en vanlig dator.
 
-![Mining farm](../img/mining-farm.webp 'Mining farm') Ett exempel på en miningfarm med ASICs, specialbyggda för att generera kontrollsummor.
+![Mining farm](../img/mining-farm.webp 'Mining farm') _Ett exempel på en miningfarm med ASICs, specialbyggda för att generera kontrollsummor._
 
 Det fina med Proof of Work är att det är det tidigare blocket som hashas, och på så sätt försäkrar man hela tiden föregående block (därav skapas en kedja med block, därav "[Blockkedja](/tekniker/blockkedjor.html)" Det blir därför extremt svårt att ta fram ett förfalskat block med transaktioner. Och då det finns tusentals miners, där alla parter validerar varandra, så anses Proof of Work som väldigt säkert. Ingen har hittills lyckats hacka Bitcoin.
 
