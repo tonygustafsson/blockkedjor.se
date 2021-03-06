@@ -12,7 +12,7 @@ modified: 2021-03-05
 
 ![Non-fungible tokens (NFTs)](../img/non-fungible-tokens.webp 'Non-fungible tokens (NFTs)')
 
-## Vad innebär "fungability"
+## Vad innebär "fungibility"?
 
 Non-fungible tokens kan översättas som "ickeombytliga symboler" och innebär egentligen tokens som är unika, och ej föränderliga. En valutas enheter är "ombytliga", dvs en krona är likvärdig med en annan krona. Men när det gäller Non-fungible tokens är det omvända sant - att varje enhet är unik och inte kan växlas mot en annan enhet.
 
@@ -20,7 +20,7 @@ För att något ska klassas som en NFT krävs det att:
 
 -   Enheterna är en bristvara.
 -   De kan inte delas upp i mindre delar, som ören på en krona.
--   De går inte att förstöra/ta bort.
+-   De går inte att förstöra / ta bort.
 -   Ägarskapet kan verifieras på en blockkedja.
 
 ## Vad används NFTs till?
