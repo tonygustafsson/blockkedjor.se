@@ -5,7 +5,7 @@ description: Den första valutan som såg världens ljust. Skapades av pseudonym
 mainImage: img/bitcoin.webp
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2021-02-17
+modified: 2021-03-06
 ---
 
 # Bitcoin (BTC)
@@ -36,9 +36,15 @@ Det kommer aldrig finnas mer än 21 miljoner BTC, vilket skapar ett system med v
 -   Inget stöd för anonyma/hemliga transaktioner.
 -   Inget stöd för [smarta kontrakt](/tekniker/smarta-kontrakt.html) eller distribuerade appar.
 
+## Framtiden
+
+Bitcoin uppdateras inte särskilt ofta. Senaste stora uppdateringen var SegWit (Segregated Witness) 2017. Men nu är två stora uppdateringar på tapeten, nämligen Taproot och Schnorr-signaturer. De kan bli verklighet redan 2021 om Bitcoinnoderna är eniga.
+
+I korta drag innebär Taproot ökad integritet och anonymitet genom att få transaktioner från multisignaturer och vanliga användare att se liknande ut på blockkedjan, så att det är svårare att urskilja avsändare och mottagare. Schnorr-signaturer har funnits sedan 1989 men har varit en patenterad teknik. Nu, sedan patetet löpt ut, så vill man implementera tekniken och genom det kunna kombinera signaturer vilket förenklar och minskar transaktionsstorlekarna.
+
 ## Att köpa
 
-De går att köpa direkt med kontokort eller banköverföring på [CoinBase](https://www.coinbase.com/) eller [Binance](https://www.binance.com).
+Det går att köpa direkt med kontokort eller banköverföring på [CoinBase](https://www.coinbase.com/) eller [Binance](https://www.binance.com).
 
 ## Nuvarande pris (CoinGecko)
 
