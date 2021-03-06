@@ -2,7 +2,7 @@
 layout: default.hbs
 title: Decentraliserade applikationer (DApps)
 description: Om appar och applikationer vars data integrerar mot decentraliserade system och blockkedjor. Detta möjliggör ostoppbara och ocensurerbara applikationer.
-mainImage: img/decentraliserade-applikationer.webp
+mainImage: img/decentralized-applications.webp
 author: Tony Gustafsson
 created: 2019-07-29
 modified: 2020-08-03
@@ -10,7 +10,7 @@ modified: 2020-08-03
 
 # Decentraliserade applikationer (DApps)
 
-![CryptoKitties](../img/decentraliserade-applikationer.webp 'CryptoKitties')
+![CryptoKitties](../img/decentralized-applications.webp 'CryptoKitties')
 
 En mjukvara som kommunicerar med en [blockkedja](/tekniker/blockkedjor.html) och som integrerar med dessa genom [smarta kontrakt](/tekniker/smarta-kontrakt.html). Dessa applikationer kan se ut som vilka som helst, och vara webbapplikationer, desktopprogram eller mobilappar.
 
