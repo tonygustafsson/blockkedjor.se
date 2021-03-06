@@ -18,10 +18,12 @@ pre {
 
 // Indicate external link
 a[href^='http']:after {
+    position: relative;
     content: ' ↗️';
     font-size: 65%;
     vertical-align: text-bottom;
     filter: hue-rotate(35deg);
+    z-index: -1;
 }
 
 .page-container {
