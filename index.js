@@ -7,6 +7,9 @@ const canonical = require('metalsmith-canonical');
 const sitemap = require('metalsmith-sitemap');
 const msIf = require('metalsmith-if');
 const dateFormatter = require('metalsmith-date-formatter');
+const imageLazyLoading = require('metalsmith-native-lazy-loading');
+const imageAspectRatio = require('metalsmith-image-aspect-ratio');
+const debug = require('metalsmith-debug');
 
 const pageUrl = 'https://www.blockkedjor.se/';
 
@@ -19,6 +22,7 @@ if (productionMode) {
 }
 
 Metalsmith(__dirname)
+    .use(debug())
     .metadata({
         pageTitle: 'Blockkedjor.se',
         pageUrl: pageUrl,
@@ -54,6 +58,17 @@ Metalsmith(__dirname)
             default: 'default.hbs',
             directory: './layouts',
             pattern: '**/*.html'
+        })
+    )
+    .use(
+        imageLazyLoading({
+            pattern: '**/*.html'
+        })
+    )
+    .use(
+        imageAspectRatio({
+            documentPattern: '**/*.html',
+            imagePattern: ['**/*.webp']
         })
     )
     .use(
