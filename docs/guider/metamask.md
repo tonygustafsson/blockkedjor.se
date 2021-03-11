@@ -89,8 +89,6 @@ Du får nu möjlighet att fylla i hur mycket ETH du vill skicka, och hur mycket 
 
 Ska du bara skicka till ett annat konto så kanske det inte spelar så stor roll hur fort transaktionen går, men ska du integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html) så uppstår ibland transaktionskostnadskrig, och om din transaktion inte går igenom fort nog så har förutsättningarna ändrats, och din transaktion blir avbruten. En avbruten transaktion ger dig inte tillbaka din transaktionsavgift.
 
-![MetaMask](../img/guides/metamask/metamask-8.webp 'MetaMask')
-
 Sedan tar du "Next", och bekräftar. Sedan är det bara att vänta tills det decentralicerade nätverket verifierat din transaktion.
 
 ## Hantera tokens
