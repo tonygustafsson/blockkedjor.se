@@ -87,7 +87,7 @@ _Klicka på adressen högt upp för att kopiera det till urklipp_
 
 Du får nu möjlighet att fylla i hur mycket ETH du vill skicka, och hur mycket du vill betala i transaktionsavgift. Hur mycket du bör betala i transaktionsavgift kommer att variera beroende på hur belastat nätverket är. "Average" brukar räcka, och tar cirka en minut, men det kan också ta mycket längre tid. När det inte skiljer så mycket mellan Average och Fast så är det effektivaste att välja snabbaste.
 
-Ska du bara skicka till ett annat konto så kanske det inte spelar så stor roll hur fort transaktionen går, men ska du integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html) så uppstår ibland transaktionskostnadskrig, och om din transaktion inte går igenom fort nog så har förutsättningarna ändrats, och din transaktion blir avbruten. En avbruten transaktion ger dig inte tillbaka din transaktionsavgift.
+Ska du bara skicka till ett annat konto så kanske det inte spelar så stor roll hur fort transaktionen går, men ska du integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html) så uppstår ibland transaktionskostnadskrig. Om din transaktion inte går igenom fort nog så kan förutsättningarna ha ändrats, och din transaktion blir avbruten. En avbruten transaktion ger dig inte tillbaka din transaktionsavgift.
 
 Sedan tar du "Next", och bekräftar. Sedan är det bara att vänta tills det decentralicerade nätverket verifierat din transaktion.
 
