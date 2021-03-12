@@ -115,13 +115,13 @@ När du matar in denna adress i MetaMask så bör den fylla i Symbol och Precisi
 
 ## Växla tokens
 
-En ny funktion sedan 2021 är möjligheten att kunna växla (swappa) tokens mellan varandra direkt i MetaMask. Det sker genom [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html). Man behöver således inte använda tjänster så som [Uniswap](https://uniswap.org/) om man inte vill.
+En ny funktion sedan 2021 är möjligheten att kunna växla (swappa) tokens mellan varandra direkt i MetaMask. Det sker genom [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html). Man behöver således inte använda tjänster så som [Uniswap](/guider/uniswap.html) om man inte vill.
 
 Enklaste sättet är att klicka på den blå knappen "Swap". Här kan du välja om du vill byta _från_ ETH eller en särskild token, och vad du vill ha tillbaka. Här har vi ett exempel där jag vill växla 0.01 ETH som där och då motsvarade $18.32 - och jag vill ha REN för dessa.
 
 ![MetaMask](../img/guides/metamask/metamask-11.webp 'MetaMask')
 
-Klicka sedan på "Renew Swap". Det kommer ta några sekunder då den kollar bästa möjliga pris och rutt. Du kommer att se ungefär vad transaktionsavgiften kommer att bli, och du kan även välja transaktionsavgift manuellt genom den lilla länken "Edit". Som vi nämnt innan så är det ofta en god idé att välja snabbaste möjliga transaktioner när man växlar på decentralicerade marknadsplatser, eftersom långsamma transaktioner ofta misslyckas, och du går miste om transaktionsavgiften. När allt ser rätt ut klickar du på "Swap".
+Klicka sedan på "Review Swap". Det kommer ta några sekunder då den kollar bästa möjliga pris och rutt. Du kommer att se ungefär vad transaktionsavgiften kommer att bli, och du kan även välja transaktionsavgift manuellt genom den lilla länken "Edit". Som vi nämnt innan så är det ofta en god idé att välja snabbaste möjliga transaktioner när man växlar på decentralicerade marknadsplatser, eftersom långsamma transaktioner ofta misslyckas, och du går miste om transaktionsavgiften. När allt ser rätt ut klickar du på "Swap".
 
 ![MetaMask](../img/guides/metamask/metamask-12.webp 'MetaMask')
 _Hurra! 13.55 REN för mina ynka 0.01 ETH_
