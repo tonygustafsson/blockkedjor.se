@@ -67,8 +67,8 @@ Metalsmith(__dirname)
     )
     .use(
         imageAspectRatio({
-            documentPattern: '**/*.html',
-            imagePattern: ['**/*.webp']
+            pattern: '**/*.html',
+            imageExtensions: ['webp']
         })
     )
     .use(
