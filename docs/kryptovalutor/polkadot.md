@@ -10,7 +10,7 @@ modified: 2021-02-20
 
 # Polkadot (DOT)
 
-![Polkadot](../img/polkadot.webp 'Polkadot')
+![Polkadot](/img/polkadot.webp 'Polkadot')
 
 Officiell webbplats: https://polkadot.network/
 
@@ -22,7 +22,7 @@ De använder [Nominated Proof of Stake](/tekniker/proof-of-stake.html) som konse
 
 Parachains är inte aktiva ännu i skrivandets stund, utan kommer auktioneras ut inom kort. Priset är därmed okänt, men man kan förmoda att det inte blir billigt.
 
-![Polkadot Parachains](../img/polkadot-parachains.webp 'Polkadot Parachains')
+![Polkadot Parachains](/img/polkadot-parachains.webp 'Polkadot Parachains')
 
 Polkadot försöker inte konkurrera ut [Ethereum](/kryptovalutor/ethereum.html), utan arbetar mycket med interoperabilitet och samarbeten mellan olika nätverk. De bygger broar mellan olika decentralicerade blockkedjor istället för att slå sig för bröstet och försöka förgöra de andra spelare (något som visat sig vara ett misstag som tidigare spelare ofta gjort).
 

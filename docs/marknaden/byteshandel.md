@@ -20,7 +20,7 @@ I korthet går det till på så vis att man hittar ett projekt man tycker om på
 
 ## Vanliga misstag
 
-![Misstag](../img/mistake.webp 'Misstag')
+![Misstag](/img/mistake.webp 'Misstag')
 
 ### Inte läsa på om projektet
 
@@ -56,4 +56,4 @@ Det blir närmast omöjligt att hålla koll på hur mycket man gått med vinst e
 
 I början försöker man oftast med dokument och spreadsheets, men det brukar falla platt. Vill man ha koll behöver man ha en applikation som hjälper en som är specialgjort för att hålla koll på din kryptoportfölj. Man skriver in vilken valuta man köper och för hur många kronor, när man säljer eller byter, så håller den koll på vinst/förlust åt dig. Exempel på sådana applikationer är [Blockfolio](https://blockfolio.com/) och [CoinTracking](https://cointracking.info/).
 
-![Blockfolio](../img/blockfolio.webp 'Blockfolio')
+![Blockfolio](/img/blockfolio.webp 'Blockfolio')

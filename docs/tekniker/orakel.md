@@ -10,7 +10,7 @@ modified: 2020-08-03
 
 # Orakel
 
-![Orakel](../img/oracles.webp 'Orakel')
+![Orakel](/img/oracles.webp 'Orakel')
 
 Ett orakel är en tjänst som kan ge [smarta kontrakt](/tekniker/smarta-kontrakt.html) extern information från den verkliga världen. Smarta kontrakt följer given programkod och när vissa uppsatta mål är nådda så exekveras dem. Men de kan aldrig ta beslut utifrån annat än det som finns på [blockkedjan](/tekniker/blockkedjor.html). Detta är en begränsning som omöjliggör saker som slumpmässighet i spel, marknadsinformation eller övriga externa tjänster.
 
@@ -24,7 +24,7 @@ I slutändan är användning av orakeltjänster alltid en risk. Skulle de ge fel
 
 För att försöka komma från dessa problem brukar man använda sig av flera datakällor och flera orakel parallellt. Det finns även metoder för att ge ekonomiska incitament till att inte lura systemet, då det straffar sig. Hårdvaruorkal (mätinstrument) kan även bevisa äktheten på deras data genom zero knowledge proofs, utan att faktiskt visa hur de kom fram till mätvärdena.
 
-![Informationsflöde för orakel](../img/oracles-info.webp 'Informationsflöde för orakel')
+![Informationsflöde för orakel](/img/oracles-info.webp 'Informationsflöde för orakel')
 
 ## Kostnad
 

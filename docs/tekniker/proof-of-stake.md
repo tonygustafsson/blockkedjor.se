@@ -10,7 +10,7 @@ modified: 2019-07-30
 
 # Proof of Stake (PoS)
 
-![Proof of Stake](../img/proof-of-stake.webp 'Proof of Stake')
+![Proof of Stake](/img/proof-of-stake.webp 'Proof of Stake')
 
 Idéen kom 2011 som en lösning på alla de problem som [Proof of Work](/tekniker/proof-of-work.html) skapade. Exempelvis problemet med skalbarhet, transaktionstiderna, transaktionskostnaderna och elkostnaderna för att driva nätverket. [Ethereum](/kryptovalutor/ethereum.html) har valt att framöver lämna Proof of Work till förmån till Proof of Stake av dessa anledningarna.
 

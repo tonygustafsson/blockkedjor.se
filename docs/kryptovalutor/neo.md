@@ -10,7 +10,7 @@ modified: 2019-07-29
 
 # NEO
 
-![NEO](../img/neo.webp 'NEO')
+![NEO](/img/neo.webp 'NEO')
 
 Officell webbplats: https://neo.org/
 

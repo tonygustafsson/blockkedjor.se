@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # Monero (XMR)
 
-![Monero](../img/monero.webp 'Monero')
+![Monero](/img/monero.webp 'Monero')
 
 Officell webbplats: https://web.getmonero.org/
 

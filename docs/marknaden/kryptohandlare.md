@@ -18,7 +18,7 @@ En av de första kryptohandlarna var Mt. Gox, som med stor framgång lät väldi
 
 Kryptovalutor i sig är säkra, så länge den privata nyckeln är i säkert förvar. Men att ha sina pengar på en kryptohandlare innebär alltid en risk. Det är då inte _dina_ pengar, utan de fungerar då som en bank, på så vis att de förvarar dem åt dig. Vilket naturligtvis innebär en risk att de går förlorade vid ett hack. I media rapporteras det ofta felaktigt att "Bitcoin har blivit hackad", vilket aldrig har hänt. Det man menar då är att en stor kryptohandlare har blivit hackad.
 
-![Kryptohandel](../img/exchange.webp 'Kryptohandel')
+![Kryptohandel](/img/exchange.webp 'Kryptohandel')
 
 ## Hur det går till
 

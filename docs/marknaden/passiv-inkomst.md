@@ -10,7 +10,7 @@ modified: 2019-07-30
 
 # Passiv inkomst
 
-![Passiv inkomst](../img/passive-income.webp 'Passiv inkomst')
+![Passiv inkomst](/img/passive-income.webp 'Passiv inkomst')
 
 Vem vill inte tjäna pengar medan man sover? Banken ger oftast ingen ränta alls, och i bästa fall kan man få 0,65 % om man låser upp pengarna i x antal år. Den här sidan behandlar de möjligheterna kryptosfären ger för att tjäna pengar utan att aktivt jobba för det dagligdags. Men det finns generellt inga gratispengar som inte innebär en risk för dig.
 

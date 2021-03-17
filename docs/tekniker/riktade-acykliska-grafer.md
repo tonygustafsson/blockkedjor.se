@@ -10,7 +10,7 @@ modified: 2019-07-31
 
 # Riktade acykliska grafer (DAG)
 
-![Riktade acykliska grafer](../img/dag.webp 'Riktade acykliska grafer')
+![Riktade acykliska grafer](/img/dag.webp 'Riktade acykliska grafer')
 
 Directed Acyclic Graph (DAG) är en utmanare till [blockkedjan](/tekniker/blockkedjor.html), som försöker lösa problemet med dyra transaktionsavgifter, långsamma transaktioner och den dåliga skalbarheten. Blockkedjor i sig har lösningar som lager-2-tekniker (Ex [Lightning Network](/tekniker/lightning-network.html)), sharding och [Proof of Stake](/tekniker/proof-of-stake.html), men hittills har ingen kommit upp i hastigheter som liknar de man ser på DAG-baserade nätverk.
 
@@ -28,7 +28,7 @@ På grund av detta så finns det ingen plats för miners i DAG-baserade valutor.
 
 Varje nod i nätverket har en egen blockkedja kan man säga. Om en felaktig eller falsk transaktion upptäcks, så knoppas kedjan av och fortsätter där den senaste valida transaktionen var.
 
-![DAG-graf](../img/dag-graph.webp 'DAG-graf')
+![DAG-graf](/img/dag-graph.webp 'DAG-graf')
 
 Blockkedjor är säkra, därför att krypteringsalgoritmerna är säkra. Men ett hot man kan se på horisonten är kvantdatorer, som är extremt mycket snabbare på att gissa kontrollsummor än vanliga datorer. I alla fall kommer de att vara det, när tekniken mognat. Man hittar troligtvis en lösning på det problemet när det är dags, men DAG-baserade lösningar är redan skyddade.
 
@@ -40,13 +40,13 @@ En annan svaghet är att det blir omöjligt att hantera [smarta kontrakt](/tekni
 
 ## Blockgitter (Block Lattice)
 
-![Blockgitter](../img/block-lattice.webp 'Blockgitter')
+![Blockgitter](/img/block-lattice.webp 'Blockgitter')
 
 Vissa valutor, så som [NANO](/kryptovalutor/nano.html) och VITE har löst problemet med [smarta kontrakt](/tekniker/smarta-kontrakt.html) genom att använda ett blockgitter. Det är fortfarande DAG-baserad teknik, men där splittar man upp transaktioner i två olika händelser. En händelse för att pengar skickas, och en händelse för att pengar tas emot. Då kan man plötsligt känna till ordningen på transaktionerna, trots att nätverket är asynkront.
 
 ## Hashgrafer (Hashgraphs)
 
-![Hashgraf](../img/hashgraph.webp 'Hashgraf')
+![Hashgraf](/img/hashgraph.webp 'Hashgraf')
 
 En annan DAG-baserad teknik är hashgrafer, som används av exempelvis Hedera Hashgraph och Tolar HashNET, är ett slags skvallerprotokoll. I stället för att en nod som skickar en transaktion kommunicerar med två andra noder och validerar deras transaktioner, så kommuniceras alla händelser till dessa två parter. Hela historiken. Och de i sin tur berättar allt som den känner till. Så går det runt.
 

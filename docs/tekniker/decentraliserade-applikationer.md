@@ -10,7 +10,7 @@ modified: 2020-08-03
 
 # Decentraliserade applikationer (DApps)
 
-![CryptoKitties](../img/decentralized-applications.webp 'CryptoKitties')
+![CryptoKitties](/img/decentralized-applications.webp 'CryptoKitties')
 
 En mjukvara som kommunicerar med en [blockkedja](/tekniker/blockkedjor.html) och som integrerar med dessa genom [smarta kontrakt](/tekniker/smarta-kontrakt.html). Dessa applikationer kan se ut som vilka som helst, och vara webbapplikationer, desktopprogram eller mobilappar.
 

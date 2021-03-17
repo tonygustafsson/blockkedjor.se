@@ -10,7 +10,7 @@ modified: 2019-07-30
 
 # Smarta kontrakt
 
-![Smarta kontrakt](../img/smart-contracts.webp 'Smarta kontrakt')
+![Smarta kontrakt](/img/smart-contracts.webp 'Smarta kontrakt')
 
 Smarta kontrakt (smart contracts) är en lösning för elektroniska och automatiska kontrakt och föreslogs för första gången av Nick Szabo redan 1997. [Bitcoin](/kryptovalutor/bitcoin.html) har ett enkelt scriptspråk som stödjer multisignaturer och tidslås m.m., men [Ethereum](/kryptovalutor/ethereum.html) var det projekt som för första gången anammade det på allvar.
 

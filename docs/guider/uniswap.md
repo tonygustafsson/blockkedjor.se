@@ -10,7 +10,7 @@ modified: 2021-03-12
 
 # Uniswap
 
-![Uniswap](../img/guides/uniswap/uniswap.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap.webp 'Uniswap')
 
 Uniswap är idag den absolut största [decentraliserade kryptohandlaren](/marknaden/kryptohandlare.html). Att den är decentraliserad innebär att det inte finns någon central instans som tar avgifter eller lägger sig i orderläggningar, insättningar eller uttag. Det är en fri marknad mellan de som köper, säljer och de som erbjuder likviditet genom speciella pooler.
 
@@ -33,7 +33,7 @@ Uniswap har ingen orderbok som en normal exchange/handlare. De kollar inte helle
 
 Vem som helst kan sätta upp likviditetspooler mellan två valutor. Exempelvis 50% ETH och 50% REN, och denna balans kommer alltid upprätthållas, och agerar som pooler människor kan köpa från. När man tar valuta ur REN-poolen påverkas priserna eftersom tillgången förändras. Det skapar ett system som består av de som tillför likviditet, de som köper och de som säljer - helt utan en central instans.
 
-![Uniswap](../img/guides/uniswap/uniswap-liquidity-pools.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap-liquidity-pools.webp 'Uniswap')
 _I en likviditetspool måste det alltid finnas lika mycket av vardera tradingpar_
 
 ## Avgifter
@@ -54,7 +54,7 @@ Du byter ETH mot REN och betalar 0.02 ETH i transaktionsavgift. Det annonseras p
 
 Man kan hitta de flesta tokens på Uniswap genom att klicka upp listan med knappen "Select a token". Det finns tusentals att välja på. Men om din token _inte_ listas här, så kan du eventuellt hitta det genom att söka upp ditt token på [CoinGecko](https://www.coingecko.com), klicka på fliken "Marknader" och klicka på Uniswap-paret där så kommer du direkt rätt.
 
-![Uniswap](../img/guides/uniswap/uniswap7.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap7.webp 'Uniswap')
 _Här ser du en lång lista med tokens att växla mellan på Uniswap_
 
 En sista utväg är att ta reda på ditt tokens kontraktsadress, som du kan få tag i antingen på [CoinGecko](https://www.coingecko.com) eller [EtherScan](https://etherscan.io/). Du besöker sedan:
@@ -67,21 +67,21 @@ https://app.uniswap.org/#/swap?outputCurrency=[CONTRACT-ADDRESS]
 
 Besök https://app.uniswap.org/ och klicka på "Connect Wallet".
 
-![Uniswap](../img/guides/uniswap/uniswap1.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap1.webp 'Uniswap')
 
 Välj sedan vilken wallet du vill använda, exempelvis [Metamask](/guider/metamask.html). Har du Metamask installerad kommer den be om lösenord om du inte använt den på en stund. Välj kontot du vill ansluta med, och tryck Nästa. Acceptera signaturen - detta kostar ingenting.
 
-![Uniswap](../img/guides/uniswap/uniswap2.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap2.webp 'Uniswap')
 
 Nu förändras skärmen till något som liknar ovan. Du ser hur mycket du konverterar _från_ och hur mycket du kommer att få. "Minimum received" innebär att den tar hänsyn till Slippage/Glidning, så att om du accepterar att priset kan ändras 1% upp eller ner från det att du lägger beställningen tills det går igenom, så visar detta det minsta möjliga du kan få. Du kan ändra toleransen för slippage på kugghjulet uppe till höger.
 
 När du är redo trycker på du på "Swap".
 
-![Uniswap](../img/guides/uniswap/uniswap3.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap3.webp 'Uniswap')
 
 Du ser nu en sammanställning på det hela. När du är redo trycker du på "Confirm Swap", varpå din plånbok bör öppnas automatiskt.
 
-![Uniswap](../img/guides/uniswap/uniswap4.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap4.webp 'Uniswap')
 
 Om du använder Metamask så kommer det att se ut något i stil med det här. Andra plånböcker ser annorlunda ut men följer ungefär samma koncept. Vill du veta mer om Metamask fungerar och vad du bör tänka på så kolla på [guiden för Metamask](/guider/metamask.html).
 
@@ -91,13 +91,13 @@ Det viktiga här är att se till att du betalar tillräckligt mycket i transakti
 
 För att sälja exempelvis TRAC mot ETH väljer du valutorna i _från_ och _till_. Och välj hur mycket du vill växla/swappa.
 
-![Uniswap](../img/guides/uniswap/uniswap5.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap5.webp 'Uniswap')
 
 Att sälja tokens fungerar egentligen på samma sätt som att köpa tokens. Eftersom det handlar om att växla tokens mellan varandra. Skillnaden uppstår om du vill växla en ERC-20-token mot Ethereum, eller om du vill växla en ERC-20-token mot en annan ERC-20-token. Det du då måste göra är att först godkänna att Uniswap har rätt att dra denna valuta från ditt konto. Detta är en transaktion på Ethereum-nätet och kostar därför en avgift. Men detta inträffar bara första gången du ska sälja en valuta, därefter kostar det inget att sälja samma valuta.
 
 Du möts av nedanstående skylt om du använder Metamask. Du kan ändra din transaktionsavgift om du vill. Klicka sedan på "Bekräfta". Detta kan ta circa en minut, men få inte panik om det tar längre än så.
 
-![Uniswap](../img/guides/uniswap/uniswap6.webp 'Uniswap')
+![Uniswap](/img/guides/uniswap/uniswap6.webp 'Uniswap')
 
 När det är klart står det "Approved" på Uniswap och du kan då välja "Swap". Därefter följer samma procedur som [när du köper](#att-köpa).
 

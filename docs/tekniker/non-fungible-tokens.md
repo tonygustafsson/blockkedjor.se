@@ -10,7 +10,7 @@ modified: 2021-03-05
 
 # Non-fungible tokens (NFTs)
 
-![Non-fungible tokens (NFTs)](../img/non-fungible-tokens.webp 'Non-fungible tokens (NFTs)')
+![Non-fungible tokens (NFTs)](/img/non-fungible-tokens.webp 'Non-fungible tokens (NFTs)')
 
 ## Vad innebär "fungibility"?
 
@@ -35,7 +35,7 @@ Det finns NFTs som sålts för oerhörda summor pengar. Exempelvis [en drakversi
 -   Kunna sälja objektet dyrare senare.
 -   Nya möjligheter och utseenden i spel.
 
-![Dragon the CryptoKittie](../img/non-fungible-tokens-cryptokitty.webp 'Dragon the CryptoKittie') _CryptoKittyn 'Dragon' som såldes för 600 ETH._
+![Dragon the CryptoKittie](/img/non-fungible-tokens-cryptokitty.webp 'Dragon the CryptoKittie') _CryptoKittyn 'Dragon' som såldes för 600 ETH._
 
 ## De mest populära samlarobjekten
 
@@ -59,7 +59,7 @@ Alla [blockkedjor](/tekniker/blockkedjor.html) klarar inte av att erbjuda NFTs. 
 
 [ERC-721](https://eips.ethereum.org/EIPS/eip-721) skapades tidigt 2018 och togs fram just med att kunna skapa unika symboler på Ethereum. Sedan dess är det nästan uteslutande varit denna teknik man använder sig av. På senare tid har dock [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) fått ett större fokus, och är ett tillägg som togs fram av skaparen från [Enjin](https://enjin.io/). Den tillför bland annat att varje NFT inte måste vara helt unik, utan kan finnas i exempelvis 100 upplagor. Det gör det mycket enklare för utvecklare att skapa exempelvis potions och vapen i ett spel. Man möjliggör också att kunna byta ägarskap på många NFT i samma transaktion vilket gör det snabbare och billigare.
 
-![Usage of NFTs](../img/non-fungible-tokens-usage.webp 'Usage of NFTs')
+![Usage of NFTs](/img/non-fungible-tokens-usage.webp 'Usage of NFTs')
 
 [Ethereum](/kryptovalutor/ethereum.html) är än så länge ett dyrt och långsamt nätverk att köra spel och applikationer på. När efterfrågan trycker på så räcker det inte alltid till. Det håller även tillbaka populariteten för NFTs i viss mån. Det finns dock många andra blockkedjor som fokuserar mycket på NFTs, så som [Theta Network](https://www.thetatoken.org/), [Flow](https://www.onflow.org/), [Enjin](https://enjin.io/), [Decentraland](https://decentraland.org/) och [WAX](https://on.wax.io/wax-io/).
 

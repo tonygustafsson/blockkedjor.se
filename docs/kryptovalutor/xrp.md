@@ -10,7 +10,7 @@ modified: 2019-07-28
 
 # Ripple (XRP)
 
-![Ripple](../img/xrp.webp 'Ripple')
+![Ripple](/img/xrp.webp 'Ripple')
 
 Officiell webbplats: https://www.ripple.com/xrp/
 

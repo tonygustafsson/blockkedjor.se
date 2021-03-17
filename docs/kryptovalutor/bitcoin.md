@@ -10,7 +10,7 @@ modified: 2021-03-06
 
 # Bitcoin (BTC)
 
-![Bitcoin](../img/bitcoin.webp 'Bitcoin')
+![Bitcoin](/img/bitcoin.webp 'Bitcoin')
 
 Officiell webbplats: https://www.bitcoin.org/
 

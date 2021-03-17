@@ -10,7 +10,7 @@ modified: 2021-02-20
 
 # Binance Coin (BNB)
 
-![Binance Coin](../img/binance-coin.webp 'Binance Coin')
+![Binance Coin](/img/binance-coin.webp 'Binance Coin')
 
 Officiell webbplats: https://www.binance.com/en/bnb
 

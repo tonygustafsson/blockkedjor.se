@@ -10,7 +10,7 @@ modified: 2019-07-30
 
 # Proof of Work (PoW)
 
-![Proof of Work](../img/proof-of-work.webp 'Proof of Work')
+![Proof of Work](/img/proof-of-work.webp 'Proof of Work')
 
 Proof of Work (Bevis på arbete) är en konsensusmodell där alla gruvnoder (miners) utför kostsamma beräkningar, där processorkraft eller grafikprocessorkraft används för att generera stora antal gissningar sekunden, och den som gissar rätt först "vinner". De belönas därmed med ett pris. Det går däremot snabbt att verifiera att en av dessa gissningar är rätt, vilket gör systemet utmärkt att använda för kryptovalutor så som [Bitcoin](/kryptovalutor/bitcoin.html) och [Litecoin](/kryptovalutor/litecoin.html).
 
@@ -34,10 +34,10 @@ Det tar vanligtvis flera minuter att beräkna fram en hash som motsvarar svårig
 
 I [Bitcoins](/kryptovalutor/bitcoin.html) begynnelse gick det utmärkt att mina på en vanlig dator - framför allt med en med ett bra grafikkort. Men då specialkonstruerade datorer (ASICs - Application Specific Integrated Circuit) skapades, som är exceptionellt duktiga på just hashing, så ökade svårighetsgraden fort. I dag är det därför i princip omöjligt att lyckas knäcka en godtagbar hash i tid med en vanlig dator.
 
-![Mining farm](../img/mining-farm.webp 'Mining farm') _Ett exempel på en miningfarm med ASICs, specialbyggda för att generera kontrollsummor._
+![Mining farm](/img/mining-farm.webp 'Mining farm') _Ett exempel på en miningfarm med ASICs, specialbyggda för att generera kontrollsummor._
 
 Det fina med Proof of Work är att det är det tidigare blocket som hashas, och på så sätt försäkrar man hela tiden föregående block (därav skapas en kedja med block, därav "[Blockkedja](/tekniker/blockkedjor.html)" Det blir därför extremt svårt att ta fram ett förfalskat block med transaktioner. Och då det finns tusentals miners, där alla parter validerar varandra, så anses Proof of Work som väldigt säkert. Ingen har hittills lyckats hacka Bitcoin.
 
-![Förklaring av Proof of Work](../img/proof-of-work-explanation.webp 'Förklaring av Proof of Work')
+![Förklaring av Proof of Work](/img/proof-of-work-explanation.webp 'Förklaring av Proof of Work')
 
 Nackdelarna är förstås att det går långsamt och kräver mycket energi. Därför rör sig många moderna kryptovalutor sig bort från denna konsensusmodell, mot ex [Proof of Stake](/tekniker/proof-of-stake.html) eller [DAGs](/tekniker/riktade-acykliska-grafer.html). Mycket kritik har riktats mot Bitcoin just, för att man beräknat att kraften för att hålla nätverket flytande kräver lika mycket elektricitet som hela Schweiz använder, eller 0,5% av hela världens elektricitetkonsumtion. Men man får förstås även fråga sig hur mycket energi som krävs i framställningen och transporten av guld, och även kring hela bankväsendet.

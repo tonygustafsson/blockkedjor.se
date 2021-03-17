@@ -10,7 +10,7 @@ modified: 2021-03-06
 
 # Ethereum (ETH)
 
-![Ethereum](../img/ethereum.webp 'Ethereum')
+![Ethereum](/img/ethereum.webp 'Ethereum')
 
 Officiell webbplats: https://www.ethereum.org/
 
@@ -51,7 +51,7 @@ Några som förstås inte är nöjda med detta är de som minar/bryter och valid
 
 15 transaktioner i sekunden räcker inte långt längre. Det räcker inte ens för att _en_ applikation eller _ett_ spel. Det är ingen enkel uppgift att öka hastigheten på ett decentraliserat nät, men tekniken har kommit längre sedan Ethereum 1.0 såg dagens ljus.
 
-![Ethereum 2.0](../img/eth2.webp 'Ethereum 2.0')
+![Ethereum 2.0](/img/eth2.webp 'Ethereum 2.0')
 
 ETH 2.0 släpps i olika faser.
 

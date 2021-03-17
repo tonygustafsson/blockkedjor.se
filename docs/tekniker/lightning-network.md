@@ -10,7 +10,7 @@ modified: 2021-03-05
 
 # Lightning Network
 
-![Lightning Network](../img/lightning-network.webp 'Lightning Network')
+![Lightning Network](/img/lightning-network.webp 'Lightning Network')
 
 Lightning Network är ett betalnätverk som ligger ovanpå [blockkedjor](/tekniker/blockkedjor.html) så som [Bitcoin](/kryptovalutor/bitcoin.html) och [Litecoin](/kryptovalutor/litecoin.html), och kallas därför för en lager2-lösning. Förslaget togs fram av Joseph Poon och Thaddeus Dryja 2015 och kom ut som beta år 2018.
 
@@ -38,7 +38,7 @@ Betalkanaler skapas mellan två parter. En summa dedikeras för kanalen på bloc
 
 Man kan även skicka pengar till parter man inte har en direkt uppsatt betalkanal till genom ett routingprotkoll som liknar [TOR](https://www.torproject.org/download/). Varje person som skapar upp en betalkanal väljer själv vad det ska kosta att skicka pengar genom kanalen - men om det är för dyrt kommer människor förstås välja en annan rutt. Generellt är det väldigt billigt, även att göra en betalning genom många parter/noder.
 
-![Lightning Network Test network](../img/lightning-network-nodes.webp 'Lightning Network Test network')
+![Lightning Network Test network](/img/lightning-network-nodes.webp 'Lightning Network Test network')
 _Exempel på ett routat Lightning-nätverk på ett testnät_
 
 ## Stöd

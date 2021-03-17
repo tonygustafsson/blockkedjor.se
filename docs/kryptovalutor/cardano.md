@@ -10,7 +10,7 @@ modified: 2021-03-06
 
 # Cardano (ADA)
 
-![Cardano](../img/cardano.webp 'Cardano')
+![Cardano](/img/cardano.webp 'Cardano')
 
 Officell webbplats: https://www.cardano.org/
 
@@ -30,7 +30,7 @@ Utvecklingen i Cardano sker i olika faser.
 4.  **Basho** _Skalbarhet_. Introducerar sidokedjor som möjliggör samtidiga transaktioner som sker parallellt. Cardano är snabbare än Ethereum även utan dessa, men för att på riktigt konkurrera med Visa och MasterCard så är det ett måste om decentraliceringen ska kunna bevaras.
 5.  **Volatire** _Styre/Ledning_. Sista steget för ett decentralicerat nätverk, där en stakes inte bara medför avkastning, utan även ger dig rösträtt för att vara med i hur Cardano ska drivas framöver.
 
-![Charles Hoskinson](../img/cardano-charles-hoskinson.webp 'Charles Hoskinson')
+![Charles Hoskinson](/img/cardano-charles-hoskinson.webp 'Charles Hoskinson')
 _Charles Hoskinson - mannen bakom Cardano_
 
 ## Fördelar

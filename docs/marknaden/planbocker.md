@@ -24,4 +24,4 @@ Men det absolut säkraste sättet är att köpa dig en hårdvarunyckel, såsom [
 
 Dessa ord skapar nämligen din privata nyckel med hjälp av en algoritm. Samma algoritm kan skapa upp samtliga privata nycklar åt dig som används av en uppsjö olika kryptovalutor.
 
-![Banano wallet](../img/banano-wallet.webp 'Banano wallet')
+![Banano wallet](/img/banano-wallet.webp 'Banano wallet')

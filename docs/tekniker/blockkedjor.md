@@ -10,7 +10,7 @@ modified: 2019-07-31
 
 # Blockkedjor
 
-![Blockkedjor](../img/blockchain.webp 'Blockkedjor')
+![Blockkedjor](/img/blockchain.webp 'Blockkedjor')
 
 En blockkedja (blockchain) består av en lång serie med block. Varje block innehåller vanligtvis flera transaktioner. Det är en decentraliserad databas utan en central knutpunkt, vilket gör det svårt att stoppa eller kontrollera.
 
