@@ -6,3 +6,4 @@ Redirect 301 /byteshandlar.html /marknaden/byteshandel.html
 Redirect 301 /trading.html /marknaden/byteshandel.html
 Redirect 301 /planbocker.html /marknaden/planbocker.html
 Redirect 301 /tekniker/hashgrafer.html /tekniker/riktade-acykliska-grafer.html
+Redirect 301 /marknaden/kryptohandlare.html /marknaden/exchanges.html

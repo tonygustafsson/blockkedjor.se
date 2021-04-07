@@ -22,6 +22,10 @@ Se en topplista med decentraliserade applikationer på [DappRadar](https://dappr
 
 ## Spel
 
+### [Alien Worlds](https://alienworlds.io/)
+
+Ett [NFT](/tekniker/non-fungible-tokens.html)-baserat spel på blockkedjan WAX. Du kan delta i planeters orgainisationer (DAOs), köpa, byta och sälja NFTs.
+
 ### [SpliterLands](https://splinterlands.com/)
 
 Ett kortspel där man samlar kort, där vissa är mer eller mindre unika. Dessa kort kan sedan bytas mellan spelare på en marknadsplats, eller spelas med. Spelet kan ses som en blandning mellan pokemon spelkort och World of Warcraft. Spelet körs på blockkedjan Hive.
@@ -30,11 +34,7 @@ Ett kortspel där man samlar kort, där vissa är mer eller mindre unika. Dessa 
 
 Ett turbaserat RPG-spel som körs på både mobila plattformar och desktopdatorer. Det går ut på att hitta, spara och träna hjältar från historien. En hjälte är lagrad på blockkedjan och kan förstås inte kopieras.
 
-### [Nextcolony](https://nextcolony.io/)
-
-Ett rymdsimulatorspel med RPG-element där man kan hitta oupptäckta delar av universum, hitta och kolonisera planeter och leta och byta objekt med varandra och attackera varann.
-
-### [CryptoKitties](http://www.cryptokitties.co)
+### [CryptoKitties](https://www.cryptokitties.co)
 
 Kanske den mest kända DAppen, även om den inte är den mest populära längre. Här samlar man på katter - decentraliserade katter alltså, som ligger lagrade på Ethereumkedjan. Katter paras ihop med andra katter och då varje katt har ett enkelt DNA så blir avkomman ett resultat av detta DNA. Varje katt är unik.
 

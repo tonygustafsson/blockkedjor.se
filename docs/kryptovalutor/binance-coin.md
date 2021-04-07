@@ -1,7 +1,7 @@
 ---
 layout: default.hbs
 title: Binance Coin (BNB)
-description: En valuta skapad av kryptohandlaren Binance som ett snabbare och billigare alternativ till Ethereum. Priset för det är tyvärr tappad decentralicering.
+description: En valuta skapad av exchangen Binance som ett snabbare och billigare alternativ till Ethereum. Priset för det är tyvärr tappad decentralicering.
 mainImage: img/binance-coin.webp
 author: Tony Gustafsson
 created: 2021-02-20
@@ -14,13 +14,13 @@ modified: 2021-02-20
 
 Officiell webbplats: https://www.binance.com/en/bnb
 
-Binance Coin (BNB) skapades av [kryptohandlaren](/marknaden/kryptohandlare.html) [Binance](https://www.binance.com) 2017. Först som en ERC20 på [Ethereum](/kryptovalutor/ethereum.html)-nätverket, men strax därefter som ett eget nätverk. Myntet är likt Ethereum på många vis, och stödjer transaktioner och smarta kontrakt.
+Binance Coin (BNB) skapades av [exchangen](/marknaden/exchanges.html) [Binance](https://www.binance.com) 2017. Först som en ERC20 på [Ethereum](/kryptovalutor/ethereum.html)-nätverket, men strax därefter som ett eget nätverk. Myntet är likt Ethereum på många vis, och stödjer transaktioner och smarta kontrakt.
 
 BNB är snabbare och har mycket lägre avgifter än Ethereum, vilket har gjort att det fått ett rejält uppsving 2021, när Ethereums transaktionskostnad skjutit i höjden. Hastigheten kan förklaras genom att BNB inte är lika decentralicerat som Ethereum. Man håller fortfarande sina privata nycklar, men konsensus sker med enbart 21 noder i nätverket, som styrs av Binance själva. Konsensusmetoden är Proof of Staked Authority (PoSA).
 
 Sedan BNB lämnade Ethereum-nätet har man regelbundet utfört så kallade token burns (myntbränder), för att belöna existerande ägare av myntet. Färre mynt i omlopp innebär förstås att högre pris på de som fortfarande cirkulerar. I skrivandets stund finns det fortfarande ca 154 miljoner BNB i omlopp.
 
-BNB kan självklart användas på Binance, men även på deras [decentralicerade byteshandel](/marknaden/kryptohandlare.html) [Binance DEX](https://www.binance.org). På senare tid har många externa parter börjat bygga flitigt med Binancenätverket och har skapat system motsvarande Uniswap, så som [Pancake Swap](https://exchange.pancakeswap.finance/) där man kan växla mynt med låga avgifter.
+BNB kan självklart användas på Binance, men även på deras [decentralicerade exchange](/marknaden/exchanges.html) [Binance DEX](https://www.binance.org). På senare tid har många externa parter börjat bygga flitigt med Binancenätverket och har skapat system motsvarande Uniswap, så som [Pancake Swap](https://exchange.pancakeswap.finance/) där man kan växla mynt med låga avgifter.
 
 ## Fördelar
 

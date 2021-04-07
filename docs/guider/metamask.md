@@ -12,7 +12,7 @@ modified: 2021-03-10
 
 ![MetaMask](/img/guides/metamask/metamask.webp 'MetaMask')
 
-MetaMask är en av de mest populära plånböckerna för [Ethereum](/kryptovalutor/ethereum.html) och ERC-20-tokens. Den är relativt användarvänlig, och gör det enkelt att flytta pengar mellan olika konton eller integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentraliserade kryptohandlare](/marknaden/kryptohandlare.html).
+MetaMask är en av de mest populära plånböckerna för [Ethereum](/kryptovalutor/ethereum.html) och ERC-20-tokens. Den är relativt användarvänlig, och gör det enkelt att flytta pengar mellan olika konton eller integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentraliserade exchanges](/marknaden/exchanges.html).
 
 Andra fördelar är att den går att använda tillsammans med en [hårdvaruplånbok](/marknaden/planbocker.html) så som [Ledger](https://shop.ledger.com/products/ledger-nano-x) och [Trezor](https://trezor.io/). Det finns även en mobilapp så att du kan utföra dina ärenden direkt i mobilen. Till sist går det även att byta tokens mellan varandra.
 
@@ -80,14 +80,14 @@ När pengarna kommit in så kommer det synas på antalet ETH du har i din plånb
 
 ### Skicka Ethereum
 
-För att skicka ETH till dina kompisar, dig själv eller en [kryptohandlare](/marknaden/kryptohandlare.html) så klickar du på den blå knappen "Send". Här kan du skriva in adressen (som börjar 0x...) till den du vill skicka till, alternativt scanna en QR-kod. Har du flera konton i MetaMask så kommer du kunna välja dem här också. Du möts sedan av denna skärm:
+För att skicka ETH till dina kompisar, dig själv eller en [exchange](/marknaden/exchanges.html) så klickar du på den blå knappen "Send". Här kan du skriva in adressen (som börjar 0x...) till den du vill skicka till, alternativt scanna en QR-kod. Har du flera konton i MetaMask så kommer du kunna välja dem här också. Du möts sedan av denna skärm:
 
 ![MetaMask](/img/guides/metamask/metamask-8.webp 'MetaMask')
 _Klicka på adressen högt upp för att kopiera det till urklipp_
 
 Du får nu möjlighet att fylla i hur mycket ETH du vill skicka, och hur mycket du vill betala i transaktionsavgift. Hur mycket du bör betala i transaktionsavgift kommer att variera beroende på hur belastat nätverket är. "Average" brukar räcka, och tar cirka en minut, men det kan också ta mycket längre tid. När det inte skiljer så mycket mellan Average och Fast så är det effektivaste att välja snabbaste.
 
-Ska du bara skicka till ett annat konto så kanske det inte spelar så stor roll hur fort transaktionen går, men ska du integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html) så uppstår ibland transaktionskostnadskrig. Om din transaktion inte går igenom fort nog så kan förutsättningarna ha ändrats, och din transaktion blir avbruten. En avbruten transaktion ger dig inte tillbaka din transaktionsavgift.
+Ska du bara skicka till ett annat konto så kanske det inte spelar så stor roll hur fort transaktionen går, men ska du integrera med [decentralicerade applikationer](/tekniker/decentraliserade-applikationer.html) och [decentralicerade exchanges](/marknaden/exchanges.html) så uppstår ibland transaktionskostnadskrig. Om din transaktion inte går igenom fort nog så kan förutsättningarna ha ändrats, och din transaktion blir avbruten. En avbruten transaktion ger dig inte tillbaka din transaktionsavgift.
 
 Sedan tar du "Next", och bekräftar. Sedan är det bara att vänta tills det decentralicerade nätverket verifierat din transaktion.
 
@@ -95,7 +95,7 @@ Sedan tar du "Next", och bekräftar. Sedan är det bara att vänta tills det dec
 
 Du kan även hantera dina tokens (ERC-20, ERC-721 osv) genom MetaMask. Så länge dessa finns på kontot som är kopplad till din MetaMask så bör de dyka upp på startskärmen under fliken "Assets". För att ta emot assets är det, precis som med ETH, bara ge ut din adress. Se [Ta emot Ethereum](#ta-emot-ethereum).
 
-För att skicka dina assets till vänner eller en kryptohandlare för att sälja dem, kan du bara klicka på dem från startskärmen. Därefter väljer du "Send". Ange adressen (Eller använder dig av QR-kod). Precis som när du skickar Ethereum så väljer du sedan beloppet och din transaktionsavgift. Notera att transaktionsavgiften alltid betalas med ETH oavsett vilken asset/token det är du skickar. Det är därför en god idé att alltid ha lite ETH kvar på kontot ett ett par transaktioner.
+För att skicka dina assets till vänner eller en exchanges för att sälja dem, kan du bara klicka på dem från startskärmen. Därefter väljer du "Send". Ange adressen (Eller använder dig av QR-kod). Precis som när du skickar Ethereum så väljer du sedan beloppet och din transaktionsavgift. Notera att transaktionsavgiften alltid betalas med ETH oavsett vilken asset/token det är du skickar. Det är därför en god idé att alltid ha lite ETH kvar på kontot ett ett par transaktioner.
 
 Om din token _inte_ visas i listan på startskärmen kan de behöva läggas till. Längst ner på startskärmen finns knappen "Lägg till token". Du kan här söka upp det. När inte det heller fungerar så får du lägga till den manuellt genom fliken "Custom Token".
 
@@ -115,7 +115,7 @@ När du matar in denna adress i MetaMask så bör den fylla i Symbol och Precisi
 
 ## Växla tokens
 
-En ny funktion sedan 2021 är möjligheten att kunna växla (swappa) tokens mellan varandra direkt i MetaMask. Det sker genom [decentralicerade kryptohandlare](/marknaden/kryptohandlare.html). Man behöver således inte använda tjänster så som [Uniswap](/guider/uniswap.html) om man inte vill.
+En ny funktion sedan 2021 är möjligheten att kunna växla (swappa) tokens mellan varandra direkt i MetaMask. Det sker genom [decentralicerade exchanges](/marknaden/exchanges.html). Man behöver således inte använda tjänster så som [Uniswap](/guider/uniswap.html) om man inte vill.
 
 Enklaste sättet är att klicka på den blå knappen "Swap". Här kan du välja om du vill byta _från_ ETH eller en särskild token, och vad du vill ha tillbaka. Här har vi ett exempel där jag vill växla 0.01 ETH som där och då motsvarade $18.32 - och jag vill ha REN för dessa.
 

@@ -18,7 +18,7 @@ Cardano är en Ethereumutmanare som skapades år 2015 av Charles Hoskinson, som 
 
 Projektet har ett fantastiskt team, och det drivs på ett vetenskapligt och akademiskt vis. Det vill säga, all kod som slutligen blir en del av produkten granskas av och testas ordentligt. Det gör att utvecklingen ibland går långsammare än förväntat, men det ger också en kodbas som genomstrålar kvalitet.
 
-Idag kan ADA användas för att skicka transaktioner fram och tillbaka, och sedan 2021 går det även att skapa tokens ovanpå Cardanos nätverk. Men där stannar också användningsområdet, då [smarta kontrakt](/tekniker/smarta-kontrakt.html) fortfarande inte introducerats. Men när det sker så förväntas plattformen användas för [DAPPs](/tekniker/decentraliserade-applikationer.html), [decentralicerade byteshandlare](/marknaden/byteshandel.html) med mera.
+Idag kan ADA användas för att skicka transaktioner fram och tillbaka, och sedan 2021 går det även att skapa tokens ovanpå Cardanos nätverk. Men där stannar också användningsområdet, då [smarta kontrakt](/tekniker/smarta-kontrakt.html) fortfarande inte introducerats. Men när det sker så förväntas plattformen användas för [DAPPs](/tekniker/decentraliserade-applikationer.html), [decentralicerade exchanges](/marknaden/exchanges.html) med mera.
 
 ## Faser
 

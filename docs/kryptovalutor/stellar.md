@@ -24,7 +24,7 @@ Stellar är decentraliserade, drivs med öppen källkod och communityt äger nä
 -   Till skillnad från Ripple kan de även hantera tokens, dvs mynt som representerar värde men som inte är XLM, precis som [Ethereum](/kryptovalutor/ethereum.html).
 -   Mer decentralicerad än Ripple.
 -   Bra partnerskap så som IBM.
--   De har en egen decentralicerad [kryptohandel](/marknaden/kryptohandlare.html).
+-   De har en egen decentralicerad [exchange](/marknaden/exchanges.html).
 
 ## Nackdelar
 

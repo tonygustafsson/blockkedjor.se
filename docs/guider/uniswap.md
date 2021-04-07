@@ -12,7 +12,7 @@ modified: 2021-03-12
 
 ![Uniswap](/img/guides/uniswap/uniswap.webp 'Uniswap')
 
-Uniswap är idag den absolut största [decentraliserade kryptohandlaren](/marknaden/kryptohandlare.html). Att den är decentraliserad innebär att det inte finns någon central instans som tar avgifter eller lägger sig i orderläggningar, insättningar eller uttag. Det är en fri marknad mellan de som köper, säljer och de som erbjuder likviditet genom speciella pooler.
+Uniswap är idag den absolut största [decentraliserade exchangen](/marknaden/exchanges.html). Att den är decentraliserad innebär att det inte finns någon central instans som tar avgifter eller lägger sig i orderläggningar, insättningar eller uttag. Det är en fri marknad mellan de som köper, säljer och de som erbjuder likviditet genom speciella pooler.
 
 Det är [Ethereum](/kryptovalutor/ethereum.html) som gäller på Uniswap, och alla ERC-20-tokens därpå. Det kräver också en Ethereum-plånbok, så som [Metamask](/guider/metamask.html), WalletConnect, Coinbase Wallet, Fortmatic eller Portis.
 

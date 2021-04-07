@@ -38,11 +38,11 @@ Det finns gott om plattformar som taktiskt lurar användare, men det finns ocks�
 
 **Risk:** Valutan tappar i värde, och du måste lita på plattformen i fråga för att garantera att du får tillbaka ditt lån.
 
-## Tokens från kryptohandlare
+## Tokens från exchanges
 
-De flesta [kryptohandlare](/marknaden/kryptohandlare.html) har idag egna mynt som används för att byta till sig andra valutor. Ofta får man billigare avgifter för sina köp om man använder dessa, men bara genom att hålla dem så kan man få en procent på samtliga avgifter hos handlaren. De ger då tillbaka genom deras eget mynt, eller genom ett så kallat stabilt mynt.
+De flesta [exchanges](/marknaden/exchanges.html) har idag egna mynt som används för att byta till sig andra valutor. Ofta får man billigare avgifter för sina köp om man använder dessa, men bara genom att hålla dem så kan man få en procent på samtliga avgifter hos handlaren. De ger då tillbaka genom deras eget mynt, eller genom ett så kallat stabilt mynt.
 
-**Risk:** Du måste lita på kryptohandlaren och att deras mynt inte tappar i värde. Du måste även hålla kryptovalutan hos dem (och inte på en egen [plånbok](/marknaden/planbocker.html)), vilket alltid innebär en risk.
+**Risk:** Du måste lita på exchangen och att deras mynt inte tappar i värde. Du måste även hålla kryptovalutan hos dem (och inte på en egen [plånbok](/marknaden/planbocker.html)), vilket alltid innebär en risk.
 
 ## Mining / Brytning
 
