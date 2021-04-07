@@ -22,7 +22,7 @@ Hastigheten och sättet att validera gör tekniken utmärkt för mindre enheter,
 
 Skillnaden mellan blockkedjor, där varje transaktion ligger i ett block tillsammans med många andra transaktioner, som behandlas sekventiellt, är att i DAG-baserade projekt valideras transaktioner för sig, och kan göra så asynkront. Det vill säga, flera transaktioner kan valideras samtidigt.
 
-För att få sin transaktion validerad, krävs det att du validerar två andra, slumpvis utvalda transaktioner. Validering sker vanligtvis med ett litet [Proof of Work](/tekniker/proof-of-work). Den här metoden gör det ohållbart att missbruka nätverket, eftersom någon som spammar nätverket snarare hjälper till att validera snarare än stjälper. Det gör också att transaktionstiden faktiskt blir snabbare desto fler transaktioner som behandlas - alltså tvärtom mot blockkedjor.
+För att få sin transaktion validerad, krävs det att du validerar två andra, slumpvis utvalda transaktioner. Validering sker vanligtvis med ett litet [Proof of Work](/tekniker/proof-of-work.html). Den här metoden gör det ohållbart att missbruka nätverket, eftersom någon som spammar nätverket snarare hjälper till att validera snarare än stjälper. Det gör också att transaktionstiden faktiskt blir snabbare desto fler transaktioner som behandlas - alltså tvärtom mot blockkedjor.
 
 På grund av detta så finns det ingen plats för miners i DAG-baserade valutor. Det finns därför ingen som behöver få en belöning för utfört arbete, eftersom du utför arbetet själv när du skickar din transaktion. Därför är transaktionsavgiften helt gratis, vilket ger nya möjligheter för mikrotransaktioner.
 
