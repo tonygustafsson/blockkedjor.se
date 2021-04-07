@@ -5,7 +5,7 @@ description: Syftet med denna webbplats är att informera intresserade människo
 mainImage: img/blockkedjor.se.webp
 author: Tony Gustafsson
 created: 2019-07-22
-modified: 2020-08-03
+modified: 2021-04-07
 ---
 
 # Blockkedjor.se
@@ -19,3 +19,5 @@ Vi vill också att få en svensk synvinkel på marknaden och vad det faktiskt in
 Här finner du information om specifika valutor, tekniken bakom, om [exchanges](/marknaden/exchanges.html), om hur [skatter](/skatt.html) bör rapporteras. Du hittar även information om [terminologi](/terminologi.html) och hur du lättast får reda på mer information.
 
 Du kan även hitta denna webbplats och all information härunder på [GitHub](https://github.com/tonygustafsson/blockkedjor.se). Vill du, så får du gärna [donera](/donationer.html) en slant för att uppmuntra webbplatsens fortlevnad och utveckling.
+
+Det finns även en version av sidan på engelska kallad [Crypto Library](https://www.cryptolib.info).
