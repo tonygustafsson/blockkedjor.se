@@ -12,7 +12,7 @@ modified: 2019-07-28
 
 ![Stellar](/img/stellar.webp 'Stellar')
 
-Stellar skapades av Jed McCaleb år 2014. Jed var även grundaren till Mt. Gox - en av de allra största kryptohandlarna på sin tid. Han var även med och skapade upp [Ripple](/kryptovalutor/xrp.html), men valde att gå vidare och skapa sin egen ideella organisation och valuta.
+Stellar skapades av Jed McCaleb år 2014. Jed var även grundaren till Mt. Gox - en av de allra största exchanges på sin tid. Han var även med och skapade upp [Ripple](/kryptovalutor/xrp.html), men valde att gå vidare och skapa sin egen ideella organisation och valuta.
 
 Precis som Ripple kan nätverket användas för att skicka tillgångar snabbt över internationella gränser. Banker kan använda sig av nätverket, men till skillnad från Ripple så satsar man mer på utvecklande och fattigare länder, för att förenkla handel mellan organisationer i olika länder.
 

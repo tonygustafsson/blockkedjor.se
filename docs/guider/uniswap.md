@@ -1,7 +1,7 @@
 ---
 layout: default.hbs
 title: Hur du använder Uniswap
-description: Uniswap är en av de mest populära decentralicerade kryptohandlarna idag, men är inte alltid alldeles enkel att använda.
+description: Uniswap är en av de mest populära decentralicerade exchanges idag, men är inte alltid alldeles enkel att använda.
 mainImage: img/guides/uniswap/uniswap.webp
 author: Tony Gustafsson
 created: 2021-03-12
