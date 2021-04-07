@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Sociala nätverk
+title: Sociala nätverk för kryptovalutor
 description: Det kan vara ensamt i kryptosfären - här hittar du information om sociala nätverk som relaterar till kryptovalutor och blockkedjor.
 mainImage:
 author: Tony Gustafsson

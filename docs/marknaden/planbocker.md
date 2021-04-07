@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Plånböcker
+title: Plånböcker för kryptovalutor
 description: Kryptovalutor sparas i en plånbok (eller wallet), vilket är en applikation som skyddas med din privata nyckel, och ger dig möjlighet att skicka och ta emot valutan i fråga.
 mainImage: img/banano-wallet.webp
 author: Tony Gustafsson

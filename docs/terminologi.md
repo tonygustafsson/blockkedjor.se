@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Terminologi
+title: Terminologi för kryptovalutor och blockkedjor
 description: Det är lätt att bli förvirrad i kryptosfären. Här hittar du en lista med vanliga begrepp och deras betydelse.
 mainImage:
 author: Tony Gustafsson

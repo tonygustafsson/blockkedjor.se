@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Trading
+title: Trading, kryptohandel och att nå framgång
 description: Behandlar om skillnaderna mellan aktiehandel och kryptohandel, vad du bör tänka på och går även in på vanliga fallgropar för nybörjare.
 mainImage: img/mistake.webp
 author: Tony Gustafsson

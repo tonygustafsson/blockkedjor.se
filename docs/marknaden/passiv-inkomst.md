@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Passiv inkomst
+title: Passiv inkomst - tjäna krypto medan du sover
 description: Om hur du kan tjäna pengar på kryptosfären medan du sover. Genom att hålla mynt, staking, masternodes, belåning och mining.
 mainImage: img/passive-income.webp
 author: Tony Gustafsson

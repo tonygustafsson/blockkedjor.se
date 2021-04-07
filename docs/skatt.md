@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Skatt
+title: Så betalar du skatt för kryptovalutor
 description: Berättar om hur man egentligen hanterar skatt för kryptovalutor. Förpliktelser och möjligheter.
 mainImage: img/tax.webp
 author: Tony Gustafsson

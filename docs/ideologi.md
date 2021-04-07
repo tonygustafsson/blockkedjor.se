@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Ideologi
+title: Ideologin bakom blockkedjor och krypto
 description: Behandlar ideologin och tankarna bakom kryptovalutor och sfären som står bakom. Präglas främst av libertarianism, frihet och i viss mån anarki.
 mainImage: img/cencorship.webp
 author: Tony Gustafsson

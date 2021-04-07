@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Orakel
+title: Orakel, kryptotjänster som du kan lita på
 description: En tjänst som erbjuder utomstående data till smarta kontrakt och blockkedjor på ett tillförligt sätt.
 mainImage: img/oracles.webp
 author: Tony Gustafsson

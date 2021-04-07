@@ -1,6 +1,6 @@
 ---
 layout: default.hbs
-title: Blockkedjor
+title: Blockkedjor och tekniken bakom
 description: Om tekniken bakom blockkedjor. Hur de fungerar och vad de kan användas till, samt om de olika generationerna sedan 2009.
 mainImage: img/blockchain.webp
 author: Tony Gustafsson
