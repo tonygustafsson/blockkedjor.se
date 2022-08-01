@@ -26,7 +26,7 @@ Metalsmith(__dirname)
     .metadata({
         pageTitle: 'Blockkedjor.se',
         pageUrl: pageUrl,
-        googleAnalyticsId: 'UA-144587630-1',
+        googleAnalyticsId: 'G-PNEBVTL9KK',
         productionMode: productionMode
     })
     .source('./docs')
